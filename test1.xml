@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>conciertos</title>        
-<urlsolve>https://www.youtube.com/watch?v=0DFWZYUvA3k</urlsolve>
-<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
+<channels>
+
+<channels_info>
+  <title>[COLOR red]KodiSpainTV[/COLOR]</title>
+  <genre>TV</genre>
+  <description>Lista de canales de Televisión de España</description>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <credits>https://t.me/kodispain (joheos11)</credits>
+</channels_info>
+
+<channel>
+  <name>[COLOR red]                                       Actualizado:[/COLOR][COLOR yellow] NOVIEMBRE[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://archive.org/download/kodispain/kodispain.mp4</externallink>
+</channel>
+ 
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]CANALES DE ESPAÑA[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TODOS%20LOS%20CANALES.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]CANALES MUSICALES[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/MUSICALES.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]LISTAS WEBS (SPORTSDEVIL)[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/WEBS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/LISTASIPTV.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]DEPORTES[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart> 
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/DEPORTES.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]TRAILERS[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TRAILERS.xml</externallink>
+</channel>
+
+</channels>
