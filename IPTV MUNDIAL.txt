@@ -1,0 +1,1395 @@
+#EXTM3U
+#EXTINF:-1,UK | BBC One
+http://ghosttechuk.ddns.net:25461/live/1/1/734.ts
+#EXTINF:-1,UK | BBC One HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/733.ts
+#EXTINF:-1,UK | BBC One Scotland
+http://ghosttechuk.ddns.net:25461/live/1/1/9889.ts
+#EXTINF:-1,UK | BBC One FHD
+http://ghosttechuk.ddns.net:25461/live/1/1/15986.ts
+#EXTINF:-1,UK | BBC Two
+http://ghosttechuk.ddns.net:25461/live/1/1/730.ts
+#EXTINF:-1,UK | BBC Two HD
+http://ghosttechuk.ddns.net:25461/live/1/1/729.ts
+#EXTINF:-1,UK | ITV
+http://ghosttechuk.ddns.net:25461/live/1/1/18776.ts
+#EXTINF:-1,UK | ITV 1 SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/610.ts
+#EXTINF:-1,UK | ITV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/603.ts
+#EXTINF:-1,UK | ITV HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1174.ts
+#EXTINF:-1,UK | Channel 4
+http://ghosttechuk.ddns.net:25461/live/1/1/695.ts
+#EXTINF:-1,UK | Channel 4 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/694.ts
+#EXTINF:-1,UK | Channel 5
+http://ghosttechuk.ddns.net:25461/live/1/1/18767.ts
+#EXTINF:-1,UK | Channel 5 SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/692.ts
+#EXTINF:-1,UK | Channel 5 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/690.ts
+#EXTINF:-1,UK | Sky One
+http://ghosttechuk.ddns.net:25461/live/1/1/498.ts
+#EXTINF:-1,UK | Sky One SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18771.ts
+#EXTINF:-1,UK | Sky One HD
+http://ghosttechuk.ddns.net:25461/live/1/1/3769.ts
+#EXTINF:-1,UK | Sky One HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/9647.ts
+#EXTINF:-1,UK | Sky Two
+http://ghosttechuk.ddns.net:25461/live/1/1/496.ts
+#EXTINF:-1,UK | Sky Living
+http://ghosttechuk.ddns.net:25461/live/1/1/509.ts
+#EXTINF:-1,UK | Sky Living SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18775.ts
+#EXTINF:-1,UK | Sky Living HD
+http://ghosttechuk.ddns.net:25461/live/1/1/754.ts
+#EXTINF:-1,UK | Sky Atlantic
+http://ghosttechuk.ddns.net:25461/live/1/1/523.ts
+#EXTINF:-1,UK | Sky Atlantic HD
+http://ghosttechuk.ddns.net:25461/live/1/1/9281.ts
+#EXTINF:-1,UK | Sky Atlantic HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/12581.ts
+#EXTINF:-1,UK | Sky Atlantic [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16325.ts
+#EXTINF:-1,UK | Sky Arts
+http://ghosttechuk.ddns.net:25461/live/1/1/2720.ts
+#EXTINF:-1,UK | Dave
+http://ghosttechuk.ddns.net:25461/live/1/1/668.ts
+#EXTINF:-1,UK | Dave HD
+http://ghosttechuk.ddns.net:25461/live/1/1/757.ts
+#EXTINF:-1,UK | Comedy Central
+http://ghosttechuk.ddns.net:25461/live/1/1/674.ts
+#EXTINF:-1,UK | GOLD
+http://ghosttechuk.ddns.net:25461/live/1/1/628.ts
+#EXTINF:-1,UK | SYFY
+http://ghosttechuk.ddns.net:25461/live/1/1/488.ts
+#EXTINF:-1,UK | BBC Three HD
+http://ghosttechuk.ddns.net:25461/live/1/1/1139.ts
+#EXTINF:-1,UK | BBC Four
+http://ghosttechuk.ddns.net:25461/live/1/1/736.ts
+#EXTINF:-1,UK | BBC FOUR HD
+http://ghosttechuk.ddns.net:25461/live/1/1/906.ts
+#EXTINF:-1,UK | ITV 2
+http://ghosttechuk.ddns.net:25461/live/1/1/601.ts
+#EXTINF:-1,UK | ITV2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/600.ts
+#EXTINF:-1,UK | ITV 3
+http://ghosttechuk.ddns.net:25461/live/1/1/609.ts
+#EXTINF:-1,UK | ITV 4
+http://ghosttechuk.ddns.net:25461/live/1/1/17198.ts
+#EXTINF:-1,UK | ITV Encore
+http://ghosttechuk.ddns.net:25461/live/1/1/606.ts
+#EXTINF:-1,UK | ITV Encore HD
+http://ghosttechuk.ddns.net:25461/live/1/1/604.ts
+#EXTINF:-1,UK | ITVBe
+http://ghosttechuk.ddns.net:25461/live/1/1/595.ts
+#EXTINF:-1,UK | ITVbe HD
+http://ghosttechuk.ddns.net:25461/live/1/1/907.ts
+#EXTINF:-1,UK | Challenge
+http://ghosttechuk.ddns.net:25461/live/1/1/3730.ts
+#EXTINF:-1,UK | FOX
+http://ghosttechuk.ddns.net:25461/live/1/1/756.ts
+#EXTINF:-1,UK | MTV
+http://ghosttechuk.ddns.net:25461/live/1/1/574.ts
+#EXTINF:-1,UK | MTV SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18773.ts
+#EXTINF:-1,UK | Comedy Central Xtra
+http://ghosttechuk.ddns.net:25461/live/1/1/673.ts
+#EXTINF:-1,UK | Alibi
+http://ghosttechuk.ddns.net:25461/live/1/1/744.ts
+#EXTINF:-1,UK | Good Food SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/626.ts
+#EXTINF:-1,UK | E4
+http://ghosttechuk.ddns.net:25461/live/1/1/650.ts
+#EXTINF:-1,UK | 4seven
+http://ghosttechuk.ddns.net:25461/live/1/1/749.ts
+#EXTINF:-1,UK | CBS Reality
+http://ghosttechuk.ddns.net:25461/live/1/1/700.ts
+#EXTINF:-1,UK | CBS Action
+http://ghosttechuk.ddns.net:25461/live/1/1/702.ts
+#EXTINF:-1,UK | CBS Drama
+http://ghosttechuk.ddns.net:25461/live/1/1/701.ts
+#EXTINF:-1,UK | E!
+http://ghosttechuk.ddns.net:25461/live/1/1/652.ts
+#EXTINF:-1,UK | Drama
+http://ghosttechuk.ddns.net:25461/live/1/1/653.ts
+#EXTINF:-1,UK | Spike
+http://ghosttechuk.ddns.net:25461/live/1/1/492.ts
+#EXTINF:-1,UK | DMAX
+http://ghosttechuk.ddns.net:25461/live/1/1/1143.ts
+#EXTINF:-1,UK | 5 USA
+http://ghosttechuk.ddns.net:25461/live/1/1/748.ts
+#EXTINF:-1,UK | Discovery Home & Health
+http://ghosttechuk.ddns.net:25461/live/1/1/620.ts
+#EXTINF:-1,UK | Food Network
+http://ghosttechuk.ddns.net:25461/live/1/1/635.ts
+#EXTINF:-1,UK | Sky Cinema Premiere
+http://ghosttechuk.ddns.net:25461/live/1/1/512.ts
+#EXTINF:-1,UK | Sky Cinema Premiere SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18770.ts
+#EXTINF:-1,UK | Sky Cinema Premiere HD
+http://ghosttechuk.ddns.net:25461/live/1/1/768.ts
+#EXTINF:-1,UK | Sky Cinema Premiere FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18270.ts
+#EXTINF:-1,UK | Sky Cinema Premiere [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16321.ts
+#EXTINF:-1,UK | Sky Cinema Disney
+http://ghosttechuk.ddns.net:25461/live/1/1/1023.ts
+#EXTINF:-1,UK | Sky Cinema Disney HD
+http://ghosttechuk.ddns.net:25461/live/1/1/511.ts
+#EXTINF:-1,UK | Sky Cinema Disney [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16322.ts
+#EXTINF:-1,UK | Sky Cinema Family
+http://ghosttechuk.ddns.net:25461/live/1/1/516.ts
+#EXTINF:-1,UK | Sky Cinema Family HD
+http://ghosttechuk.ddns.net:25461/live/1/1/770.ts
+#EXTINF:-1,UK | Sky Cinema Family [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16317.ts
+#EXTINF:-1,UK | Sky Cinema Action
+http://ghosttechuk.ddns.net:25461/live/1/1/521.ts
+#EXTINF:-1,UK | Sky Cinema Action HD
+http://ghosttechuk.ddns.net:25461/live/1/1/769.ts
+#EXTINF:-1,UK | Sky Cinema Comedy
+http://ghosttechuk.ddns.net:25461/live/1/1/519.ts
+#EXTINF:-1,UK | Sky Cinema Comedy HD
+http://ghosttechuk.ddns.net:25461/live/1/1/772.ts
+#EXTINF:-1,UK | Sky Cinema Comedy FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18271.ts
+#EXTINF:-1,UK | Sky Cinema Comedy [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16318.ts
+#EXTINF:-1,UK | Sky Cinema Crime & Thriller
+http://ghosttechuk.ddns.net:25461/live/1/1/776.ts
+#EXTINF:-1,UK | Sky Cinema Crime & Thriller HD
+http://ghosttechuk.ddns.net:25461/live/1/1/2673.ts
+#EXTINF:-1,UK | Sky Cinema Crime & Thriller [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16324.ts
+#EXTINF:-1,UK | Sky Cinema Drama & Romance
+http://ghosttechuk.ddns.net:25461/live/1/1/915.ts
+#EXTINF:-1,UK | Sky Cinema Drama & Romance HD
+http://ghosttechuk.ddns.net:25461/live/1/1/775.ts
+#EXTINF:-1,UK | Sky Cinema Drama & Romance [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16323.ts
+#EXTINF:-1,UK | Sky Cinema Sci-Fi & Horror
+http://ghosttechuk.ddns.net:25461/live/1/1/1138.ts
+#EXTINF:-1,UK | Sky Cinema Sci-Fi & Horror HD
+http://ghosttechuk.ddns.net:25461/live/1/1/773.ts
+#EXTINF:-1,UK | Sky Cinema Sci-Fi & Horror [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16320.ts
+#EXTINF:-1,UK | Sky Cinema Modern Greats
+http://ghosttechuk.ddns.net:25461/live/1/1/21608.ts
+#EXTINF:-1,UK | Sky Cinema Modern Greats [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/21609.ts
+#EXTINF:-1,UK | Sky Cinema Select
+http://ghosttechuk.ddns.net:25461/live/1/1/510.ts
+#EXTINF:-1,UK | Sky Cinema Select HD
+http://ghosttechuk.ddns.net:25461/live/1/1/777.ts
+#EXTINF:-1,UK | Sky Cinema Select [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16319.ts
+#EXTINF:-1,UK | Sky Cinema Box Office 1
+http://ghosttechuk.ddns.net:25461/live/1/1/21604.ts
+#EXTINF:-1,UK | Sky Cinema Box Office 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21605.ts
+#EXTINF:-1,UK | Sky Cinema Box Office 3
+http://ghosttechuk.ddns.net:25461/live/1/1/21606.ts
+#EXTINF:-1,UK | Sky Cinema Box Office 4
+http://ghosttechuk.ddns.net:25461/live/1/1/21607.ts
+#EXTINF:-1,UK | FILM 4
+http://ghosttechuk.ddns.net:25461/live/1/1/9892.ts
+#EXTINF:-1,UK | TCM
+http://ghosttechuk.ddns.net:25461/live/1/1/9890.ts
+#EXTINF:-1,UK | True Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/9891.ts
+#EXTINF:-1,UK | Movies 4 Men
+http://ghosttechuk.ddns.net:25461/live/1/1/575.ts
+#EXTINF:-1,UK | MTV Music
+http://ghosttechuk.ddns.net:25461/live/1/1/568.ts
+#EXTINF:-1,UK | MTV BASE
+http://ghosttechuk.ddns.net:25461/live/1/1/572.ts
+#EXTINF:-1,UK | MTV HITS
+http://ghosttechuk.ddns.net:25461/live/1/1/569.ts
+#EXTINF:-1,UK | MTV DANCE
+http://ghosttechuk.ddns.net:25461/live/1/1/570.ts
+#EXTINF:-1,UK | MTV ROCKS
+http://ghosttechuk.ddns.net:25461/live/1/1/566.ts
+#EXTINF:-1,UK | MTV CLASSIC
+http://ghosttechuk.ddns.net:25461/live/1/1/571.ts
+#EXTINF:-1,UK | Heart TV UK
+http://ghosttechuk.ddns.net:25461/live/1/1/1144.ts
+#EXTINF:-1,UK | 4MUSIC
+http://ghosttechuk.ddns.net:25461/live/1/1/9880.ts
+#EXTINF:-1,UK | CHART SHOW TV
+http://ghosttechuk.ddns.net:25461/live/1/1/9882.ts
+#EXTINF:-1,UK | VH1
+http://ghosttechuk.ddns.net:25461/live/1/1/9883.ts
+#EXTINF:-1,UK | VIVA THE HITS
+http://ghosttechuk.ddns.net:25461/live/1/1/9887.ts
+#EXTINF:-1,UK | Sky Sports News HQ
+http://ghosttechuk.ddns.net:25461/live/1/1/499.ts
+#EXTINF:-1,UK | Sky Sports News HQ SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18768.ts
+#EXTINF:-1,UK | Sky Sports News HQ HD
+http://ghosttechuk.ddns.net:25461/live/1/1/783.ts
+#EXTINF:-1,UK | Sky Sports News HQ HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1218.ts
+#EXTINF:-1,UK | Sky Sports Mix HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/500.ts
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://ghosttechuk.ddns.net:25461/live/1/1/17505.ts
+#EXTINF:-1,UK | Sky Sports Mix FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18275.ts
+#EXTINF:-1,UK | Sky Sports Main Event
+http://ghosttechuk.ddns.net:25461/live/1/1/506.ts
+#EXTINF:-1,UK | Sky Sports Main Event SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18769.ts
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://ghosttechuk.ddns.net:25461/live/1/1/916.ts
+#EXTINF:-1,UK | Sky Sports Main Event HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1213.ts
+#EXTINF:-1,UK | Sky Sports Main Event FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/17638.ts
+#EXTINF:-1,UK | Sky Sports Arena HD
+http://ghosttechuk.ddns.net:25461/live/1/1/16849.ts
+#EXTINF:-1,UK | Sky Sports Arena HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/17291.ts
+#EXTINF:-1,UK | Sky Sports Arena FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18269.ts
+#EXTINF:-1,UK | Sky Sports Football HD
+http://ghosttechuk.ddns.net:25461/live/1/1/17290.ts
+#EXTINF:-1,UK | Sky Sports Football HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/16850.ts
+#EXTINF:-1,UK | Sky Sports Football FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/17637.ts
+#EXTINF:-1,UK | Sky Sport Cricket
+http://ghosttechuk.ddns.net:25461/live/1/1/505.ts
+#EXTINF:-1,UK | Sky Sports Cricket HD
+http://ghosttechuk.ddns.net:25461/live/1/1/785.ts
+#EXTINF:-1,UK | Sky Sports Cricket HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1214.ts
+#EXTINF:-1,UK | BT Sports 1 FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/17636.ts
+#EXTINF:-1,UK | Sky Sports Action
+http://ghosttechuk.ddns.net:25461/live/1/1/504.ts
+#EXTINF:-1,UK | Sky Sports Action HD
+http://ghosttechuk.ddns.net:25461/live/1/1/801.ts
+#EXTINF:-1,UK | Sky Sports Action HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1215.ts
+#EXTINF:-1,UK | Sky Sports Action FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18268.ts
+#EXTINF:-1,UK | Sky Sports Golf
+http://ghosttechuk.ddns.net:25461/live/1/1/503.ts
+#EXTINF:-1,UK | Sky Sports Golf HD
+http://ghosttechuk.ddns.net:25461/live/1/1/787.ts
+#EXTINF:-1,UK | Sky Sports Golf HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1216.ts
+#EXTINF:-1,UK | Sky Sports Premier League
+http://ghosttechuk.ddns.net:25461/live/1/1/502.ts
+#EXTINF:-1,UK | Sky Sports Premier League HD
+http://ghosttechuk.ddns.net:25461/live/1/1/788.ts
+#EXTINF:-1,UK | Sky Sports Premier League HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1217.ts
+#EXTINF:-1,UK | Sky Sports Premier League FHD
+http://ghosttechuk.ddns.net:25461/live/1/1/19279.ts
+#EXTINF:-1,UK | Sky Sports F1
+http://ghosttechuk.ddns.net:25461/live/1/1/501.ts
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/789.ts
+#EXTINF:-1,UK | Sky Sports F1 HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/3746.ts
+#EXTINF:-1,UK | Sky Sports F1 FHD*
+http://ghosttechuk.ddns.net:25461/live/1/1/17639.ts
+#EXTINF:-1,UK | BT Sport 1
+http://ghosttechuk.ddns.net:25461/live/1/1/718.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/790.ts
+#EXTINF:-1,UK | BT Sport 1 HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1220.ts
+#EXTINF:-1,UK | BT Sport 2
+http://ghosttechuk.ddns.net:25461/live/1/1/717.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/791.ts
+#EXTINF:-1,UK | BT Sport 2 HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1211.ts
+#EXTINF:-1,UK | BT Sport 3
+http://ghosttechuk.ddns.net:25461/live/1/1/716.ts
+#EXTINF:-1,UK | BT Sport 3 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/792.ts
+#EXTINF:-1,UK | BT Sport 3 HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/1222.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://ghosttechuk.ddns.net:25461/live/1/1/708.ts
+#EXTINF:-1,UK | BT Sport ESPN HD
+http://ghosttechuk.ddns.net:25461/live/1/1/793.ts
+#EXTINF:-1,UK | British Eurosport 1
+http://ghosttechuk.ddns.net:25461/live/1/1/642.ts
+#EXTINF:-1,UK | British Eurosport 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/795.ts
+#EXTINF:-1,UK | British Eurosport 2
+http://ghosttechuk.ddns.net:25461/live/1/1/641.ts
+#EXTINF:-1,UK | British Eurosport 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/794.ts
+#EXTINF:-1,UK | BoxNation HD
+http://ghosttechuk.ddns.net:25461/live/1/1/8041.ts
+#EXTINF:-1,UK | Setanta Sports HD
+http://ghosttechuk.ddns.net:25461/live/1/1/7586.ts
+#EXTINF:-1,UK | MUTV
+http://ghosttechuk.ddns.net:25461/live/1/1/564.ts
+#EXTINF:-1,UK | Chelsea TV
+http://ghosttechuk.ddns.net:25461/live/1/1/683.ts
+#EXTINF:-1,IRE | eir Sport 1
+http://ghosttechuk.ddns.net:25461/live/1/1/646.ts
+#EXTINF:-1,IRE | eir Sport 2
+http://ghosttechuk.ddns.net:25461/live/1/1/645.ts
+#EXTINF:-1,UK | LFCTV
+http://ghosttechuk.ddns.net:25461/live/1/1/589.ts
+#EXTINF:-1,SPFL | Celtic TV [LIVE DURING SPL]
+http://ghosttechuk.ddns.net:25461/live/1/1/9372.ts
+#EXTINF:-1,SPFL | Rangers TV  [LIVE DURING SPL]
+http://ghosttechuk.ddns.net:25461/live/1/1/9373.ts
+#EXTINF:-1,UK | At The Races
+http://ghosttechuk.ddns.net:25461/live/1/1/739.ts
+#EXTINF:-1,UK | Racing UK
+http://ghosttechuk.ddns.net:25461/live/1/1/540.ts
+#EXTINF:-1,UK | BoxNation
+http://ghosttechuk.ddns.net:25461/live/1/1/954.ts
+#EXTINF:-1,UK | MOTORS TV UK
+http://ghosttechuk.ddns.net:25461/live/1/1/578.ts
+#EXTINF:-1,UK | Premier Sports
+http://ghosttechuk.ddns.net:25461/live/1/1/544.ts
+#EXTINF:-1,UK | Premier Sports HD
+http://ghosttechuk.ddns.net:25461/live/1/1/543.ts
+#EXTINF:-1,UK | Sky News
+http://ghosttechuk.ddns.net:25461/live/1/1/507.ts
+#EXTINF:-1,UK | Sky News HD
+http://ghosttechuk.ddns.net:25461/live/1/1/9888.ts
+#EXTINF:-1,UK | BBC News
+http://ghosttechuk.ddns.net:25461/live/1/1/735.ts
+#EXTINF:-1,UK | CNN HD
+http://ghosttechuk.ddns.net:25461/live/1/1/676.ts
+#EXTINF:-1,UK | EURONEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/643.ts
+#EXTINF:-1,UK | FOX News
+http://ghosttechuk.ddns.net:25461/live/1/1/632.ts
+#EXTINF:-1,UK | Discovery Channel
+http://ghosttechuk.ddns.net:25461/live/1/1/664.ts
+#EXTINF:-1,UK | Animal Planet
+http://ghosttechuk.ddns.net:25461/live/1/1/741.ts
+#EXTINF:-1,UK | Animal Planet HD
+http://ghosttechuk.ddns.net:25461/live/1/1/8004.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://ghosttechuk.ddns.net:25461/live/1/1/660.ts
+#EXTINF:-1,UK | Discovery Science
+http://ghosttechuk.ddns.net:25461/live/1/1/662.ts
+#EXTINF:-1,UK | Discovery Shed
+http://ghosttechuk.ddns.net:25461/live/1/1/661.ts
+#EXTINF:-1,UK | National Geographic
+http://ghosttechuk.ddns.net:25461/live/1/1/562.ts
+#EXTINF:-1,UK | National Geographic Wild
+http://ghosttechuk.ddns.net:25461/live/1/1/561.ts
+#EXTINF:-1,UK | History
+http://ghosttechuk.ddns.net:25461/live/1/1/623.ts
+#EXTINF:-1,UK | Discovery History
+http://ghosttechuk.ddns.net:25461/live/1/1/663.ts
+#EXTINF:-1,UK | H2
+http://ghosttechuk.ddns.net:25461/live/1/1/624.ts
+#EXTINF:-1,UK | W
+http://ghosttechuk.ddns.net:25461/live/1/1/13754.ts
+#EXTINF:-1,UK | YESTERDAY
+http://ghosttechuk.ddns.net:25461/live/1/1/456.ts
+#EXTINF:-1,UK | Crime & Investigation
+http://ghosttechuk.ddns.net:25461/live/1/1/671.ts
+#EXTINF:-1,IRE | 3e
+http://ghosttechuk.ddns.net:25461/live/1/1/751.ts
+#EXTINF:-1,UK | ID (Investigation Discovery)
+http://ghosttechuk.ddns.net:25461/live/1/1/13755.ts
+#EXTINF:-1,UK | Boomerang
+http://ghosttechuk.ddns.net:25461/live/1/1/723.ts
+#EXTINF:-1,UK | Cartoon Netwrk
+http://ghosttechuk.ddns.net:25461/live/1/1/706.ts
+#EXTINF:-1,UK | Nickelodeon
+http://ghosttechuk.ddns.net:25461/live/1/1/555.ts
+#EXTINF:-1,UK | Nicktoons
+http://ghosttechuk.ddns.net:25461/live/1/1/553.ts
+#EXTINF:-1,UK | Disney XD
+http://ghosttechuk.ddns.net:25461/live/1/1/655.ts
+#EXTINF:-1,UK | Disney Channel
+http://ghosttechuk.ddns.net:25461/live/1/1/658.ts
+#EXTINF:-1,UK | Disney Channel SD*
+http://ghosttechuk.ddns.net:25461/live/1/1/18774.ts
+#EXTINF:-1,UK | Disney Junior
+http://ghosttechuk.ddns.net:25461/live/1/1/656.ts
+#EXTINF:-1,UK | CBBC HD
+http://ghosttechuk.ddns.net:25461/live/1/1/704.ts
+#EXTINF:-1,UK | CBeebies
+http://ghosttechuk.ddns.net:25461/live/1/1/703.ts
+#EXTINF:-1,UK | Nick Jr.
+http://ghosttechuk.ddns.net:25461/live/1/1/556.ts
+#EXTINF:-1,UK | Tiny Pop
+http://ghosttechuk.ddns.net:25461/live/1/1/481.ts
+#EXTINF:-1,UK | Cartoonito
+http://ghosttechuk.ddns.net:25461/live/1/1/705.ts
+#EXTINF:-1,UK | Nick Jr Too
+http://ghosttechuk.ddns.net:25461/live/1/1/558.ts
+#EXTINF:-1,UK | CITV
+http://ghosttechuk.ddns.net:25461/live/1/1/680.ts
+#EXTINF:-1,UK | Baby TV
+http://ghosttechuk.ddns.net:25461/live/1/1/738.ts
+#EXTINF:-1,UK | Baby TV [2]
+http://ghosttechuk.ddns.net:25461/live/1/1/9611.ts
+#EXTINF:-1,UK | Eden
+http://ghosttechuk.ddns.net:25461/live/1/1/2690.ts
+#EXTINF:-1,IRE | RTE One
+http://ghosttechuk.ddns.net:25461/live/1/1/3743.ts
+#EXTINF:-1,IRE | RTE Two HD
+http://ghosttechuk.ddns.net:25461/live/1/1/3744.ts
+#EXTINF:-1,IRE | RTEjr
+http://ghosttechuk.ddns.net:25461/live/1/1/9341.ts
+#EXTINF:-1,IRE | RTE News NOW
+http://ghosttechuk.ddns.net:25461/live/1/1/3745.ts
+#EXTINF:-1,IRE | TG4
+http://ghosttechuk.ddns.net:25461/live/1/1/7647.ts
+#EXTINF:-1,IRE | TV3
+http://ghosttechuk.ddns.net:25461/live/1/1/7646.ts
+#EXTINF:-1,IRE | UTV
+http://ghosttechuk.ddns.net:25461/live/1/1/7645.ts
+#EXTINF:-1,IRE | UTV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/7644.ts
+#EXTINF:-1,IRE | UTV IE
+http://ghosttechuk.ddns.net:25461/live/1/1/7643.ts
+#EXTINF:-1,IRE | RTE One HD
+http://ghosttechuk.ddns.net:25461/live/1/1/16471.ts
+#EXTINF:-1,UK | Sky Living HD [backup]
+http://ghosttechuk.ddns.net:25461/live/1/1/16463.ts
+#EXTINF:-1,UK | MUTV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/17642.ts
+#EXTINF:-1,UK | Universal
+http://ghosttechuk.ddns.net:25461/live/1/1/15812.ts
+#EXTINF:-1,UK | Nollywood
+http://ghosttechuk.ddns.net:25461/live/1/1/18458.ts
+#EXTINF:-1,IRE | RTE Two SD
+http://ghosttechuk.ddns.net:25461/live/1/1/9342.ts
+#EXTINF:-1,24/7 | American Dad
+http://ghosttechuk.ddns.net:25461/live/1/1/21586.ts
+#EXTINF:-1,24/7 | Bubble Guppies
+http://ghosttechuk.ddns.net:25461/live/1/1/21598.ts
+#EXTINF:-1,24/7 | Stand Up Comedy
+http://ghosttechuk.ddns.net:25461/live/1/1/21592.ts
+#EXTINF:-1,24/7 | Spongebob Squarepants
+http://ghosttechuk.ddns.net:25461/live/1/1/21599.ts
+#EXTINF:-1,24/7 | GoldRush
+http://ghosttechuk.ddns.net:25461/live/1/1/22062.ts
+#EXTINF:-1,24/7 | Peppa Pig
+http://ghosttechuk.ddns.net:25461/live/1/1/21584.ts
+#EXTINF:-1,24/7 | Paw Patrol
+http://ghosttechuk.ddns.net:25461/live/1/1/21591.ts
+#EXTINF:-1,24/7 | Only Fools and Horses
+http://ghosttechuk.ddns.net:25461/live/1/1/21588.ts
+#EXTINF:-1,24/7 | Comedy Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/21594.ts
+#EXTINF:-1,24/7 | Max and Paddy
+http://ghosttechuk.ddns.net:25461/live/1/1/22020.ts
+#EXTINF:-1,24/7 | Rick and Morty
+http://ghosttechuk.ddns.net:25461/live/1/1/22019.ts
+#EXTINF:-1,24/7 | Star Trek
+http://ghosttechuk.ddns.net:25461/live/1/1/21595.ts
+#EXTINF:-1,24/7 | Marvel Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/21596.ts
+#EXTINF:-1,24/7 | Latest Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/21597.ts
+#EXTINF:-1,24/7 | Kids Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/21603.ts
+#EXTINF:-1,24/7 | James Bond
+http://ghosttechuk.ddns.net:25461/live/1/1/21593.ts
+#EXTINF:-1,24/7 | Futurama
+http://ghosttechuk.ddns.net:25461/live/1/1/21587.ts
+#EXTINF:-1,24/7 | Family Guy
+http://ghosttechuk.ddns.net:25461/live/1/1/21590.ts
+#EXTINF:-1,24/7 | Cartoon Mega Mix
+http://ghosttechuk.ddns.net:25461/live/1/1/21585.ts
+#EXTINF:-1,24/7 | Mr Bean
+http://ghosttechuk.ddns.net:25461/live/1/1/21601.ts
+#EXTINF:-1,24/7 | The Simpsons
+http://ghosttechuk.ddns.net:25461/live/1/1/21589.ts
+#EXTINF:-1,24/7 | Mickey Mouse Clubhouse
+http://ghosttechuk.ddns.net:25461/live/1/1/21602.ts
+#EXTINF:-1,24/7 | Indian Classic Movie Collection
+http://ghosttechuk.ddns.net:25461/live/1/1/22021.ts
+#EXTINF:-1,24/7 | The Quran Channel
+http://ghosttechuk.ddns.net:25461/live/1/1/22018.ts
+#EXTINF:-1,MUSIC CHOICE ALTERNATIVE
+http://ghosttechuk.ddns.net:25461/live/1/1/21671.ts
+#EXTINF:-1,MUSIC CHOICE BRIT HITS
+http://ghosttechuk.ddns.net:25461/live/1/1/21670.ts
+#EXTINF:-1,MUSIC CHOICE DANCE EDM
+http://ghosttechuk.ddns.net:25461/live/1/1/21669.ts
+#EXTINF:-1,MUSIC CHOICE HIP HOP & R & B
+http://ghosttechuk.ddns.net:25461/live/1/1/21668.ts
+#EXTINF:-1,MUSIC CHOICE HIT LIST
+http://ghosttechuk.ddns.net:25461/live/1/1/21667.ts
+#EXTINF:-1,MUSIC CHOICE INDIE
+http://ghosttechuk.ddns.net:25461/live/1/1/21666.ts
+#EXTINF:-1,MUSIC CHOICE KIDS ONLY
+http://ghosttechuk.ddns.net:25461/live/1/1/21665.ts
+#EXTINF:-1,MUSIC CHOICE LATINO POP
+http://ghosttechuk.ddns.net:25461/live/1/1/21664.ts
+#EXTINF:-1,MUSIC CHOICE MEXICAAN
+http://ghosttechuk.ddns.net:25461/live/1/1/21663.ts
+#EXTINF:-1,MUSIC CHOICE POP & COUNTRY
+http://ghosttechuk.ddns.net:25461/live/1/1/21662.ts
+#EXTINF:-1,MUSIC CHOICE POP HITS
+http://ghosttechuk.ddns.net:25461/live/1/1/21661.ts
+#EXTINF:-1,MUSIC CHOICE R&B SOUL
+http://ghosttechuk.ddns.net:25461/live/1/1/21660.ts
+#EXTINF:-1,MUSIC CHOICE RAP
+http://ghosttechuk.ddns.net:25461/live/1/1/21659.ts
+#EXTINF:-1,MUSIC CHOICE RAP 2K
+http://ghosttechuk.ddns.net:25461/live/1/1/21658.ts
+#EXTINF:-1,MUSIC CHOICE ROCK
+http://ghosttechuk.ddns.net:25461/live/1/1/21657.ts
+#EXTINF:-1,MUSIC CHOICE THROWBACK JAMZ
+http://ghosttechuk.ddns.net:25461/live/1/1/21656.ts
+#EXTINF:-1,MUSIC CHOICE TODAYS COUNTRY
+http://ghosttechuk.ddns.net:25461/live/1/1/21655.ts
+#EXTINF:-1,MUSIC CHOICE TODDLER TUNES
+http://ghosttechuk.ddns.net:25461/live/1/1/21654.ts
+#EXTINF:-1,MUSIC CHOICE TROPICALES
+http://ghosttechuk.ddns.net:25461/live/1/1/21653.ts
+#EXTINF:-1,MUSIC CHOICE Y2K
+http://ghosttechuk.ddns.net:25461/live/1/1/21652.ts
+#EXTINF:-1,MUSIC CHOICETEEN BEATS
+http://ghosttechuk.ddns.net:25461/live/1/1/21651.ts
+#EXTINF:-1,SAT-BOURNEMOUTH VS HUDDERSFIELD TOWN 3PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22078.ts
+#EXTINF:-1,SAT-BURNLEY VS SWANSEA 3PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22077.ts
+#EXTINF:-1,SAT-CRYSTAL PALACE VS EVERTON 3PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22076.ts
+#EXTINF:-1,SAT-FULHAM VS DERBY 5:30PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22075.ts
+#EXTINF:-1,SAT-LEICESTER CITY VS MANCHESTER CITY 3PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22074.ts
+#EXTINF:-1,SAT-LIVERPOOLVS SOUTHAMPTON 3PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22073.ts
+#EXTINF:-1,SAT-MANCHESTER UNITED VS NEWCASTLE UNITED 5:30PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22072.ts
+#EXTINF:-1,SAT-ROSS COUNTY VS CELTIC 12:30PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22071.ts
+#EXTINF:-1,SAT-WBA VS CHELSEA 3PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22070.ts
+#EXTINF:-1,SUN-LEEDS VS MIDDLEBROUGH 1:15PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22069.ts
+#EXTINF:-1,SUN-WATFORD VS WEST HAM UNITED 4PM
+http://ghosttechuk.ddns.net:25461/live/1/1/22068.ts
+#EXTINF:-1,VIP | Arena Sport 1 [Croatian]
+http://ghosttechuk.ddns.net:25461/live/1/1/870.ts
+#EXTINF:-1,VIP | Arena Sport 1 [Serbian]
+http://ghosttechuk.ddns.net:25461/live/1/1/869.ts
+#EXTINF:-1,VIP | Arena Sport 2 [Croatian]
+http://ghosttechuk.ddns.net:25461/live/1/1/872.ts
+#EXTINF:-1,VIP | Arena Sport 2 [Serbian]
+http://ghosttechuk.ddns.net:25461/live/1/1/871.ts
+#EXTINF:-1,VIP | Arena Sport 3 [Serbian]
+http://ghosttechuk.ddns.net:25461/live/1/1/19953.ts
+#EXTINF:-1,VIP | Arena Sport 3 [Croatian]
+http://ghosttechuk.ddns.net:25461/live/1/1/19954.ts
+#EXTINF:-1,VIP | Arena Sport 4 [Croatian]
+http://ghosttechuk.ddns.net:25461/live/1/1/19956.ts
+#EXTINF:-1,VIP | Arena Sport 4 [Serbian]
+http://ghosttechuk.ddns.net:25461/live/1/1/19955.ts
+#EXTINF:-1,VIP | Arena Sport 5 [Croatian]
+http://ghosttechuk.ddns.net:25461/live/1/1/20042.ts
+#EXTINF:-1,VIP | Arena Sport 5 [Serbian]
+http://ghosttechuk.ddns.net:25461/live/1/1/20041.ts
+#EXTINF:-1,VIP | BEIN SPORTS 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19687.ts
+#EXTINF:-1,VIP | BEIN SPORTS 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19686.ts
+#EXTINF:-1,VIP | BEIN SPORTS 3 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19685.ts
+#EXTINF:-1,VIP | BEIN SPORTS 4 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19684.ts
+#EXTINF:-1,VIP | BEIN SPORTS 5 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19683.ts
+#EXTINF:-1,VIP | BEIN SPORTS 6 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19682.ts
+#EXTINF:-1,VIP | BEIN SPORTS 7 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19681.ts
+#EXTINF:-1,VIP | BEIN SPORTS 8 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19680.ts
+#EXTINF:-1,VIP | BEIN SPORTS 9 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19679.ts
+#EXTINF:-1,VIP | BEIN SPORTS 10 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19678.ts
+#EXTINF:-1,VIP | BEIN SPORTS 11 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19677.ts
+#EXTINF:-1,VIP | BEIN SPORTS 12 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19676.ts
+#EXTINF:-1,VIP | Canal Sport (FR)
+http://ghosttechuk.ddns.net:25461/live/1/1/19362.ts
+#EXTINF:-1,VIP | Fox Sport 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/824.ts
+#EXTINF:-1,VIP | Fox Sports 2
+http://ghosttechuk.ddns.net:25461/live/1/1/825.ts
+#EXTINF:-1,VIP | Fox Sport 1 HD NL
+http://ghosttechuk.ddns.net:25461/live/1/1/830.ts
+#EXTINF:-1,Fox Sport 2 HD NL
+http://ghosttechuk.ddns.net:25461/live/1/1/831.ts
+#EXTINF:-1,VIP | Fox Sport 3 HD NL
+http://ghosttechuk.ddns.net:25461/live/1/1/832.ts
+#EXTINF:-1,VIP | Fox Sport 4 HD NL
+http://ghosttechuk.ddns.net:25461/live/1/1/833.ts
+#EXTINF:-1,VIP | Fox Sport 5 HD NL
+http://ghosttechuk.ddns.net:25461/live/1/1/828.ts
+#EXTINF:-1,VIP | Fox Sport 6 HD NL
+http://ghosttechuk.ddns.net:25461/live/1/1/827.ts
+#EXTINF:-1,VIP | Fox Sport 1 Eredivisie
+http://ghosttechuk.ddns.net:25461/live/1/1/17844.ts
+#EXTINF:-1,VIP | Fox Sport 2 MALA
+http://ghosttechuk.ddns.net:25461/live/1/1/17845.ts
+#EXTINF:-1,VIP | Fox Sport 3 MALA
+http://ghosttechuk.ddns.net:25461/live/1/1/17846.ts
+#EXTINF:-1,VIP | FOX SPORTS SUN HD
+http://ghosttechuk.ddns.net:25461/live/1/1/10012.ts
+#EXTINF:-1,VIP | Moto GP: Live 1
+http://ghosttechuk.ddns.net:25461/live/1/1/1145.ts
+#EXTINF:-1,VIP | Moto GP: Live 2
+http://ghosttechuk.ddns.net:25461/live/1/1/1146.ts
+#EXTINF:-1,VIP | Moto GP: Live 3
+http://ghosttechuk.ddns.net:25461/live/1/1/1147.ts
+#EXTINF:-1,VIP | NBA TV
+http://ghosttechuk.ddns.net:25461/live/1/1/861.ts
+#EXTINF:-1,NBC Goal Rush
+http://ghosttechuk.ddns.net:25461/live/1/1/6470.ts
+#EXTINF:-1,VIP | Nova Sports HD
+http://ghosttechuk.ddns.net:25461/live/1/1/17934.ts
+#EXTINF:-1,VIP | NHL Network HD
+http://ghosttechuk.ddns.net:25461/live/1/1/860.ts
+#EXTINF:-1,VIP | OSN Sports 1
+http://ghosttechuk.ddns.net:25461/live/1/1/806.ts
+#EXTINF:-1,VIP | OSN Sports 2
+http://ghosttechuk.ddns.net:25461/live/1/1/807.ts
+#EXTINF:-1,VIP | OSN Sports 3
+http://ghosttechuk.ddns.net:25461/live/1/1/808.ts
+#EXTINF:-1,VIP | OSN Sports 4
+http://ghosttechuk.ddns.net:25461/live/1/1/809.ts
+#EXTINF:-1,VIP | SFR Sport 1
+http://ghosttechuk.ddns.net:25461/live/1/1/2525.ts
+#EXTINF:-1,VIP | SFR Sport 2
+http://ghosttechuk.ddns.net:25461/live/1/1/2526.ts
+#EXTINF:-1,VIP | SFR Sport 3
+http://ghosttechuk.ddns.net:25461/live/1/1/2527.ts
+#EXTINF:-1,VIP | SKYNET Sports 1
+http://ghosttechuk.ddns.net:25461/live/1/1/1342.ts
+#EXTINF:-1,VIP | SKYNET Sports 2
+http://ghosttechuk.ddns.net:25461/live/1/1/1343.ts
+#EXTINF:-1,VIP | SKYNET Sports 3
+http://ghosttechuk.ddns.net:25461/live/1/1/1344.ts
+#EXTINF:-1,VIP | SKYNET Sports 4
+http://ghosttechuk.ddns.net:25461/live/1/1/1345.ts
+#EXTINF:-1,VIP | SKYNET Sports 5
+http://ghosttechuk.ddns.net:25461/live/1/1/1346.ts
+#EXTINF:-1,VIP | SKYNET Sports 6
+http://ghosttechuk.ddns.net:25461/live/1/1/1347.ts
+#EXTINF:-1,VIP | Sky Sports 1 (ITA)
+http://ghosttechuk.ddns.net:25461/live/1/1/19466.ts
+#EXTINF:-1,VIP | Sky Sports 2 (ITA)
+http://ghosttechuk.ddns.net:25461/live/1/1/19467.ts
+#EXTINF:-1,VIP | Sky Sports 3 (ITA)
+http://ghosttechuk.ddns.net:25461/live/1/1/19365.ts
+#EXTINF:-1,VIP | Star Sports 1
+http://ghosttechuk.ddns.net:25461/live/1/1/802.ts
+#EXTINF:-1,VIP | Star Sports 2
+http://ghosttechuk.ddns.net:25461/live/1/1/803.ts
+#EXTINF:-1,VIP | Star Sports 3
+http://ghosttechuk.ddns.net:25461/live/1/1/804.ts
+#EXTINF:-1,VIP | Star Sports 4
+http://ghosttechuk.ddns.net:25461/live/1/1/805.ts
+#EXTINF:-1,VIP | Sport Plus HD
+http://ghosttechuk.ddns.net:25461/live/1/1/17935.ts
+#EXTINF:-1,VIP | SportsNet 360 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/857.ts
+#EXTINF:-1,VIP | SportsNet One HD
+http://ghosttechuk.ddns.net:25461/live/1/1/856.ts
+#EXTINF:-1,VIP | SportsNet World HD
+http://ghosttechuk.ddns.net:25461/live/1/1/854.ts
+#EXTINF:-1,VIP | SportsNet West HD
+http://ghosttechuk.ddns.net:25461/live/1/1/853.ts
+#EXTINF:-1,VIP | SportsNet East HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/4461.ts
+#EXTINF:-1,VIP | SportsNet One HD*
+http://ghosttechuk.ddns.net:25461/live/1/1/4460.ts
+#EXTINF:-1,VIP | SportsNet Ontario
+http://ghosttechuk.ddns.net:25461/live/1/1/4465.ts
+#EXTINF:-1,VIP | SportsNet Pacific HD
+http://ghosttechuk.ddns.net:25461/live/1/1/4464.ts
+#EXTINF:-1,VIP | SportsNet World
+http://ghosttechuk.ddns.net:25461/live/1/1/4462.ts
+#EXTINF:-1,VIP | SportKlub 1
+http://ghosttechuk.ddns.net:25461/live/1/1/21672.ts
+#EXTINF:-1,VIP | SportKlub 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21673.ts
+#EXTINF:-1,VIP | SportKlub 3
+http://ghosttechuk.ddns.net:25461/live/1/1/21674.ts
+#EXTINF:-1,VIP | SportKlub 4
+http://ghosttechuk.ddns.net:25461/live/1/1/21675.ts
+#EXTINF:-1,VIP | SportKlub 5
+http://ghosttechuk.ddns.net:25461/live/1/1/21676.ts
+#EXTINF:-1,Sport TV 1
+http://ghosttechuk.ddns.net:25461/live/1/1/4450.ts
+#EXTINF:-1,Sport TV 2
+http://ghosttechuk.ddns.net:25461/live/1/1/4455.ts
+#EXTINF:-1,Sport TV 3
+http://ghosttechuk.ddns.net:25461/live/1/1/4456.ts
+#EXTINF:-1,Sport TV 4
+http://ghosttechuk.ddns.net:25461/live/1/1/4457.ts
+#EXTINF:-1,Sport TV 5
+http://ghosttechuk.ddns.net:25461/live/1/1/4458.ts
+#EXTINF:-1,VIP | TSN 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/868.ts
+#EXTINF:-1,VIP | TSN 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/867.ts
+#EXTINF:-1,VIP | TSN 3 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/866.ts
+#EXTINF:-1,VIP | TSN 4 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/865.ts
+#EXTINF:-1,VIP | TSN 5 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/864.ts
+#EXTINF:-1,VIP | TV 1
+http://ghosttechuk.ddns.net:25461/live/1/1/19363.ts
+#EXTINF:-1,VIP | TV 2
+http://ghosttechuk.ddns.net:25461/live/1/1/19364.ts
+#EXTINF:-1,VIP | WWE Network HD
+http://ghosttechuk.ddns.net:25461/live/1/1/862.ts
+#EXTINF:-1,SKY SPORTS BOX OFFICE
+http://ghosttechuk.ddns.net:25461/live/1/1/7535.ts
+#EXTINF:-1,ITV Box Office PPV (PPV Only)
+http://ghosttechuk.ddns.net:25461/live/1/1/1183.ts
+#EXTINF:-1,PPV 1 | UFC 217: BISPING v ST-PIERRE
+http://ghosttechuk.ddns.net:25461/live/1/1/7650.ts
+#EXTINF:-1,PPV 2 | UFC 217: BISPING v ST-PIERRE
+http://ghosttechuk.ddns.net:25461/live/1/1/7651.ts
+#EXTINF:-1,PPV 3 | UFC 217: BISPING v ST-PIERRE
+http://ghosttechuk.ddns.net:25461/live/1/1/7652.ts
+#EXTINF:-1,PPV 4 | UFC 217: BISPING v ST-PIERRE
+http://ghosttechuk.ddns.net:25461/live/1/1/7653.ts
+#EXTINF:-1,PPV 5 | UFC FIGHT PASS
+http://ghosttechuk.ddns.net:25461/live/1/1/7654.ts
+#EXTINF:-1,PPV 6 | UFC FIGHT PASS
+http://ghosttechuk.ddns.net:25461/live/1/1/11234.ts
+#EXTINF:-1,PPV 7 |
+http://ghosttechuk.ddns.net:25461/live/1/1/11235.ts
+#EXTINF:-1,PPV 8 |
+http://ghosttechuk.ddns.net:25461/live/1/1/11236.ts
+#EXTINF:-1,PPV 9 |
+http://ghosttechuk.ddns.net:25461/live/1/1/11237.ts
+#EXTINF:-1,PPV 10 |
+http://ghosttechuk.ddns.net:25461/live/1/1/11238.ts
+#EXTINF:-1,VIP | UFC FIGHT PASS
+http://ghosttechuk.ddns.net:25461/live/1/1/9505.ts
+#EXTINF:-1,VIP | UFC FIGHT PASS 2
+http://ghosttechuk.ddns.net:25461/live/1/1/9506.ts
+#EXTINF:-1,VIP | MIO Eleven Sports
+http://ghosttechuk.ddns.net:25461/live/1/1/9867.ts
+#EXTINF:-1,VIP | NBCSN Extra Time
+http://ghosttechuk.ddns.net:25461/live/1/1/1030.ts
+#EXTINF:-1,SPFL | Celtic TV [LIVE DURING SPL] 2
+http://ghosttechuk.ddns.net:25461/live/1/1/17383.ts
+#EXTINF:-1,SPFL | Rangers TV  [LIVE DURING SPL] 2
+http://ghosttechuk.ddns.net:25461/live/1/1/17382.ts
+#EXTINF:-1,SPFL | Aberdeen TV [LIVE DURING SPL]
+http://ghosttechuk.ddns.net:25461/live/1/1/18873.ts
+#EXTINF:-1,SPFL | Hearts FC TV [LIVE DURING SPL]
+http://ghosttechuk.ddns.net:25461/live/1/1/18875.ts
+#EXTINF:-1,VIP | OSN Sports Cricket HD
+http://ghosttechuk.ddns.net:25461/live/1/1/1209.ts
+#EXTINF:-1,VIP | NBC USA XTRA
+http://ghosttechuk.ddns.net:25461/live/1/1/18032.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19380.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19379.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 3 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19378.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 4 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19377.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 5 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19376.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 6 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19375.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 7 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19374.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 8
+http://ghosttechuk.ddns.net:25461/live/1/1/18031.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 9
+http://ghosttechuk.ddns.net:25461/live/1/1/18029.ts
+#EXTINF:-1,VIP | NBC EXTRA TIME 10
+http://ghosttechuk.ddns.net:25461/live/1/1/18030.ts
+#EXTINF:-1,USA | AFN SPORTS 2
+http://ghosttechuk.ddns.net:25461/live/1/1/20572.ts
+#EXTINF:-1,USA | Bein Sports USA HD
+http://ghosttechuk.ddns.net:25461/live/1/1/20571.ts
+#EXTINF:-1,USA | ESPN 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/20568.ts
+#EXTINF:-1,USA | ESPN HD
+http://ghosttechuk.ddns.net:25461/live/1/1/20567.ts
+#EXTINF:-1,USA | FIGHT NETWORK
+http://ghosttechuk.ddns.net:25461/live/1/1/20566.ts
+#EXTINF:-1,USA | NBA TV
+http://ghosttechuk.ddns.net:25461/live/1/1/20564.ts
+#EXTINF:-1,USA | 5 USA
+http://ghosttechuk.ddns.net:25461/live/1/1/21893.ts
+#EXTINF:-1,USA | ABC NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21872.ts
+#EXTINF:-1,USA | ABC Spark
+http://ghosttechuk.ddns.net:25461/live/1/1/21871.ts
+#EXTINF:-1,USA | AFN Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/21870.ts
+#EXTINF:-1,USA | AFN Prime Pecific
+http://ghosttechuk.ddns.net:25461/live/1/1/21869.ts
+#EXTINF:-1,USA | AFN SPORTS 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21879.ts
+#EXTINF:-1,USA | AFN SPORTS HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21936.ts
+#EXTINF:-1,USA | Beauty iQ
+http://ghosttechuk.ddns.net:25461/live/1/1/21867.ts
+#EXTINF:-1,USA | BEIN SPORTS
+http://ghosttechuk.ddns.net:25461/live/1/1/21878.ts
+#EXTINF:-1,USA | Bet
+http://ghosttechuk.ddns.net:25461/live/1/1/21866.ts
+#EXTINF:-1,USA | Big TEN Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21865.ts
+#EXTINF:-1,USA | Bloomberg
+http://ghosttechuk.ddns.net:25461/live/1/1/21864.ts
+#EXTINF:-1,USA | BYU Sports HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21892.ts
+#EXTINF:-1,USA | Byu Sports TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21863.ts
+#EXTINF:-1,USA | C Span
+http://ghosttechuk.ddns.net:25461/live/1/1/21891.ts
+#EXTINF:-1,USA | C-Span 1
+http://ghosttechuk.ddns.net:25461/live/1/1/21862.ts
+#EXTINF:-1,USA | C-Span 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21861.ts
+#EXTINF:-1,USA | C-Span 3
+http://ghosttechuk.ddns.net:25461/live/1/1/21860.ts
+#EXTINF:-1,USA | Cartoon Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21859.ts
+#EXTINF:-1,USA | CBS
+http://ghosttechuk.ddns.net:25461/live/1/1/21858.ts
+#EXTINF:-1,USA | CBS DRAMA
+http://ghosttechuk.ddns.net:25461/live/1/1/21877.ts
+#EXTINF:-1,USA | CBS Sports
+http://ghosttechuk.ddns.net:25461/live/1/1/21857.ts
+#EXTINF:-1,USA | CBSN
+http://ghosttechuk.ddns.net:25461/live/1/1/21876.ts
+#EXTINF:-1,USA | CNN News
+http://ghosttechuk.ddns.net:25461/live/1/1/21890.ts
+#EXTINF:-1,USA | CW HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21889.ts
+#EXTINF:-1,USA | Day Star
+http://ghosttechuk.ddns.net:25461/live/1/1/21856.ts
+#EXTINF:-1,USA | Destination America
+http://ghosttechuk.ddns.net:25461/live/1/1/21855.ts
+#EXTINF:-1,USA | Discovery-Science-HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21888.ts
+#EXTINF:-1,USA | Disney XD
+http://ghosttechuk.ddns.net:25461/live/1/1/21854.ts
+#EXTINF:-1,USA | E!
+http://ghosttechuk.ddns.net:25461/live/1/1/21887.ts
+#EXTINF:-1,USA | ESPN 3
+http://ghosttechuk.ddns.net:25461/live/1/1/21853.ts
+#EXTINF:-1,USA | ESPN News HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21886.ts
+#EXTINF:-1,USA | ESPN U
+http://ghosttechuk.ddns.net:25461/live/1/1/21852.ts
+#EXTINF:-1,USA | Fight Network / MMA Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21938.ts
+#EXTINF:-1,USA | FIX TV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21885.ts
+#EXTINF:-1,USA | Food Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21884.ts
+#EXTINF:-1,USA | FOX HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21883.ts
+#EXTINF:-1,USA | Fox News
+http://ghosttechuk.ddns.net:25461/live/1/1/21851.ts
+#EXTINF:-1,USA | Fox Sport 1
+http://ghosttechuk.ddns.net:25461/live/1/1/21935.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21934.ts
+#EXTINF:-1,USA | FOX Sports 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21933.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21932.ts
+#EXTINF:-1,USA | FX HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21931.ts
+#EXTINF:-1,USA | H2
+http://ghosttechuk.ddns.net:25461/live/1/1/21937.ts
+#EXTINF:-1,USA | Hallmark
+http://ghosttechuk.ddns.net:25461/live/1/1/21850.ts
+#EXTINF:-1,USA | HBO
+http://ghosttechuk.ddns.net:25461/live/1/1/21929.ts
+#EXTINF:-1,USA | HBO Comedy HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21930.ts
+#EXTINF:-1,USA | HBO EAST
+http://ghosttechuk.ddns.net:25461/live/1/1/21849.ts
+#EXTINF:-1,USA | HBO Family
+http://ghosttechuk.ddns.net:25461/live/1/1/21848.ts
+#EXTINF:-1,USA | HBO Zone HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21928.ts
+#EXTINF:-1,USA | HGTV
+http://ghosttechuk.ddns.net:25461/live/1/1/21874.ts
+#EXTINF:-1,USA | HISTORY HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21927.ts
+#EXTINF:-1,USA | Investigation Discovery
+http://ghosttechuk.ddns.net:25461/live/1/1/21847.ts
+#EXTINF:-1,USA | JBTV Music
+http://ghosttechuk.ddns.net:25461/live/1/1/21846.ts
+#EXTINF:-1,USA | Life OK USA
+http://ghosttechuk.ddns.net:25461/live/1/1/21926.ts
+#EXTINF:-1,USA | LifeTime HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21845.ts
+#EXTINF:-1,USA | MLB Network HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21925.ts
+#EXTINF:-1,USA | MLBTV extra innings
+http://ghosttechuk.ddns.net:25461/live/1/1/21880.ts
+#EXTINF:-1,USA | More Max
+http://ghosttechuk.ddns.net:25461/live/1/1/21844.ts
+#EXTINF:-1,USA | MSNBC
+http://ghosttechuk.ddns.net:25461/live/1/1/21843.ts
+#EXTINF:-1,USA | MTV  1
+http://ghosttechuk.ddns.net:25461/live/1/1/21842.ts
+#EXTINF:-1,USA | MTV Live
+http://ghosttechuk.ddns.net:25461/live/1/1/21841.ts
+#EXTINF:-1,USA | NASA TV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21840.ts
+#EXTINF:-1,USA | Nat Geo HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21924.ts
+#EXTINF:-1,USA | NATIONAL GEOGRAPHIC
+http://ghosttechuk.ddns.net:25461/live/1/1/21873.ts
+#EXTINF:-1,USA | NBA Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21923.ts
+#EXTINF:-1,USA | NBC GOLF
+http://ghosttechuk.ddns.net:25461/live/1/1/21922.ts
+#EXTINF:-1,USA | NBC HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21921.ts
+#EXTINF:-1,USA | NBC SPORT
+http://ghosttechuk.ddns.net:25461/live/1/1/21920.ts
+#EXTINF:-1,USA | NBCSN
+http://ghosttechuk.ddns.net:25461/live/1/1/21875.ts
+#EXTINF:-1,USA | NFL Network HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21919.ts
+#EXTINF:-1,USA | Nfl red zone
+http://ghosttechuk.ddns.net:25461/live/1/1/21834.ts
+#EXTINF:-1,USA | NHL Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21839.ts
+#EXTINF:-1,USA | NHL Network HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21918.ts
+#EXTINF:-1,USA | Nick
+http://ghosttechuk.ddns.net:25461/live/1/1/21838.ts
+#EXTINF:-1,USA | OWN
+http://ghosttechuk.ddns.net:25461/live/1/1/21837.ts
+#EXTINF:-1,USA | OXYGEN
+http://ghosttechuk.ddns.net:25461/live/1/1/21836.ts
+#EXTINF:-1,USA | PAC 12 Arizona HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21917.ts
+#EXTINF:-1,USA | PAG
+http://ghosttechuk.ddns.net:25461/live/1/1/21835.ts
+#EXTINF:-1,USA | Red bull TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21868.ts
+#EXTINF:-1,USA | RT America
+http://ghosttechuk.ddns.net:25461/live/1/1/21833.ts
+#EXTINF:-1,USA | ShowTime
+http://ghosttechuk.ddns.net:25461/live/1/1/21832.ts
+#EXTINF:-1,USA | ShowTime 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21916.ts
+#EXTINF:-1,USA | Showtime Extreme
+http://ghosttechuk.ddns.net:25461/live/1/1/21915.ts
+#EXTINF:-1,USA | SPIKE HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21914.ts
+#EXTINF:-1,USA | Sport NET 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21913.ts
+#EXTINF:-1,USA | Sports Net 360 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21912.ts
+#EXTINF:-1,USA | Sports Net Ontario HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21911.ts
+#EXTINF:-1,USA | Sports Net World HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21910.ts
+#EXTINF:-1,USA | Star Edge East US
+http://ghosttechuk.ddns.net:25461/live/1/1/21909.ts
+#EXTINF:-1,USA | Star Plus USA
+http://ghosttechuk.ddns.net:25461/live/1/1/21908.ts
+#EXTINF:-1,USA | Starz Cinema HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21907.ts
+#EXTINF:-1,USA | Starz East
+http://ghosttechuk.ddns.net:25461/live/1/1/21831.ts
+#EXTINF:-1,USA | Starz Edge
+http://ghosttechuk.ddns.net:25461/live/1/1/21823.ts
+#EXTINF:-1,USA | Starz Encore HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21906.ts
+#EXTINF:-1,USA | Straz West
+http://ghosttechuk.ddns.net:25461/live/1/1/21822.ts
+#EXTINF:-1,USA | SYFY
+http://ghosttechuk.ddns.net:25461/live/1/1/21905.ts
+#EXTINF:-1,USA | TBS HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21904.ts
+#EXTINF:-1,USA | Tennis Channel HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21903.ts
+#EXTINF:-1,USA | The Florida Channel
+http://ghosttechuk.ddns.net:25461/live/1/1/21902.ts
+#EXTINF:-1,USA | TLC
+http://ghosttechuk.ddns.net:25461/live/1/1/21830.ts
+#EXTINF:-1,USA | TNT HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21901.ts
+#EXTINF:-1,USA | Travel Channel
+http://ghosttechuk.ddns.net:25461/live/1/1/21829.ts
+#EXTINF:-1,USA | TRT World HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21828.ts
+#EXTINF:-1,USA | TSN 1 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21900.ts
+#EXTINF:-1,USA | TSN 2 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21899.ts
+#EXTINF:-1,USA | TSN 3 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21898.ts
+#EXTINF:-1,USA | TSN 4 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21897.ts
+#EXTINF:-1,USA | TSN 5 HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21896.ts
+#EXTINF:-1,USA | TV Land
+http://ghosttechuk.ddns.net:25461/live/1/1/21827.ts
+#EXTINF:-1,USA | UFC fight pass
+http://ghosttechuk.ddns.net:25461/live/1/1/21881.ts
+#EXTINF:-1,USA | USA Network
+http://ghosttechuk.ddns.net:25461/live/1/1/21826.ts
+#EXTINF:-1,USA | Velocity
+http://ghosttechuk.ddns.net:25461/live/1/1/21825.ts
+#EXTINF:-1,USA | VH1
+http://ghosttechuk.ddns.net:25461/live/1/1/21824.ts
+#EXTINF:-1,USA | ViceLand
+http://ghosttechuk.ddns.net:25461/live/1/1/21821.ts
+#EXTINF:-1,USA | WILLOW CRICKET HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21895.ts
+#EXTINF:-1,USA | WWE HD
+http://ghosttechuk.ddns.net:25461/live/1/1/21894.ts
+#EXTINF:-1,USA | PBS
+http://ghosttechuk.ddns.net:25461/live/1/1/21882.ts
+#EXTINF:-1,IND | & TV [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11800.ts
+#EXTINF:-1,IND | &TV [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19952.ts
+#EXTINF:-1,IND | B4U Movies [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11797.ts
+#EXTINF:-1,IND | B4U Movies [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19951.ts
+#EXTINF:-1,IND | B4U Music [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11801.ts
+#EXTINF:-1,IND | B4U Music [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19950.ts
+#EXTINF:-1,IND | B4U Plus [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11796.ts
+#EXTINF:-1,IND | B4U Plus [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19949.ts
+#EXTINF:-1,IND | Colors [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11795.ts
+#EXTINF:-1,IND | Colors [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19948.ts
+#EXTINF:-1,IND | Rishtey [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11794.ts
+#EXTINF:-1,IND | Sony Set Max [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11805.ts
+#EXTINF:-1,IND | STAR Gold [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11798.ts
+#EXTINF:-1,IND | STAR Gold [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19947.ts
+#EXTINF:-1,IND | STAR Plus [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/19942.ts
+#EXTINF:-1,IND | STAR Plus [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/20084.ts
+#EXTINF:-1,IND | Zing UK [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11799.ts
+#EXTINF:-1,IND | Zing [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19945.ts
+#EXTINF:-1,IND | Zee TV UK [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11804.ts
+#EXTINF:-1,IND | Zee TV [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19944.ts
+#EXTINF:-1,IND | Zee Cinema [UK]
+http://ghosttechuk.ddns.net:25461/live/1/1/11803.ts
+#EXTINF:-1,IND | Zee Cinema [UK] Backup
+http://ghosttechuk.ddns.net:25461/live/1/1/19946.ts
+#EXTINF:-1,IND | ABP NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/19943.ts
+#EXTINF:-1,IND | &TV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19675.ts
+#EXTINF:-1,IND | 9X JALWA
+http://ghosttechuk.ddns.net:25461/live/1/1/19674.ts
+#EXTINF:-1,IND | BINDASS PLAY
+http://ghosttechuk.ddns.net:25461/live/1/1/19669.ts
+#EXTINF:-1,IND | COLORS HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19668.ts
+#EXTINF:-1,IND | DESI BEATS
+http://ghosttechuk.ddns.net:25461/live/1/1/19667.ts
+#EXTINF:-1,IND | FOOD FOOD
+http://ghosttechuk.ddns.net:25461/live/1/1/19663.ts
+#EXTINF:-1,IND | ZEE FOOD INDIA
+http://ghosttechuk.ddns.net:25461/live/1/1/19659.ts
+#EXTINF:-1,IND | MASTIII TV
+http://ghosttechuk.ddns.net:25461/live/1/1/19657.ts
+#EXTINF:-1,IND | NEO PRIME
+http://ghosttechuk.ddns.net:25461/live/1/1/19656.ts
+#EXTINF:-1,IND | MOVIES OK
+http://ghosttechuk.ddns.net:25461/live/1/1/19655.ts
+#EXTINF:-1,IND | Star Movies Action
+http://ghosttechuk.ddns.net:25461/live/1/1/19654.ts
+#EXTINF:-1,IND | Star Movies
+http://ghosttechuk.ddns.net:25461/live/1/1/19653.ts
+#EXTINF:-1,IND | Sun Surya
+http://ghosttechuk.ddns.net:25461/live/1/1/19652.ts
+#EXTINF:-1,IND | PICTURE TV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19650.ts
+#EXTINF:-1,IND | UTV Bindas
+http://ghosttechuk.ddns.net:25461/live/1/1/19651.ts
+#EXTINF:-1,IND | NICKELODEON SONIC
+http://ghosttechuk.ddns.net:25461/live/1/1/19649.ts
+#EXTINF:-1,IND | RISHTEY CINEPLEX
+http://ghosttechuk.ddns.net:25461/live/1/1/19648.ts
+#EXTINF:-1,IND | RISHTEY INDIA
+http://ghosttechuk.ddns.net:25461/live/1/1/19647.ts
+#EXTINF:-1,IND | SONY ENTERTAINMENT
+http://ghosttechuk.ddns.net:25461/live/1/1/19645.ts
+#EXTINF:-1,IND | SONY HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19646.ts
+#EXTINF:-1,IND | SONY MAX
+http://ghosttechuk.ddns.net:25461/live/1/1/19640.ts
+#EXTINF:-1,IND | SONY MAX 2
+http://ghosttechuk.ddns.net:25461/live/1/1/19639.ts
+#EXTINF:-1,IND | SONY MAX HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19638.ts
+#EXTINF:-1,IND | SONY MIX
+http://ghosttechuk.ddns.net:25461/live/1/1/19637.ts
+#EXTINF:-1,IND | SONY PAL
+http://ghosttechuk.ddns.net:25461/live/1/1/19635.ts
+#EXTINF:-1,IND | SONY SAB HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19634.ts
+#EXTINF:-1,IND | SONY SIX
+http://ghosttechuk.ddns.net:25461/live/1/1/19633.ts
+#EXTINF:-1,IND | SONY TV
+http://ghosttechuk.ddns.net:25461/live/1/1/19632.ts
+#EXTINF:-1,IND | Star Life OK
+http://ghosttechuk.ddns.net:25461/live/1/1/19629.ts
+#EXTINF:-1,IND | STAR PLUS SD
+http://ghosttechuk.ddns.net:25461/live/1/1/19628.ts
+#EXTINF:-1,IND | STAR SPORTS 1HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19627.ts
+#EXTINF:-1,IND | STAR SPORTS 2HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19626.ts
+#EXTINF:-1,IND | STAR SPORTS 3HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19625.ts
+#EXTINF:-1,IND | STAR SPORTS 4HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19624.ts
+#EXTINF:-1,IND | TEN 3
+http://ghosttechuk.ddns.net:25461/live/1/1/19623.ts
+#EXTINF:-1,IND | TEN ACTION
+http://ghosttechuk.ddns.net:25461/live/1/1/19622.ts
+#EXTINF:-1,IND | TEN CRICKET
+http://ghosttechuk.ddns.net:25461/live/1/1/19621.ts
+#EXTINF:-1,IND | TEN SPORT
+http://ghosttechuk.ddns.net:25461/live/1/1/19620.ts
+#EXTINF:-1,IND | UTV ACTION
+http://ghosttechuk.ddns.net:25461/live/1/1/19618.ts
+#EXTINF:-1,IND | UTV MOVIES
+http://ghosttechuk.ddns.net:25461/live/1/1/19617.ts
+#EXTINF:-1,IND | UTV MOVIES INTERNATIONAL
+http://ghosttechuk.ddns.net:25461/live/1/1/19616.ts
+#EXTINF:-1,IND | Asianet Plus
+http://ghosttechuk.ddns.net:25461/live/1/1/19615.ts
+#EXTINF:-1,IND | WILLOW CRICKET
+http://ghosttechuk.ddns.net:25461/live/1/1/19614.ts
+#EXTINF:-1,IND | ZEE ACTION
+http://ghosttechuk.ddns.net:25461/live/1/1/19613.ts
+#EXTINF:-1,IND | ZEE BOLLYWOOD HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19612.ts
+#EXTINF:-1,IND | ZEE CINEMA HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19611.ts
+#EXTINF:-1,IND | ZEE CLASSIC
+http://ghosttechuk.ddns.net:25461/live/1/1/19610.ts
+#EXTINF:-1,IND | ZEE NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/19609.ts
+#EXTINF:-1,IND | ZEE NEWS PUNJABI IND
+http://ghosttechuk.ddns.net:25461/live/1/1/19608.ts
+#EXTINF:-1,IND | ZEE SMILE
+http://ghosttechuk.ddns.net:25461/live/1/1/19607.ts
+#EXTINF:-1,ISL | PEACE TV URDU
+http://ghosttechuk.ddns.net:25461/live/1/1/9762.ts
+#EXTINF:-1,ISL | MADANI CHANNEL
+http://ghosttechuk.ddns.net:25461/live/1/1/9799.ts
+#EXTINF:-1,ISL | Islam Tv
+http://ghosttechuk.ddns.net:25461/live/1/1/10893.ts
+#EXTINF:-1,ISL | Al Quran Al Karim (KSA)
+http://ghosttechuk.ddns.net:25461/live/1/1/10892.ts
+#EXTINF:-1,ISL | SAUDI 1
+http://ghosttechuk.ddns.net:25461/live/1/1/18453.ts
+#EXTINF:-1,ISL | SAUDI 2
+http://ghosttechuk.ddns.net:25461/live/1/1/18454.ts
+#EXTINF:-1,ISL | SAUDI EKHBARIA
+http://ghosttechuk.ddns.net:25461/live/1/1/18455.ts
+#EXTINF:-1,ISL | SAUDI QURAN
+http://ghosttechuk.ddns.net:25461/live/1/1/18451.ts
+#EXTINF:-1,ISL | SAUDI SPORT
+http://ghosttechuk.ddns.net:25461/live/1/1/18452.ts
+#EXTINF:-1,ISL | SAUDI ELEKTISADIA
+http://ghosttechuk.ddns.net:25461/live/1/1/18456.ts
+#EXTINF:-1,IND | ZEE TV HD
+http://ghosttechuk.ddns.net:25461/live/1/1/19606.ts
+#EXTINF:-1,PAK | Such Tv
+http://ghosttechuk.ddns.net:25461/live/1/1/20085.ts
+#EXTINF:-1,OSN | WWE HD
+http://ghosttechuk.ddns.net:25461/live/1/1/20597.ts
+#EXTINF:-1,OSN | BOX OFFICE 1
+http://ghosttechuk.ddns.net:25461/live/1/1/21257.ts
+#EXTINF:-1,OSN | BOX OFFICE 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21258.ts
+#EXTINF:-1,OSN | BOX OFFICE 3
+http://ghosttechuk.ddns.net:25461/live/1/1/21259.ts
+#EXTINF:-1,OSN | MOVIES COMEDY
+http://ghosttechuk.ddns.net:25461/live/1/1/21260.ts
+#EXTINF:-1,OSN | MOVIES KIDS
+http://ghosttechuk.ddns.net:25461/live/1/1/21261.ts
+#EXTINF:-1,OSN | MOVIES FESTIVAL
+http://ghosttechuk.ddns.net:25461/live/1/1/21262.ts
+#EXTINF:-1,OSN | MOVIES PREMIERE
+http://ghosttechuk.ddns.net:25461/live/1/1/21264.ts
+#EXTINF:-1,OSN | MOVIES PREMIERE 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21265.ts
+#EXTINF:-1,OSN | STAR MOVIES
+http://ghosttechuk.ddns.net:25461/live/1/1/21263.ts
+#EXTINF:-1,PAK | 24 News HD
+http://ghosttechuk.ddns.net:25461/live/1/1/22017.ts
+#EXTINF:-1,PAK | 8XM
+http://ghosttechuk.ddns.net:25461/live/1/1/22016.ts
+#EXTINF:-1,PAK | 92 News HD
+http://ghosttechuk.ddns.net:25461/live/1/1/22015.ts
+#EXTINF:-1,PAK | A PLUS
+http://ghosttechuk.ddns.net:25461/live/1/1/22014.ts
+#EXTINF:-1,PAK | AAJ NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/22013.ts
+#EXTINF:-1,PAK | Abb Tak NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/22012.ts
+#EXTINF:-1,PAK | Ajj News
+http://ghosttechuk.ddns.net:25461/live/1/1/22011.ts
+#EXTINF:-1,PAK | APNA
+http://ghosttechuk.ddns.net:25461/live/1/1/22010.ts
+#EXTINF:-1,PAK | ARY DIGITAL
+http://ghosttechuk.ddns.net:25461/live/1/1/22009.ts
+#EXTINF:-1,PAK | ARY Musik
+http://ghosttechuk.ddns.net:25461/live/1/1/22008.ts
+#EXTINF:-1,PAK | ARY NEW PAK
+http://ghosttechuk.ddns.net:25461/live/1/1/22007.ts
+#EXTINF:-1,PAK | ARY NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21961.ts
+#EXTINF:-1,PAK | ARY Qtv
+http://ghosttechuk.ddns.net:25461/live/1/1/22006.ts
+#EXTINF:-1,PAK | ARY ZAUQ
+http://ghosttechuk.ddns.net:25461/live/1/1/22005.ts
+#EXTINF:-1,PAK | ARY ZINDAGI
+http://ghosttechuk.ddns.net:25461/live/1/1/22004.ts
+#EXTINF:-1,PAK | ATV
+http://ghosttechuk.ddns.net:25461/live/1/1/22003.ts
+#EXTINF:-1,PAK | Awaz TV
+http://ghosttechuk.ddns.net:25461/live/1/1/22001.ts
+#EXTINF:-1,PAK | BOL NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/22000.ts
+#EXTINF:-1,PAK | CAPITAL NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21999.ts
+#EXTINF:-1,PAK | City 42
+http://ghosttechuk.ddns.net:25461/live/1/1/21998.ts
+#EXTINF:-1,PAK | Dawn News
+http://ghosttechuk.ddns.net:25461/live/1/1/21997.ts
+#EXTINF:-1,PAK | DUNYA News
+http://ghosttechuk.ddns.net:25461/live/1/1/21996.ts
+#EXTINF:-1,PAK | EXPRESS ENTERTIANMENT
+http://ghosttechuk.ddns.net:25461/live/1/1/21995.ts
+#EXTINF:-1,PAK | EXPRESS NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21994.ts
+#EXTINF:-1,PAK | Express TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21993.ts
+#EXTINF:-1,PAK | Filmasia
+http://ghosttechuk.ddns.net:25461/live/1/1/21992.ts
+#EXTINF:-1,PAK | GEO ENTERTAINMENT
+http://ghosttechuk.ddns.net:25461/live/1/1/21991.ts
+#EXTINF:-1,PAK | Geo Kahani
+http://ghosttechuk.ddns.net:25461/live/1/1/21990.ts
+#EXTINF:-1,PAK | GEO NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21989.ts
+#EXTINF:-1,PAK | GEO SUPER PK
+http://ghosttechuk.ddns.net:25461/live/1/1/21988.ts
+#EXTINF:-1,PAK | GEO TEZ
+http://ghosttechuk.ddns.net:25461/live/1/1/21987.ts
+#EXTINF:-1,PAK | GEO TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21986.ts
+#EXTINF:-1,PAK | Health TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21984.ts
+#EXTINF:-1,PAK | Hum Masala
+http://ghosttechuk.ddns.net:25461/live/1/1/21983.ts
+#EXTINF:-1,PAK | Hum Sitaray
+http://ghosttechuk.ddns.net:25461/live/1/1/21982.ts
+#EXTINF:-1,PAK | HUM TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21981.ts
+#EXTINF:-1,PAK | Hum World
+http://ghosttechuk.ddns.net:25461/live/1/1/21980.ts
+#EXTINF:-1,PAK | ISLAM TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21979.ts
+#EXTINF:-1,PAK | Jalwa TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21978.ts
+#EXTINF:-1,PAK | KAY 2
+http://ghosttechuk.ddns.net:25461/live/1/1/21977.ts
+#EXTINF:-1,PAK | Khyber News
+http://ghosttechuk.ddns.net:25461/live/1/1/21976.ts
+#EXTINF:-1,PAK | KHYBER TV
+http://ghosttechuk.ddns.net:25461/live/1/1/22002.ts
+#EXTINF:-1,PAK | KTN TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21975.ts
+#EXTINF:-1,PAK | Madani Channel
+http://ghosttechuk.ddns.net:25461/live/1/1/21974.ts
+#EXTINF:-1,PAK | MASALA TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21973.ts
+#EXTINF:-1,PAK | METRO NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21972.ts
+#EXTINF:-1,PAK | NEWS ONE
+http://ghosttechuk.ddns.net:25461/live/1/1/21971.ts
+#EXTINF:-1,PAK | Peace TV Urdu
+http://ghosttechuk.ddns.net:25461/live/1/1/21970.ts
+#EXTINF:-1,PAK | PTV GLOBAL
+http://ghosttechuk.ddns.net:25461/live/1/1/21985.ts
+#EXTINF:-1,PAK | PTV HOME
+http://ghosttechuk.ddns.net:25461/live/1/1/21969.ts
+#EXTINF:-1,PAK | PTV NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21968.ts
+#EXTINF:-1,PAK | PTV SPORTS
+http://ghosttechuk.ddns.net:25461/live/1/1/21967.ts
+#EXTINF:-1,PAK | Pushto ONE
+http://ghosttechuk.ddns.net:25461/live/1/1/21966.ts
+#EXTINF:-1,PAK | Royal TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21965.ts
+#EXTINF:-1,PAK | ROZE NEWS
+http://ghosttechuk.ddns.net:25461/live/1/1/21964.ts
+#EXTINF:-1,PAK | Samaa News
+http://ghosttechuk.ddns.net:25461/live/1/1/21963.ts
+#EXTINF:-1,PAK | Shamshad TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21962.ts
+#EXTINF:-1,PAK | STAGE DRAMA LIVE
+http://ghosttechuk.ddns.net:25461/live/1/1/21960.ts
+#EXTINF:-1,PAK | Tehzeeb TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21959.ts
+#EXTINF:-1,PAK | Times TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21958.ts
+#EXTINF:-1,PAK | TV One
+http://ghosttechuk.ddns.net:25461/live/1/1/21957.ts
+#EXTINF:-1,PAK | TV One Global
+http://ghosttechuk.ddns.net:25461/live/1/1/21956.ts
+#EXTINF:-1,PAK | URDU 1
+http://ghosttechuk.ddns.net:25461/live/1/1/21955.ts
+#EXTINF:-1,PAK | Waqt News
+http://ghosttechuk.ddns.net:25461/live/1/1/21954.ts
+#EXTINF:-1,PAK | Waseb TV
+http://ghosttechuk.ddns.net:25461/live/1/1/21953.ts
