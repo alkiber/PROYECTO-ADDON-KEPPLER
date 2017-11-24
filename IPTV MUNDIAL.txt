@@ -1,5 +1,3 @@
-IPTV ESPAÑA TEMPORALES
-
 #EXTINF:-1,ESTRENOS HD
 http://37.187.128.169:8000/live/Ffggjkiyee/Rghfeed455ggsey/2.ts
 
