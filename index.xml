@@ -7,30 +7,8 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/test1.xml</externallink>
 </item>
- 
-<item>
-<title>ADDON DE ADRYAN LIST</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/varios2.xml</externallink>
-</item>
- 
-<item>
-<title>TEST1</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/varios3.xml</externallink>
-</item>
- 
- <item>
-<title>TEST2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/documentalesjose.xml</externallink>
-</item>
+
+
 
 <item>
 <title>CANALES MOVISTAR DICIEMBRE PRUEBAS</title>
@@ -41,12 +19,48 @@
 </item>
 
 
+
 <item>
-<title>CANALES TEMPORALES PRUEBAS</title>
+<title>CANALES TEMPORALES IPTV ESPAÑA LUDICO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/CANALES%20TEMPORALES%20PRUEBAS.xml</externallink>
 </item>
+
+
+
+ <item>
+<title>ADDON DE ADRYAN LIST</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/varios2.xml</externallink>
+</item>
+
+
+ 
+<item>
+<title>TEST1</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/varios3.xml</externallink>
+</item>
+
+
+ 
+ <item>
+<title>TEST2</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/documentalesjose.xml</externallink>
+</item>
+
+
+
+
+
 
 
