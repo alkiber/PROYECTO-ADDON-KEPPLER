@@ -9,7 +9,6 @@
 </item>
 
 
-
 <item>
 <title>CANALES MOVISTAR DICIEMBRE PRUEBAS</title>
 <thumbnail></thumbnail>
@@ -31,13 +30,22 @@
 
 
 <item>
+<title>TELEVISION MUNDIAL</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/paises.xml</externallink>
+</item>
+
+
+
+<item>
 <title>LISTA PELICULAS PRUEBAS DICIEMBRE</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/LISTA%20PELICULAS%20PRUEBAS%20DICIEMBRE.xml</externallink>
 </item>
-
 
 
 
@@ -71,7 +79,6 @@
 
 
 
-
 <item>
 <title>TEST3</title>
 <thumbnail></thumbnail>
@@ -83,13 +90,7 @@
 
 
 
-<item>
-<title>TELEVISION MUNDIAL</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/paises.xml</externallink>
-</item>
+
 
 
 
