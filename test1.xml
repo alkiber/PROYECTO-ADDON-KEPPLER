@@ -3,75 +3,75 @@
 <channels>
 
 <channels_info>
-  <title>[COLOR red]KodiSpainTV[/COLOR]</title>
+  <title>[COLOR red]KodiSpainTV Jose 2018[/COLOR]</title>
   <genre>ALL</genre>
   <description>Contenido variado en español</description>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <thumbnail>https://s18.postimg.org/4vv9gntnt/kodispain_icon.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
   <credits>https://t.me/kodispain (joheos11)</credits>
 </channels_info>
 
 <channel>
-  <name>[COLOR red]                                       Actualizado:[/COLOR][COLOR yellow] DICIEMBRE POR MASTER JOSE[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://archive.org/download/kodispain/kodispain.mp4</externallink>
-</channel>
-
-<channel>
-  <name>[COLOR white]     ***************     [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR] [COLOR white]     ***************     [/COLOR]</name>
-  <thumbnail>https://s14.postimg.org/wx5mdmsup/logonavidad.jpg</thumbnail>
-  <fanart>https://s14.postimg.org/vi41p49tt/fanartnavidad.jpg</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Especial%20Navidad.xml</externallink>
+  <name>[COLOR red]Actualizado:[/COLOR][COLOR yellow] MARZO POR MASTER JOSE EL PUTO AMO[/COLOR]</name>
+  <thumbnail>https://s18.postimg.org/eku48dc2h/actualizado.jpg</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2rQVivN</externallink>
 </channel>
 
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]CANALES DE ESPAÑA[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TODOS%20LOS%20CANALES.xml</externallink>
+  <thumbnail>https://s18.postimg.org/9akk37keh/canalestv-logo.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2nr0OzL</externallink>
 </channel>
 
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]CANALES MUSICALES[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/MUSICALES.xml</externallink>
+  <thumbnail>https://s18.postimg.org/pyc25q2bd/tvmusical-logo.jpg</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2nlTdmM</externallink>
 </channel>
   
 <channel>
-  <name>[COLOR red]• [/COLOR][COLOR white]MUSICA YT[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/MUSICA%20YT.xml</externallink>
+  <name>[COLOR red]• [/COLOR][COLOR white]YOUTUBE[/COLOR]</name>
+  <thumbnail>https://s18.postimg.org/6brrcbont/YOUTUBE.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2BEzhUd</externallink>
 </channel>
   
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]LISTAS WEBS (SPORTSDEVIL)[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/WEBS.xml</externallink>
+  <thumbnail>https://s18.postimg.org/9buhwojo9/canales_SPD-logo.jpg</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2E012Ic</externallink>
 </channel>
 
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/LISTASIPTV.xml</externallink>
+  <thumbnail>https://s18.postimg.org/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2DXMY1V</externallink>
 </channel>
 
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]DEPORTES[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart> 
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/DEPORTES.xml</externallink>
+  <thumbnail>https://s18.postimg.org/rsownhk6x/tvdeportes-logo.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart> 
+  <externallink>http://bit.ly/2rOnRdf</externallink>
 </channel>
 
 <channel>
-  <name>[COLOR red]• [/COLOR][COLOR white]TRAILERS[/COLOR]</name>
-  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
-  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
-  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TRAILERS.xml</externallink>
+  <name>[COLOR white]* [/COLOR][COLOR orange][B]SIN BARRERAS[/B][/COLOR]</name>
+  <thumbnail>https://s31.postimg.org/h4i8e9vsb/icon.jpg</thumbnail>
+  <fanart>https://s31.postimg.org/m4folwogr/fanart.jpg</fanart>
+  <externallink>http://bit.ly/2DB9ha1</externallink>
 </channel>
+  
+<!-- <channel>
+  <name>[COLOR white]* [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR]</name>
+  <thumbnail>https://s14.postimg.org/wx5mdmsup/logonavidad.jpg</thumbnail>
+  <fanart>https://s14.postimg.org/vi41p49tt/fanartnavidad.jpg</fanart>
+  <externallink>http://bit.ly/2DJZ8bn</externallink>
+</channel> -->
 
 </channels>
