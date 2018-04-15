@@ -3,7 +3,7 @@
 <channels>
 
 <channels_info>
-  <title>[COLOR red]KodiSpainTV Jose 2018[/COLOR]</title>
+  <title>[COLOR red]KodiSpainTV[/COLOR]</title>
   <genre>ALL</genre>
   <description>Contenido variado en español</description>
   <thumbnail>https://s18.postimg.org/4vv9gntnt/kodispain_icon.png</thumbnail>
@@ -12,7 +12,7 @@
 </channels_info>
 
 <channel>
-  <name>[COLOR red]Actualizado:[/COLOR][COLOR yellow] MARZO POR MASTER JOSE EL PUTO AMO[/COLOR]</name>
+  <name>[COLOR red]Actualizado:[/COLOR][COLOR yellow] ABRIL KEPPLER [/COLOR]</name>
   <thumbnail>https://s18.postimg.org/eku48dc2h/actualizado.jpg</thumbnail>
   <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
   <externallink>http://bit.ly/2rQVivN</externallink>
@@ -31,33 +31,33 @@
   <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
   <externallink>http://bit.ly/2nlTdmM</externallink>
 </channel>
-  
-<channel>
-  <name>[COLOR red]• [/COLOR][COLOR white]YOUTUBE[/COLOR]</name>
-  <thumbnail>https://s18.postimg.org/6brrcbont/YOUTUBE.png</thumbnail>
-  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
-  <externallink>http://bit.ly/2BEzhUd</externallink>
-</channel>
-  
-<channel>
-  <name>[COLOR red]• [/COLOR][COLOR white]LISTAS WEBS (SPORTSDEVIL)[/COLOR]</name>
-  <thumbnail>https://s18.postimg.org/9buhwojo9/canales_SPD-logo.jpg</thumbnail>
-  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
-  <externallink>http://bit.ly/2E012Ic</externallink>
-</channel>
-
-<channel>
-  <name>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</name>
-  <thumbnail>https://s18.postimg.org/oxbtgudop/listas_IPTV-logo.png</thumbnail>
-  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
-  <externallink>http://bit.ly/2DXMY1V</externallink>
-</channel>
 
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]DEPORTES[/COLOR]</name>
   <thumbnail>https://s18.postimg.org/rsownhk6x/tvdeportes-logo.png</thumbnail>
   <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart> 
   <externallink>http://bit.ly/2rOnRdf</externallink>
+</channel>
+  
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</name>
+  <thumbnail>https://s18.postimg.org/oxbtgudop/listas_IPTV-logo.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2DXMY1V</externallink>
+</channel>  
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]LISTAS WEBS[/COLOR]</name>
+  <thumbnail>https://s9.postimg.org/d9m13ouz3/LISTASWEBS.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2E012Ic</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR red]• [/COLOR][COLOR white]YOUTUBE[/COLOR]</name>
+  <thumbnail>https://s18.postimg.org/gmmuat3sp/YOUTUBE.png</thumbnail>
+  <fanart>https://s18.postimg.org/ag35dol6h/kodispaintv_fanart.jpg</fanart>
+  <externallink>http://bit.ly/2BEzhUd</externallink>
 </channel>
 
 <channel>
