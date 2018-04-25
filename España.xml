@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+	<channel>
+    <name>[COLOR=green]-----[/COLOR][COLOR=orange]► E S P A Ñ A  [COLOR gray] Canales de España : Antena 3 • Telecinco • Cuatro • La Sexta • TDT • Energy • FDF • Divinity • Nova • Neox • Calle 13 • Discovery • Natgeo • Historia • La 1 • Canales + • Deportes • Axn • TNT • Fox   [/COLOR] [/COLOR][COLOR=green]-----[/COLOR]</name>
+    <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
+    <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+        <items>
+
+
+
+
+<item>
+<title>Programacion EPG [FormulaTV]</title>
+ <link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightslategray][COLOR aquamarine][B][makelist.param1][/B][/COLOR][COLOR deepskyblue][B][makelist.param2] [makelist.param3][/B][/COLOR][/COLOR][makelist.param4] [makelist.param5]</title>
+<link>$doregex[ip]|User-Agent=iPad</link>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/entretenimiento.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/</page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/entretenimiento.png</thumbnail>
+<info>Cortesia de Adryanlist </info>
+ </item>
+
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]TDT[/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/tdt.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]DIGITAL ESP[/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/digital.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+	<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]MOVISTAR +[/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/movistarplus.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+		<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]DEPORTES  [/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/espdep.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+			<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]LOCALES [/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/localesesp.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+				<item>
+	<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Lista España[/B] [/COLOR][COLOR lightblue][I]opcion 1[/I][/COLOR]  [B]      [/B]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/esp2.xml</externallink>
+ <thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+			</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+	<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Lista España[/B] [/COLOR][COLOR lightblue][I]opcion 1[/I][/COLOR]  [COLOR lightslategray] [B]f4mtester [/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1]</link>
+	<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+]]></listrepeat>
+<expres>(.*?),(http.*?)\n</expres>
+<page>http://civeci.com/SPAIN.txt</page>
+<agent>ipad</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+<item>
+	<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Lista España[/B] [/COLOR][COLOR lightblue][I]opcion 2[/I][/COLOR]  [COLOR lightslategray] [B]f4mtester [/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1]</link>
+	<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+]]></listrepeat>
+<expres>(.*?),(http.*?)\n</expres>
+<page>http://civeci.com/SPAIN2.txt</page>
+<agent>ipad</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<itm>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Lista España[/B] [/COLOR][COLOR lightblue][I]opcion 3[/I][/COLOR]  [COLOR lightslategray] [B]f4mtester [/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<externallink>http://exabytetv.info/addon/exabytetv-xt-ESP.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+
+ <itm>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Lista España[/B] [/COLOR][COLOR lightblue][I]opcion 4[/I][/COLOR]  [COLOR lightslategray] [B]f4mtester [/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+ <externallink>http://158.69.52.43/listas/get.php?user=DEMOPRUEBA&amp;pass=DEMOPRUEBA&amp;adult=true&amp;movie=true&amp;type=.m3u8</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]CINESTRENOS[/B] [/COLOR][COLOR lightblue][I]SportsDevil Addon Requerido[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] </title>
+<sportsdevil>http://cinestrenostv.tv/[makelist.param1]</sportsdevil>
+<thumbnail>http://cinestrenostv.tv/[makelist.param1]</thumbnail>
+<referer>http://cinestrenostv.tv/</referer>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)" title="(.*?)" target="tv"><img src="(.*?)"]]></expres>
+<page>http://cinestrenostv.tv/</page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<item><title>                         </title><link>http://ignora.me</link></item>
+	<item><title>              [COLOR lightyellow]-----  [COLOR yellow]Sportsdevil Requerido [/COLOR]  ----[/COLOR] </title><link>http://ignora.me</link></item>
+
+
+<item>
+ <title>[COLOR lightblue] TOROS[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-toros-spain-p1157308</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] TOROS [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-toros-spain-p1157308</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] #0[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<link>http://edge7.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8</link>
+</item>
+
+<item>
+ <title>[COLOR lightblue] #0[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-1-spain-p1157358</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DEPORTES[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-deportes-spain-p1157316</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DEPORTES[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusdeportes.html</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=105577&width=650&height=400&autostart=true</referer>
+<thumbnail>http://cinestrenostv.tv/img/deportes.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DEPORTES 2 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/deportes-2-p1157520</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DEPORTES 2[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://sport.gblackstreaming.com/channel/056_dep2/1.html</sportsdevil>
+<referer>http://www.playerhd1.pw/channel.php?%20file=115&width=650&height=400&autostart=true</referer>
+<thumbnail>http://cinestrenostv.tv/img/deportes2.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DEPORTES 2 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-deportes2-spain-p1157338</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] COMEDIA  [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-comedia-spain-p1157346</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] CALLE 13 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/calle-13-spain-p1157386</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] TNT [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/ver-tnt-espana-en-directo-online-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] SERIES [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/canal-plus-series-xtra-online-en-directo/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DCINE [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/canal-plus-dcine-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] ANTENA3 HD[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8?sd=10&rebase=on</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] AXN [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/axn-hd-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] ACCION [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-accion-spain-p1157350</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] COMEDY [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-comedy-spain-p1157376</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] HOLLYWOOD [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/holliwood-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://vercanalestv.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] LIGA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://tv.b-c-e.us/Canal+Liga.php</sportsdevil>
+<referer>http://tv.b-c-e.us/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] ESTRENOS [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-estrenos-spain-p1157354</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] ESTRENOS[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/plusestrenos.html</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=105242&width=650&height=400&autostart=true</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] GOLTV [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/goltv-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DISCOVERY CHNNEL [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/discovery-channel-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] REAL MADRID TV [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/ver-real-madrid-tv-online-en-directo-gratis/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] SYFY [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] AMC [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] CAZA Y PESCA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/cazaypesca.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] EUROSPORT2 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/eurosport2-spain-p1157324</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] MAS GOLF [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] MULTIDEPORTES [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/multideportes-p1157518</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] NATIONAL GEO[/COLOR] [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/national-geo-spain-p1157640</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] PARAMOUNT CHANNEL [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] BARÇA TV [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/galicia-tv-p1157330</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] TVE 1 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/tve1-spain-p1157476</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] TVE 2 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] TVE 24H [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve24h.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] ODISEA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/odisea-spain-p1157646</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] A3S TV [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/a3s-tv-spain-p1157502</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] INTER ECONOMIA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/inter-economia-spain-p1157490</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] DARK [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] CN [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cartoon.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] FDF [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/fdf-spain-p1157498</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] FOX CRIME [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/fox-crime-spain-p1157506</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] QUATRO [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] SEXTA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/la-sexta-spain-p1157488</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] COSMOS [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] MOTO GP [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/moto-gp-p1157318</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>-->
+
+<item>
+ <title>[COLOR lightblue] TELECINCO [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/tele-cinco-p1157486</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] HISTORIA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/historia.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] F1 [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/ver-la-f1online-en-directo-gratis-formula-1/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue]BEIN SPORTÑ [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] BEIN LA LIGA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/bein-sports-la-liga-online-en-directo-gratis-24h/</sportsdevil>
+<referer>hhttp://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] FOX ESPAÑA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://latelete.tv/fox-hd-en-directo-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue]VENUS [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-venus-online-en-vivo-y-online-gratis/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] PLAYBOY TV [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-playboy-en-vivo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] FOX [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/fox.html</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=105363&width=650&height=400&autostart=true</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] COCINA [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://sport.gblackstreaming.com/channel/080_cocina/1.html</sportsdevil>
+<referer>http://www.playerhd1.pw/channel.php?file=106152&width=650&height=400&autostart=true</referer>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] PARTIDAZO[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://telefivegb.com/canales/deporte/partidazo</sportsdevil>
+<referer>http://gblackstreaming.com/channel.php?file=16973&width=650&height=400&autostart=true</referer>
+<thumbnail>http://latelete.tv/img/partidazo.png</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR lightblue] FUTBOL[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://telefivegb.com/canales/deporte/futbol/</sportsdevil>
+<referer>http://www.playerhd1.pw/channel.php?file=112&width=650&height=400&autostart=true</referer>
+<thumbnail>http://www.plus.es/recorte/m-NEO/guianeo/CPFUT.png</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR lightblue] REAL MADRID TV[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<fanart></fanart>
+<thumbnail>http://www.imaginaus.com/wp-content/uploads/2014/02/real-madrid.jpg</thumbnail>
+<link>http://comunidadiptv.org/online/estable/?sintonizador=RealMadridTVHD</link>
+</item>
+
+
+
+<item>
+ <title>[COLOR lightblue] LA SEXTA[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<fanart></fanart>
+<thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg</thumbnail>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+</item>
+
+
+<item>
+ <title>[COLOR lightblue] Bein Sport Liga[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://verplusonline.com/canales/ligaes.php</sportsdevil>
+<referer>http://www.playerhd1.pw/channel.php?file=111&width=650&height=400&autostart=true</referer>
+<thumbnail>http://09stream.com/img/beinlaliga.png</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR lightblue] Bein Sport Ñ[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/beinsport.html</sportsdevil>
+<referer>http://www.dinostream.pw/channel.php?file=105711&width=650&height=400&autostart=true</referer>
+<thumbnail>http://09stream.com/img/beinlaliga.png</thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR lightblue] ESTRENOS[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/plusestrenos.html</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=105242&width=650&height=400&autostart=true</referer>
+<thumbnail>http://vercanalestv.com/logos/movistar-estrenos.png</thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR lightblue] HBO (Latino)[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
+<referer>http://www.mipsplayer.com/embedplayer/hbopmalosotv/1/600/385</referer>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR lightblue] ACCION[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://09stream.com/canales/plusaccion.html</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=105831&width=650&height=400&autostart=true</referer>
+</item>
+
+<item>
+ <title>[COLOR lightblue] FDF [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/envivo/fdf.html</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=103951&width=650&height=400&autostart=true</referer>
+<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2014/01/logo-fdf_mini.jpg</thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR lightblue] TDP[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://09stream.com/ver-teledeporte-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<referer>http://www.ponlatv.com/channel.php?file=105584&width=650&height=400&autostart=true</referer>
+<thumbnail>http://09stream.com/img/teledeporte.png</thumbnail>
+</item>
+
+
+
+<item>
+ <title>[COLOR lightblue] WRESTLING TV (EN)[/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://tvpor-internet.com/wwe-latino-en-vivo.html</sportsdevil>
+<referer>http://www.embeducaster.com/embedplayer/wwemalosotv/1/600/385</referer>
+<thumbnail>http://3.bp.blogspot.com/-dwgrnC1TDZc/VEemjx8e38I/AAAAAAAABv0/N5u600iF3dE/s320/pro-wrestling-tv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- #################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################### -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<item>
+			<title>decasa</title>
+			<link>http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8</link>
+
+			<thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+
+
+	<item>
+        <title>Hogar Util</title>
+        <link>http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB</link>
+        <thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
+
+
+
+
+
+
+			<item>
+			<title>Tribu TV</title>
+			<link>http://tribotv-ch01-live-cdn1-hls.streaming.overon.es/tribotv/channel01/tribotv/bitrate_3.m3u8</link><thumbnail>http://adrian.kodistream.info/adryan/Logos/.jpg</thumbnail></item>
