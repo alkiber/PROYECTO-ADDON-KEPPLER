@@ -1,5454 +1,836 @@
-#EXTM3U
 #EXTINF:-1,ES:LA 1
-http://iptvtool.es:9977/live/carlosh/carlosh/37103.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37103.ts
 
 #EXTINF:-1,ES:LA 1 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37102.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37102.ts
 
 #EXTINF:-1,ES:LA 2
-http://iptvtool.es:9977/live/carlosh/carlosh/37100.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37100.ts
 
 #EXTINF:-1,ES:La 2 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37099.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37099.ts
 
 #EXTINF:-1,ES:ANTENA 3
-http://iptvtool.es:9977/live/carlosh/carlosh/37097.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37097.ts
 
 #EXTINF:-1,ES:ANTENA 3 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37096.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37096.ts
 
 #EXTINF:-1,ES:LA CUATRO
-http://iptvtool.es:9977/live/carlosh/carlosh/37094.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37094.ts
 
 #EXTINF:-1,ES:LA CUATRO FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37093.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37093.ts
 
 #EXTINF:-1,ES:TELECINCO
-http://iptvtool.es:9977/live/carlosh/carlosh/37091.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37091.ts
 
 #EXTINF:-1,ES:TELECINCO FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37090.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37090.ts
 
 #EXTINF:-1,ES:LA SEXTA
-http://iptvtool.es:9977/live/carlosh/carlosh/37088.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37088.ts
 
 #EXTINF:-1,ES:LA SEXTA  FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37087.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37087.ts
 
 #
-http://iptvtool.es:9977/live/carlosh/carlosh/37046.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37046.ts
 
 #EXTINF:-1,ES:MOVISTAR  ACCION
-http://iptvtool.es:9977/live/carlosh/carlosh/37037.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37037.ts
 
 #EXTINF:-1,ES:MOVISTAR  DISNEY
-http://iptvtool.es:9977/live/carlosh/carlosh/37043.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37043.ts
 
 # FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37044.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37044.ts
 
 # HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37045.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37045.ts
 
 #EXTINF:-1,ES:MOVISTAR ACCION FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37035.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37035.ts
 
 #EXTINF:-1,ES:MOVISTAR ACCION HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37036.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37036.ts
 
 #EXTINF:-1,ES:MOVISTAR COMEDIA
-http://iptvtool.es:9977/live/carlosh/carlosh/37033.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37033.ts
 
 #EXTINF:-1,ES:MOVISTAR COMEDIA FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37032.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37032.ts
 
 #EXTINF:-1,ES:MOVISTAR DCINE
-http://iptvtool.es:9977/live/carlosh/carlosh/37031.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37031.ts
 
 #EXTINF:-1,ES:MOVISTAR DCINE  Ñ
-http://iptvtool.es:9977/live/carlosh/carlosh/37029.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37029.ts
 
 #EXTINF:-1,ES:MOVISTAR DCINE FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37030.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37030.ts
 
 #EXTINF:-1,ES:MOVISTAR ESPORTS
-http://iptvtool.es:9977/live/carlosh/carlosh/36971.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36971.ts
 
 #EXTINF:-1,ES:MOVISTAR ESTRENOS
-http://iptvtool.es:9977/live/carlosh/carlosh/37041.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37041.ts
 
 #EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37039.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37039.ts
 
 #EXTINF:-1,ES:MOVISTAR ESTRENOS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37040.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37040.ts
+
+#EXTINF:-1,ES:MOVISTAR ESTRENOS PARA MOVILE
+http://iptvtool.es:9977/live/Tercero/Tercero/37042.ts
 
 #EXTINF:-1,ES:MOVISTAR SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/37025.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37025.ts
 
 #EXTINF:-1,ES:MOVISTAR SERIES FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37024.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37024.ts
 
 #EXTINF:-1,ES:MOVISTAR SERIES XTRA
-http://iptvtool.es:9977/live/carlosh/carlosh/37022.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37022.ts
 
 #EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37019.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37019.ts
 
 #EXTINF:-1,ES:MOVISTAR XTRA
-http://iptvtool.es:9977/live/carlosh/carlosh/37028.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37028.ts
 
 #EXTINF:-1,ES:MOVISTAR XTRA FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37027.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37027.ts
 
 #EXTINF:-1,ES:MTV
-http://iptvtool.es:9977/live/carlosh/carlosh/36987.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36987.ts
 
 #EXTINF:-1,ES:NAT GEO
-http://iptvtool.es:9977/live/carlosh/carlosh/37002.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37002.ts
 
 #EXTINF:-1,ES:NAT GEO  WILD
-http://iptvtool.es:9977/live/carlosh/carlosh/37000.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37000.ts
 
 #EXTINF:-1,ES:NAT GEO FULLHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37003.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37003.ts
 
 #EXTINF:-1,ES:NAT GEO WILD FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37001.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37001.ts
 
 #EXTINF:-1,ES:NEOX
-http://iptvtool.es:9977/live/carlosh/carlosh/37055.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37055.ts
 
 #EXTINF:-1,ES:NICK JR
-http://iptvtool.es:9977/live/carlosh/carlosh/37004.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37004.ts
 
 #EXTINF:-1,ES:NICKELODEON
-http://iptvtool.es:9977/live/carlosh/carlosh/37005.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37005.ts
 
 #EXTINF:-1,ES:NICKELODEON HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37006.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37006.ts
 
 #EXTINF:-1,ES:ODISEA
-http://iptvtool.es:9977/live/carlosh/carlosh/36989.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36989.ts
 
 #EXTINF:-1,ES:PANDA
-http://iptvtool.es:9977/live/carlosh/carlosh/37018.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37018.ts
 
 #EXTINF:-1,ES:PARAMOUNT CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/37061.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37061.ts
 
 #EXTINF:-1,ES:SOL Music
-http://iptvtool.es:9977/live/carlosh/carlosh/36974.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36974.ts
 
 #EXTINF:-1,ES:SOMOS
-http://iptvtool.es:9977/live/carlosh/carlosh/37047.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37047.ts
 
 #EXTINF:-1,ES:SUNDANCE
-http://iptvtool.es:9977/live/carlosh/carlosh/36976.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36976.ts
 
 #EXTINF:-1,ES:SUNDANCE FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36975.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36975.ts
 
 #EXTINF:-1,ES:SYFY
-http://iptvtool.es:9977/live/carlosh/carlosh/37067.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37067.ts
 
 #EXTINF:-1,ES:SYFY FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37066.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37066.ts
 
 #EXTINF:-1,ES:TCM
-http://iptvtool.es:9977/live/carlosh/carlosh/37059.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37059.ts
 
 #EXTINF:-1,ES:TCM FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37058.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37058.ts
 
 #EXTINF:-1,ES:TELEMADRID FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36960.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36960.ts
+
+#EXTINF:-1,ES:TEN
+http://iptvtool.es:9977/live/Tercero/Tercero/36982.ts
+
+#EXTINF:-1,ES:TNT
+http://iptvtool.es:9977/live/Tercero/Tercero/37073.ts
 
 #EXTINF:-1,ES:TNT FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37072.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37072.ts
 
 #EXTINF:-1,ES:TV 13
-http://iptvtool.es:9977/live/carlosh/carlosh/37053.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37053.ts
 
 #EXTINF:-1,ES:Viajar
-http://iptvtool.es:9977/live/carlosh/carlosh/36996.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36996.ts
 
 #EXTINF:-1,ES:VIAJAR FULLHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36995.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36995.ts
 
 #EXTINF:-1,ES:XTRM
-http://iptvtool.es:9977/live/carlosh/carlosh/37048.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37048.ts
 
 #EXTINF:-1,ES: HOLLYWOOD FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37070.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37070.ts
 
 #EXTINF:-1,ES: BOING
-http://iptvtool.es:9977/live/carlosh/carlosh/37016.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37016.ts
 
 #EXTINF:-1,ES: NOVA
-http://iptvtool.es:9977/live/carlosh/carlosh/37054.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37054.ts
 
 #EXTINF:-1,ES:13 TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36968.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36968.ts
 
 #EXTINF:-1,ES:24 HORAS
-http://iptvtool.es:9977/live/carlosh/carlosh/36981.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36981.ts
 
 #EXTINF:-1,ES:7RM FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36967.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36967.ts
 
 #EXTINF:-1,ES:A3SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/37056.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37056.ts
 
 #EXTINF:-1,ES:AMC
-http://iptvtool.es:9977/live/carlosh/carlosh/37080.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37080.ts
 
 #EXTINF:-1,ES:AMC FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37079.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37079.ts
 
 #EXTINF:-1,ES:ANDALUCIA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36979.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36979.ts
 
 #EXTINF:-1,ES:ARAGON TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36978.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36978.ts
 
 #EXTINF:-1,ES:AXN
-http://iptvtool.es:9977/live/carlosh/carlosh/37085.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37085.ts
 
 #EXTINF:-1,ES:AXN  WHITE
-http://iptvtool.es:9977/live/carlosh/carlosh/37083.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37083.ts
 
 #EXTINF:-1,ES:AXN  WHITE FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37082.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37082.ts
 
 #EXTINF:-1,ES:AXN FULL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37084.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37084.ts
 
 #EXTINF:-1,ES:BABY  TV
-http://iptvtool.es:9977/live/carlosh/carlosh/37007.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37007.ts
 
 #EXTINF:-1,ES:BARCA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/37020.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37020.ts
 
 #EXTINF:-1,ES:BE MAD FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36985.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36985.ts
 
 #EXTINF:-1,ES:BLAZE
-http://iptvtool.es:9977/live/carlosh/carlosh/36969.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36969.ts
 
 #EXTINF:-1,ES:CALLE 13
-http://iptvtool.es:9977/live/carlosh/carlosh/37069.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37069.ts
 
 #EXTINF:-1,ES:CALLE 13 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37068.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37068.ts
 
 #EXTINF:-1,ES:CANAL ORBE21
-http://iptvtool.es:9977/live/carlosh/carlosh/36970.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36970.ts
 
 #EXTINF:-1,ES:CANAL SUR FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36966.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36966.ts
 
 #EXTINF:-1,ES:CAZA  Y PESCA
-http://iptvtool.es:9977/live/carlosh/carlosh/36994.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36994.ts
 
 #EXTINF:-1,ES:CAZA Y PESCA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36993.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36993.ts
 
 #EXTINF:-1,ES:CI
-http://iptvtool.es:9977/live/carlosh/carlosh/36997.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36997.ts
 
 #EXTINF:-1,ES:CLAN
-http://iptvtool.es:9977/live/carlosh/carlosh/37009.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37009.ts
 
 #EXTINF:-1,ES:CLAN HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37008.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37008.ts
 
 #EXTINF:-1,ES:COCINA
-http://iptvtool.es:9977/live/carlosh/carlosh/36991.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36991.ts
 
 #EXTINF:-1,ES:COCINA FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/36990.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36990.ts
 
 #EXTINF:-1,ES:COMEDY  CENTRAL
-http://iptvtool.es:9977/live/carlosh/carlosh/37063.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37063.ts
+
+#EXTINF:-1,ES:COMEDY CENTRAL HD
+http://iptvtool.es:9977/live/Tercero/Tercero/37062.ts
 
 #EXTINF:-1,ES:COSMOPOLITAN  FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37064.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37064.ts
 
 #EXTINF:-1,ES:COSMOS
-http://iptvtool.es:9977/live/carlosh/carlosh/37065.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37065.ts
 
 #EXTINF:-1,ES:DARK
-http://iptvtool.es:9977/live/carlosh/carlosh/37049.ts
-
-#EXTINF:-1,ES:DECASA
-http://iptvtool.es:9977/live/carlosh/carlosh/36988.ts
-
-#EXTINF:-1,ES:DISCOVERY  CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/36992.ts
-
-#EXTINF:-1,ES:DISNEY  JUNIOR
-http://iptvtool.es:9977/live/carlosh/carlosh/37013.ts
-
-#EXTINF:-1,ES:DISNEY  XD
-http://iptvtool.es:9977/live/carlosh/carlosh/37014.ts
-
-#EXTINF:-1,ES:DISNEY CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/37011.ts
-
-#EXTINF:-1,ES:DISNEY CHANNEL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37010.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37049.ts
 
 #EXTINF:-1,ES:DIVINITY
-http://iptvtool.es:9977/live/carlosh/carlosh/37057.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37057.ts
 
 #EXTINF:-1,ES:DKISS
-http://iptvtool.es:9977/live/carlosh/carlosh/36977.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36977.ts
 
 #EXTINF:-1,ES:DMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/36984.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36984.ts
 
 #EXTINF:-1,ES:ENERGY
-http://iptvtool.es:9977/live/carlosh/carlosh/37051.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37051.ts
 
 #EXTINF:-1,ES:ETB 1
-http://iptvtool.es:9977/live/carlosh/carlosh/36964.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36964.ts
 
 #EXTINF:-1,ES:EXTREMADURA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36963.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36963.ts
 
 #EXTINF:-1,ES:FDF
-http://iptvtool.es:9977/live/carlosh/carlosh/37052.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37052.ts
 
 #EXTINF:-1,ES:FOX
-http://iptvtool.es:9977/live/carlosh/carlosh/37077.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37077.ts
 
 #EXTINF:-1,ES:FOX FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37076.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37076.ts
 
 #EXTINF:-1,ES:FOX LIFE
-http://iptvtool.es:9977/live/carlosh/carlosh/37075.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37075.ts
 
 #EXTINF:-1,ES:FOX LIFE FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37074.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37074.ts
 
 #EXTINF:-1,ES:HIT TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36986.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36986.ts
 
 #EXTINF:-1,ES:HOLLYWOOD
-http://iptvtool.es:9977/live/carlosh/carlosh/37071.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37071.ts
 
 #EXTINF:-1,ES:INTERECONOMIA
-http://iptvtool.es:9977/live/carlosh/carlosh/36961.ts
-
-#EXTINF:-1,ES:LA OTRA
-http://iptvtool.es:9977/live/carlosh/carlosh/36962.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36961.ts
 
 #EXTINF:-1,ES:MEGA
-http://iptvtool.es:9977/live/carlosh/carlosh/37050.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37050.ts
 
 #EXTINF:-1,ES:MEZZO LIVE
-http://iptvtool.es:9977/live/carlosh/carlosh/36973.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36973.ts
 
 #EXTINF:-1,ES:MEZZO LIVE FULL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36972.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36972.ts
 
 #EXTINF:-1,ES SP:BEIN LALIGA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37189.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37189.ts
 
 #EXTINF:-1,ES SP:BEIN LALIGA FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37188.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37188.ts
 
 #EXTINF:-1,ES SP:BEIN LALIGA
-http://iptvtool.es:9977/live/carlosh/carlosh/37190.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37190.ts
 
 #EXTINF:-1,ES SP:CLASSICA
-http://iptvtool.es:9977/live/carlosh/carlosh/37110.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37110.ts
 
 #EXTINF:-1,ES SP:ESPORT 3
-http://iptvtool.es:9977/live/carlosh/carlosh/37113.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37113.ts
 
 #EXTINF:-1,ES SP:Eurosport  2
-http://iptvtool.es:9977/live/carlosh/carlosh/37154.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37154.ts
 
 #EXTINF:-1,ES SP:EUROSPORT  ES
-http://iptvtool.es:9977/live/carlosh/carlosh/37157.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37157.ts
 
 #EXTINF:-1,ES SP:EUROSPORT 1 FULL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37156.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37156.ts
 
 #EXTINF:-1,ES SP:Extreme EMEA
-http://iptvtool.es:9977/live/carlosh/carlosh/37112.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37112.ts
 
 #EXTINF:-1,ES SP:GOL TV
-http://iptvtool.es:9977/live/carlosh/carlosh/37173.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37173.ts
 
 #EXTINF:-1,ES SP:HISTORIA
-http://iptvtool.es:9977/live/carlosh/carlosh/37160.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37160.ts
 
 #EXTINF:-1,ES SP:HISTORIA FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37159.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37159.ts
 
 #EXTINF:-1,ES SP:Iberalia
-http://iptvtool.es:9977/live/carlosh/carlosh/37153.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37153.ts
 
 #EXTINF:-1,ES SP:LIGA 123 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37177.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37177.ts
 
 #EXTINF:-1,ES SP:LIGA 123 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37178.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37178.ts
 
 #EXTINF:-1,ES SP:LIGA 123 SD
-http://iptvtool.es:9977/live/carlosh/carlosh/37179.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37179.ts
 
 #EXTINF:-1,ES SP:LIGA CAMPEONES
-http://iptvtool.es:9977/live/carlosh/carlosh/37187.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37187.ts
 
 #EXTINF:-1,ES SP:LIGA CAMPEONES HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37186.ts
-
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37185.ts
-
-#EXTINF:-1,ES SP:LIGA TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37182.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37186.ts
 
 #EXTINF:-1,ES SP:LIGATV FULL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37181.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37181.ts
 
 #EXTINF:-1,ES SP:LIGATV SD
-http://iptvtool.es:9977/live/carlosh/carlosh/37183.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37183.ts
 
 #EXTINF:-1,ES SP:MOVISTAR  DEPORTE
-http://iptvtool.es:9977/live/carlosh/carlosh/37203.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37203.ts
 
 #EXTINF:-1,ES SP:MOVISTAR  DEPORTE 2
-http://iptvtool.es:9977/live/carlosh/carlosh/37199.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37199.ts
 
 #EXTINF:-1,ES SP:MOVISTAR  FUTBOL
-http://iptvtool.es:9977/live/carlosh/carlosh/37194.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37194.ts
 
 #EXTINF:-1,ES SP:MOVISTAR  GOLF
-http://iptvtool.es:9977/live/carlosh/carlosh/37161.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37161.ts
 
 #EXTINF:-1,ES SP:MOVISTAR  MOTO GP
-http://iptvtool.es:9977/live/carlosh/carlosh/37167.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37167.ts
 
 #EXTINF:-1,ES SP:MOVISTAR  TOROS TV
-http://iptvtool.es:9977/live/carlosh/carlosh/37163.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37163.ts
 
 #EXTINF:-1,ES SP:MOVISTAR DEPORTE 1 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37201.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37201.ts
 
 #EXTINF:-1,ES SP:MOVISTAR DEPORTE 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37198.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37198.ts
 
 #EXTINF:-1,ES SP:MOVISTAR DEPORTE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37202.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37202.ts
 
 #EXTINF:-1,ES SP:MOVISTAR F1 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37169.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37169.ts
 
 #EXTINF:-1,ES SP:MOVISTAR F1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37170.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37170.ts
 
 #EXTINF:-1,ES SP:MOVISTAR FUTBOL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37193.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37193.ts
 
 #EXTINF:-1,ES SP:MOVISTAR FUTBOLL FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37192.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37192.ts
 
 #EXTINF:-1,ES SP:MOVISTAR GOLF FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37158.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37158.ts
 
 #EXTINF:-1,ES SP:MOVISTAR MOTO GP FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37165.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37165.ts
 
 #EXTINF:-1,ES SP:MOVISTAR MOTO GP HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37166.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37166.ts
 
 #EXTINF:-1,ES SP:MOVISTAR TOROS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/37162.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37162.ts
 
 #EXTINF:-1,ES SP:MOVISTAR XTRA PARA MOVIL
-http://iptvtool.es:9977/live/carlosh/carlosh/37107.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37107.ts
 
 #EXTINF:-1,ES SP:MULTIDEPORTE
-http://iptvtool.es:9977/live/carlosh/carlosh/37196.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37196.ts
 
 #EXTINF:-1,ES SP:REAL MADRID TV
-http://iptvtool.es:9977/live/carlosh/carlosh/37152.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37152.ts
 
 #EXTINF:-1,ES SP:TELEDEPORTE
-http://iptvtool.es:9977/live/carlosh/carlosh/37151.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37151.ts
 
 #EXTINF:-1,ES SP:TELEDEPORTE FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/37150.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/37150.ts
 
 #EXTINF:-1,TAQUILLA 1
-http://iptvtool.es:9977/live/carlosh/carlosh/36959.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36959.ts
 
 #EXTINF:-1,TAQUILLA 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36958.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36958.ts
 
 #EXTINF:-1,TAQUILLA 3
-http://iptvtool.es:9977/live/carlosh/carlosh/36957.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36957.ts
 
 #EXTINF:-1,TAQUILLA 4
-http://iptvtool.es:9977/live/carlosh/carlosh/36956.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36956.ts
 
 #EXTINF:-1,TAQUILLA 5
-http://iptvtool.es:9977/live/carlosh/carlosh/36955.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36955.ts
 
 #EXTINF:-1,TAQUILLA 6
-http://iptvtool.es:9977/live/carlosh/carlosh/36954.ts
+http://iptvtool.es:9977/live/Tercero/Tercero/36954.ts
 
 #EXTINF:-1,Hey-arnold-una-peli-en-la-jungla
-http://iptvtool.es:9977/movie/carlosh/carlosh/26946.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26946.mp4
 
 #EXTINF:-1,A ghost story
-http://iptvtool.es:9977/movie/carlosh/carlosh/26945.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26945.mp4
 
 #EXTINF:-1,Actos de venganza
-http://iptvtool.es:9977/movie/carlosh/carlosh/26944.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26944.mp4
 
 #EXTINF:-1,Goodbye Christopher Robin
-http://iptvtool.es:9977/movie/carlosh/carlosh/26943.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26943.mp4
 
 #EXTINF:-1,Afterimage
-http://iptvtool.es:9977/movie/carlosh/carlosh/26942.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26942.mp4
 
 #EXTINF:-1,Alibi.com
-http://iptvtool.es:9977/movie/carlosh/carlosh/26939.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26939.mp4
 
 #EXTINF:-1,Walking with the Enemy
-http://iptvtool.es:9977/movie/carlosh/carlosh/26941.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26941.mp4
 
 #EXTINF:-1,Something Huge
-http://iptvtool.es:9977/movie/carlosh/carlosh/26940.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26940.mp4
 
 #EXTINF:-1,American Assassin
-http://iptvtool.es:9977/movie/carlosh/carlosh/26938.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26938.mp4
 
 #EXTINF:-1,Amor a la siciliana
-http://iptvtool.es:9977/movie/carlosh/carlosh/26937.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26937.mp4
 
 #EXTINF:-1,Annihilation
-http://iptvtool.es:9977/movie/carlosh/carlosh/26936.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26936.mp4
 
 #EXTINF:-1,Área de descanso
-http://iptvtool.es:9977/movie/carlosh/carlosh/26935.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26935.mp4
 
 #EXTINF:-1,Asesinato en el Orient Express
-http://iptvtool.es:9977/movie/carlosh/carlosh/26934.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26934.mp4
 
 #EXTINF:-1,Asesinos Internacionales
-http://iptvtool.es:9977/movie/carlosh/carlosh/26933.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26933.mp4
 
 #EXTINF:-1,Atrapados
-http://iptvtool.es:9977/movie/carlosh/carlosh/26932.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26932.mp4
 
 #EXTINF:-1,Lego DC Comics Super Heroes: The Flash
-http://iptvtool.es:9977/movie/carlosh/carlosh/26884.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26884.mp4
 
 #EXTINF:-1,Los anarquistas
-http://iptvtool.es:9977/movie/carlosh/carlosh/26883.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26883.mp4
 
 #EXTINF:-1,Love Beats Rhymes
-http://iptvtool.es:9977/movie/carlosh/carlosh/26882.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26882.mp4
 
 #EXTINF:-1,Marshall
-http://iptvtool.es:9977/movie/carlosh/carlosh/26881.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26881.mp4
 
 #EXTINF:-1,Megan leavey
-http://iptvtool.es:9977/movie/carlosh/carlosh/26880.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26880.mp4
 
 #EXTINF:-1,Mi amigo Raffi
-http://iptvtool.es:9977/movie/carlosh/carlosh/26879.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26879.mp4
 
 #EXTINF:-1,Mi genio del mal
-http://iptvtool.es:9977/movie/carlosh/carlosh/26878.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26878.mp4
 
 #EXTINF:-1,Misión País Vasco
-http://iptvtool.es:9977/movie/carlosh/carlosh/26877.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26877.mp4
 
 #EXTINF:-1,Morir
-http://iptvtool.es:9977/movie/carlosh/carlosh/26876.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26876.mp4
 
 #EXTINF:-1,Mudo (Mute)
-http://iptvtool.es:9977/movie/carlosh/carlosh/26875.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26875.mp4
 
 #EXTINF:-1,Musa
-http://iptvtool.es:9977/movie/carlosh/carlosh/26874.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26874.mp4
 
 #EXTINF:-1,Rengaine
-http://iptvtool.es:9977/movie/carlosh/carlosh/26865.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26865.mp4
 
 #EXTINF:-1,Rescatando a Mr. Wu
-http://iptvtool.es:9977/movie/carlosh/carlosh/26864.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26864.mp4
 
 #EXTINF:-1,Rojo oscuro
-http://iptvtool.es:9977/movie/carlosh/carlosh/26862.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26862.mp4
 
 #EXTINF:-1,Santuario
-http://iptvtool.es:9977/movie/carlosh/carlosh/26861.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26861.mp4
 
 #EXTINF:-1,Secretos de un crimen
-http://iptvtool.es:9977/movie/carlosh/carlosh/26860.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26860.mp4
 
 #EXTINF:-1,Shot Caller
-http://iptvtool.es:9977/movie/carlosh/carlosh/26859.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26859.mp4
 
 #EXTINF:-1,Siete hermanas
-http://iptvtool.es:9977/movie/carlosh/carlosh/26858.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26858.mp4
 
 #EXTINF:-1,Sólo se vive una vez
-http://iptvtool.es:9977/movie/carlosh/carlosh/26857.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26857.mp4
 
-#EXTINF:-1,Spoor (El rastro)
-http://iptvtool.es:9977/movie/carlosh/carlosh/26826.mp4
+#EXTINF:-1,Superando El Límite
+http://iptvtool.es:9977/movie/Tercero/Tercero/26854.mp4
 
 #EXTINF:-1,Teresa y Tim
-http://iptvtool.es:9977/movie/carlosh/carlosh/26853.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26853.mp4
+
+#EXTINF:-1,The Belko Experiment
+http://iptvtool.es:9977/movie/Tercero/Tercero/26852.mp4
 
 #EXTINF:-1,The Hero
-http://iptvtool.es:9977/movie/carlosh/carlosh/26851.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26851.mp4
 
 #EXTINF:-1,The Hollow Point
-http://iptvtool.es:9977/movie/carlosh/carlosh/26850.mp4
-
-#EXTINF:-1,The lovers
-http://iptvtool.es:9977/movie/carlosh/carlosh/26849.mp4
-
-#EXTINF:-1,The Shanghai Job
-http://iptvtool.es:9977/movie/carlosh/carlosh/26848.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26850.mp4
 
 #EXTINF:-1,The Square
-http://iptvtool.es:9977/movie/carlosh/carlosh/26847.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26847.mp4
 
 #EXTINF:-1,Tierra Firme
-http://iptvtool.es:9977/movie/carlosh/carlosh/26846.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26846.mp4
 
 #EXTINF:-1,Tom of Finland
-http://iptvtool.es:9977/movie/carlosh/carlosh/26845.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26845.mp4
 
 #EXTINF:-1,Tres anuncios en las afueras
-http://iptvtool.es:9977/movie/carlosh/carlosh/26844.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26844.mp4
 
 #EXTINF:-1,Un golpe a la inglesa
-http://iptvtool.es:9977/movie/carlosh/carlosh/26843.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26843.mp4
 
 #EXTINF:-1,Un paso hacia la luz
-http://iptvtool.es:9977/movie/carlosh/carlosh/26842.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26842.mp4
 
 #EXTINF:-1,una aventura espacial
-http://iptvtool.es:9977/movie/carlosh/carlosh/26856.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26856.mp4
 
 #EXTINF:-1,Una razón para vivir
-http://iptvtool.es:9977/movie/carlosh/carlosh/26841.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26841.mp4
 
 #EXTINF:-1,Una vida a lo grande
-http://iptvtool.es:9977/movie/carlosh/carlosh/26840.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26840.mp4
 
 #EXTINF:-1,Uno tan diferente como yo
-http://iptvtool.es:9977/movie/carlosh/carlosh/26839.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26839.mp4
 
 #EXTINF:-1,Verano 1993
-http://iptvtool.es:9977/movie/carlosh/carlosh/26838.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26838.mp4
 
 #EXTINF:-1,Vivir y otras ficciones
-http://iptvtool.es:9977/movie/carlosh/carlosh/26837.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26837.mp4
 
 #EXTINF:-1,Wonder
-http://iptvtool.es:9977/movie/carlosh/carlosh/26836.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26836.mp4
 
 #EXTINF:-1,Wonder Wheel
-http://iptvtool.es:9977/movie/carlosh/carlosh/26835.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26835.mp4
 
 #EXTINF:-1,Newness.
-http://iptvtool.es:9977/movie/carlosh/carlosh/26832.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26832.mp4
 
 #EXTINF:-1,Niños en el tiempo
-http://iptvtool.es:9977/movie/carlosh/carlosh/26829.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26829.mp4
 
 #EXTINF:-1,No sé decir adiós
-http://iptvtool.es:9977/movie/carlosh/carlosh/26831.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26831.mp4
 
 #EXTINF:-1,No soy un hombre fácil
-http://iptvtool.es:9977/movie/carlosh/carlosh/26830.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26830.mp4
 
 #EXTINF:-1,Novitiate
-http://iptvtool.es:9977/movie/carlosh/carlosh/26834.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26834.mp4
 
 #EXTINF:-1,Nuestra vida en la Borgoña
-http://iptvtool.es:9977/movie/carlosh/carlosh/26833.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26833.mp4
 
 #EXTINF:-1,Open Water: Inmersión extrema
-http://iptvtool.es:9977/movie/carlosh/carlosh/26827.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26827.mp4
 
 #EXTINF:-1,Oro
-http://iptvtool.es:9977/movie/carlosh/carlosh/26873.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26873.mp4
 
 #EXTINF:-1,P-51 Dragon Fighter
-http://iptvtool.es:9977/movie/carlosh/carlosh/26872.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26872.mp4
 
 #EXTINF:-1,Paddington 2
-http://iptvtool.es:9977/movie/carlosh/carlosh/26871.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26871.mp4
 
 #EXTINF:-1,Patti Cake$
-http://iptvtool.es:9977/movie/carlosh/carlosh/26870.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26870.mp4
 
 #EXTINF:-1,Perdida en la noche
-http://iptvtool.es:9977/movie/carlosh/carlosh/26869.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26869.mp4
 
 #EXTINF:-1,Pitchfork
-http://iptvtool.es:9977/movie/carlosh/carlosh/26868.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26868.mp4
 
 #EXTINF:-1,Poseido
-http://iptvtool.es:9977/movie/carlosh/carlosh/26867.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26867.mp4
 
 #EXTINF:-1,Precious
-http://iptvtool.es:9977/movie/carlosh/carlosh/26866.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26866.mp4
 
 #EXTINF:-1,Jumanji: Bienvenidos a la jungla
-http://iptvtool.es:9977/movie/carlosh/carlosh/26895.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26895.mp4
 
 #EXTINF:-1,La batalla de los sexos
-http://iptvtool.es:9977/movie/carlosh/carlosh/26894.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26894.mp4
 
 #EXTINF:-1,La Cordillera
-http://iptvtool.es:9977/movie/carlosh/carlosh/26893.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26893.mp4
 
 #EXTINF:-1,La diligencia: La historia de Texas Jack
-http://iptvtool.es:9977/movie/carlosh/carlosh/26892.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26892.mp4
 
 #EXTINF:-1,La enviada del mal
-http://iptvtool.es:9977/movie/carlosh/carlosh/26891.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26891.mp4
 
 #EXTINF:-1,La forma del agua
-http://iptvtool.es:9977/movie/carlosh/carlosh/26890.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26890.mp4
 
 #EXTINF:-1,La jungla interior
-http://iptvtool.es:9977/movie/carlosh/carlosh/26889.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26889.mp4
 
 #EXTINF:-1,La leyenda de Ben Hall
-http://iptvtool.es:9977/movie/carlosh/carlosh/26888.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26888.mp4
 
 #EXTINF:-1,La niebla y la doncella
-http://iptvtool.es:9977/movie/carlosh/carlosh/26887.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26887.mp4
 
 #EXTINF:-1,La poesía del duelo
-http://iptvtool.es:9977/movie/carlosh/carlosh/26886.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26886.mp4
 
 #EXTINF:-1,La suerte de los Logan
-http://iptvtool.es:9977/movie/carlosh/carlosh/26885.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26885.mp4
 
 #EXTINF:-1,Escuadron Suicida: Deuda infernalSuicide Squad Hell to Pay
-http://iptvtool.es:9977/movie/carlosh/carlosh/26903.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26903.mp4
 
 #EXTINF:-1,Feliz día de tu muerte
-http://iptvtool.es:9977/movie/carlosh/carlosh/26902.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26902.mp4
 
 #EXTINF:-1,Ferdinand
-http://iptvtool.es:9977/movie/carlosh/carlosh/26901.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26901.mp4
 
 #EXTINF:-1,Fullmetal Alchemist
-http://iptvtool.es:9977/movie/carlosh/carlosh/26900.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26900.mp4
 
 #EXTINF:-1,Gantz: o
-http://iptvtool.es:9977/movie/carlosh/carlosh/26899.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26899.mp4
 
 #EXTINF:-1,Guardianes de la Tumba
-http://iptvtool.es:9977/movie/carlosh/carlosh/26898.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26898.mp4
 
 #EXTINF:-1,Handia
-http://iptvtool.es:9977/movie/carlosh/carlosh/26897.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26897.mp4
 
 #EXTINF:-1,Ignacio de Loyola
-http://iptvtool.es:9977/movie/carlosh/carlosh/26896.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26896.mp4
 
 #EXTINF:-1,Benji.
-http://iptvtool.es:9977/movie/carlosh/carlosh/26931.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26931.mp4
 
 #EXTINF:-1,Blade runner 2049
-http://iptvtool.es:9977/movie/carlosh/carlosh/26930.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26930.mp4
 
 #EXTINF:-1,Bullet Head
-http://iptvtool.es:9977/movie/carlosh/carlosh/26929.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26929.mp4
 
 #EXTINF:-1,Bushwick
-http://iptvtool.es:9977/movie/carlosh/carlosh/26928.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26928.mp4
 
 #EXTINF:-1,Bye Bye Germany
-http://iptvtool.es:9977/movie/carlosh/carlosh/26927.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26927.mp4
 
 #EXTINF:-1,Cambio de planes
-http://iptvtool.es:9977/movie/carlosh/carlosh/26926.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26926.mp4
 
 #EXTINF:-1,Cancion De Nueva York
-http://iptvtool.es:9977/movie/carlosh/carlosh/26925.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26925.mp4
 
 #EXTINF:-1,Coco
-http://iptvtool.es:9977/movie/carlosh/carlosh/26924.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26924.mp4
 
 #EXTINF:-1,Come Sunday
-http://iptvtool.es:9977/movie/carlosh/carlosh/26923.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26923.mp4
 
 #EXTINF:-1,Con los brazos abiertos
-http://iptvtool.es:9977/movie/carlosh/carlosh/26922.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26922.mp4
 
 #EXTINF:-1,Creep 2
-http://iptvtool.es:9977/movie/carlosh/carlosh/26921.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26921.mp4
 
 #EXTINF:-1,Cute Little Buggers
-http://iptvtool.es:9977/movie/carlosh/carlosh/26920.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26920.mp4
 
 #EXTINF:-1,Deep
-http://iptvtool.es:9977/movie/carlosh/carlosh/26919.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26919.mp4
 
 #EXTINF:-1,Del revés
-http://iptvtool.es:9977/movie/carlosh/carlosh/26918.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26918.mp4
 
 #EXTINF:-1,El ataúd de cristal
-http://iptvtool.es:9977/movie/carlosh/carlosh/26917.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26917.mp4
 
 #EXTINF:-1,El autor
-http://iptvtool.es:9977/movie/carlosh/carlosh/26916.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26916.mp4
 
 #EXTINF:-1,El castillo de cristal
-http://iptvtool.es:9977/movie/carlosh/carlosh/26915.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26915.mp4
 
 #EXTINF:-1,El efecto sombra
-http://iptvtool.es:9977/movie/carlosh/carlosh/26914.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26914.mp4
 
 #EXTINF:-1,El entrenador personal
-http://iptvtool.es:9977/movie/carlosh/carlosh/26913.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26913.mp4
 
 #EXTINF:-1,El gran desmadre (Malas madres 2)
-http://iptvtool.es:9977/movie/carlosh/carlosh/26912.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26912.mp4
 
 #EXTINF:-1,El guardián de la reliquia
-http://iptvtool.es:9977/movie/carlosh/carlosh/26911.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26911.mp4
 
 #EXTINF:-1,El maravilloso jardín secreto de Bella Brown
-http://iptvtool.es:9977/movie/carlosh/carlosh/26828.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26828.mp4
 
 #EXTINF:-1,El rey de los belgas
-http://iptvtool.es:9977/movie/carlosh/carlosh/26910.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26910.mp4
 
 #EXTINF:-1,El secreto de Marrowbone
-http://iptvtool.es:9977/movie/carlosh/carlosh/26909.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26909.mp4
 
 #EXTINF:-1,El sentido de un final
-http://iptvtool.es:9977/movie/carlosh/carlosh/26908.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26908.mp4
 
 #EXTINF:-1,En cuerpo y alma
-http://iptvtool.es:9977/movie/carlosh/carlosh/26907.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26907.mp4
 
 #EXTINF:-1,En lugar del Sr. Stein
-http://iptvtool.es:9977/movie/carlosh/carlosh/26906.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26906.mp4
 
 #EXTINF:-1,Enemigas íntimas
-http://iptvtool.es:9977/movie/carlosh/carlosh/26905.mp4
+http://iptvtool.es:9977/movie/Tercero/Tercero/26905.mp4
 
 #EXTINF:-1,Entre dos maridos
-http://iptvtool.es:9977/movie/carlosh/carlosh/26904.mp4
-
-#EXTINF:-1,UK: BT Sport 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27096.ts
-
-#EXTINF:-1,UK: BT Sport 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27094.ts
-
-#EXTINF:-1,UK: Sky Sport Action HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27092.ts
-
-#EXTINF:-1,UK: Sky Sport Arena HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27088.ts
-
-#EXTINF:-1,UK: SKY SPORT MIX
-http://iptvtool.es:9977/live/carlosh/carlosh/27086.ts
-
-#EXTINF:-1,UK: SKY SPORTS GOLF HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27090.ts
-
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27089.ts
-
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/27085.ts
-
-#EXTINF:-1,UK: Sky Box Nation (PPV Events Only)
-http://iptvtool.es:9977/live/carlosh/carlosh/27118.ts
-
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27135.ts
-
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27134.ts
-
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27132.ts
-
-#EXTINF:-1,UK: Sky Cinema Premier HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27129.ts
-
-#EXTINF:-1,UK: Sky Movies Select HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27123.ts
-
-#EXTINF:-1,UK: 5Star
-http://iptvtool.es:9977/live/carlosh/carlosh/27105.ts
-
-#EXTINF:-1,UK: Animal Planet   1
-http://iptvtool.es:9977/live/carlosh/carlosh/27067.ts
-
-#EXTINF:-1,UK: Baby TV
-http://iptvtool.es:9977/live/carlosh/carlosh/27076.ts
-
-#EXTINF:-1,UK: BOX OFFICE HD 1
-http://iptvtool.es:9977/live/carlosh/carlosh/27127.ts
-
-#EXTINF:-1,UK: BOX OFFICE HD 2
-http://iptvtool.es:9977/live/carlosh/carlosh/27126.ts
-
-#EXTINF:-1,UK: BOX OFFICE HD 3
-http://iptvtool.es:9977/live/carlosh/carlosh/27125.ts
-
-#EXTINF:-1,UK: BOX OFFICE HD 4
-http://iptvtool.es:9977/live/carlosh/carlosh/27124.ts
-
-#EXTINF:-1,UK: Cartoon network HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27080.ts
-
-#EXTINF:-1,UK: Cartoonito
-http://iptvtool.es:9977/live/carlosh/carlosh/27071.ts
-
-#EXTINF:-1,UK: Challenge   1
-http://iptvtool.es:9977/live/carlosh/carlosh/27057.ts
-
-#EXTINF:-1,UK: Comedy Central
-http://iptvtool.es:9977/live/carlosh/carlosh/27119.ts
-
-#EXTINF:-1,UK: Crime & Investigiation
-http://iptvtool.es:9977/live/carlosh/carlosh/27106.ts
-
-#EXTINF:-1,UK: Discovery History
-http://iptvtool.es:9977/live/carlosh/carlosh/27065.ts
-
-#EXTINF:-1,UK: Discovery History  1
-http://iptvtool.es:9977/live/carlosh/carlosh/27064.ts
-
-#EXTINF:-1,UK: Discovery Science
-http://iptvtool.es:9977/live/carlosh/carlosh/27062.ts
-
-#EXTINF:-1,UK: Discovery Shed
-http://iptvtool.es:9977/live/carlosh/carlosh/27061.ts
-
-#EXTINF:-1,UK: Discovery Turbo
-http://iptvtool.es:9977/live/carlosh/carlosh/27060.ts
-
-#EXTINF:-1,UK: Disney
-http://iptvtool.es:9977/live/carlosh/carlosh/27079.ts
-
-#EXTINF:-1,UK: Disney Channel   1
-http://iptvtool.es:9977/live/carlosh/carlosh/27070.ts
-
-#EXTINF:-1,UK: Disney XD
-http://iptvtool.es:9977/live/carlosh/carlosh/27077.ts
-
-#EXTINF:-1,UK: Disney XD   1
-http://iptvtool.es:9977/live/carlosh/carlosh/27069.ts
-
-#EXTINF:-1,UK: DMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/27104.ts
-
-#EXTINF:-1,UK: Film 4
-http://iptvtool.es:9977/live/carlosh/carlosh/27120.ts
-
-#EXTINF:-1,UK: HBO 1
-http://iptvtool.es:9977/live/carlosh/carlosh/27113.ts
-
-#EXTINF:-1,UK: HBO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27114.ts
-
-#EXTINF:-1,UK: History
-http://iptvtool.es:9977/live/carlosh/carlosh/27054.ts
-
-#EXTINF:-1,UK: History  1
-http://iptvtool.es:9977/live/carlosh/carlosh/27053.ts
-
-#EXTINF:-1,UK: Home&Health   1
-http://iptvtool.es:9977/live/carlosh/carlosh/27052.ts
-
-#EXTINF:-1,UK: Investigation Discovery
-http://iptvtool.es:9977/live/carlosh/carlosh/27059.ts
-
-#EXTINF:-1,UK: ITV 4 FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/27101.ts
-
-#EXTINF:-1,UK: Manchester United TV
-http://iptvtool.es:9977/live/carlosh/carlosh/27083.ts
-
-#EXTINF:-1,UK: Mototrs TV
-http://iptvtool.es:9977/live/carlosh/carlosh/27081.ts
-
-#EXTINF:-1,UK: MTV
-http://iptvtool.es:9977/live/carlosh/carlosh/27049.ts
-
-#EXTINF:-1,UK: MTV Base HD
-http://iptvtool.es:9977/live/carlosh/carlosh/27048.ts
-
-#EXTINF:-1,UK: Nat Geo Wild
-http://iptvtool.es:9977/live/carlosh/carlosh/27056.ts
-
-#EXTINF:-1,UK: NATGEO WILD
-http://iptvtool.es:9977/live/carlosh/carlosh/27055.ts
-
-#EXTINF:-1,UK: Nick Jr  1
-http://iptvtool.es:9977/live/carlosh/carlosh/27075.ts
-
-#EXTINF:-1,UK: Nick Jr Too
-http://iptvtool.es:9977/live/carlosh/carlosh/27074.ts
-
-#EXTINF:-1,UK: Nickelodeon   1
-http://iptvtool.es:9977/live/carlosh/carlosh/27072.ts
-
-#EXTINF:-1,UK: Racing UK
-http://iptvtool.es:9977/live/carlosh/carlosh/27082.ts
-
-#EXTINF:-1,UK: Sky Arts
-http://iptvtool.es:9977/live/carlosh/carlosh/27100.ts
-
-#EXTINF:-1,UK: True Movies 1
-http://iptvtool.es:9977/live/carlosh/carlosh/27122.ts
-
-#EXTINF:-1,UK: True Movies 2
-http://iptvtool.es:9977/live/carlosh/carlosh/27121.ts
-
-#EXTINF:-1,USA Bravo
-http://iptvtool.es:9977/live/carlosh/carlosh/35241.ts
-
-#EXTINF:-1,USA CA-TSN1
-http://iptvtool.es:9977/live/carlosh/carlosh/35217.ts
-
-#EXTINF:-1,USA CA-TSN2
-http://iptvtool.es:9977/live/carlosh/carlosh/35216.ts
-
-#EXTINF:-1,USA CA-TSN3
-http://iptvtool.es:9977/live/carlosh/carlosh/35215.ts
-
-#EXTINF:-1,USA CA-TSN4
-http://iptvtool.es:9977/live/carlosh/carlosh/35214.ts
-
-#EXTINF:-1,USA CA-TSN5
-http://iptvtool.es:9977/live/carlosh/carlosh/35213.ts
-
-#EXTINF:-1,USA CBS
-http://iptvtool.es:9977/live/carlosh/carlosh/35247.ts
-
-#EXTINF:-1,USA CineMax
-http://iptvtool.es:9977/live/carlosh/carlosh/35244.ts
-
-#EXTINF:-1,USA CNBC
-http://iptvtool.es:9977/live/carlosh/carlosh/35240.ts
-
-#EXTINF:-1,USA CW
-http://iptvtool.es:9977/live/carlosh/carlosh/35239.ts
-
-#EXTINF:-1,USA ESPN
-http://iptvtool.es:9977/live/carlosh/carlosh/35238.ts
-
-#EXTINF:-1,USA ESPN 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35237.ts
-
-#EXTINF:-1,USA FOX
-http://iptvtool.es:9977/live/carlosh/carlosh/35236.ts
-
-#EXTINF:-1,USA Fox News
-http://iptvtool.es:9977/live/carlosh/carlosh/35235.ts
-
-#EXTINF:-1,USA Fox Sports 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35233.ts
-
-#EXTINF:-1,USA FoxSports 1
-http://iptvtool.es:9977/live/carlosh/carlosh/35234.ts
-
-#EXTINF:-1,USA FX
-http://iptvtool.es:9977/live/carlosh/carlosh/35232.ts
-
-#EXTINF:-1,USA Hallmark
-http://iptvtool.es:9977/live/carlosh/carlosh/35231.ts
-
-#EXTINF:-1,USA HBO
-http://iptvtool.es:9977/live/carlosh/carlosh/35254.ts
-
-#EXTINF:-1,USA HBO FAMILY
-http://iptvtool.es:9977/live/carlosh/carlosh/35253.ts
-
-#EXTINF:-1,USA HBO Signature
-http://iptvtool.es:9977/live/carlosh/carlosh/35255.ts
-
-#EXTINF:-1,USA HBO ZONE
-http://iptvtool.es:9977/live/carlosh/carlosh/35252.ts
-
-#EXTINF:-1,USA HISTORY
-http://iptvtool.es:9977/live/carlosh/carlosh/35230.ts
-
-#EXTINF:-1,USA MTV Live
-http://iptvtool.es:9977/live/carlosh/carlosh/35229.ts
-
-#EXTINF:-1,USA NBA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35228.ts
-
-#EXTINF:-1,USA NBC
-http://iptvtool.es:9977/live/carlosh/carlosh/35246.ts
-
-#EXTINF:-1,USA NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/35221.ts
-
-#EXTINF:-1,USA NFL NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/35227.ts
-
-#EXTINF:-1,USA NHL NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/35226.ts
-
-#EXTINF:-1,USA Showtime
-http://iptvtool.es:9977/live/carlosh/carlosh/35225.ts
-
-#EXTINF:-1,USA SHOWTIME SHOWCASE
-http://iptvtool.es:9977/live/carlosh/carlosh/35224.ts
-
-#EXTINF:-1,USA STARZ CINEMA
-http://iptvtool.es:9977/live/carlosh/carlosh/35223.ts
-
-#EXTINF:-1,USA STARZ COMEDY
-http://iptvtool.es:9977/live/carlosh/carlosh/35222.ts
-
-#EXTINF:-1,USA STARZ ENCORE
-http://iptvtool.es:9977/live/carlosh/carlosh/35220.ts
-
-#EXTINF:-1,USA SYFY
-http://iptvtool.es:9977/live/carlosh/carlosh/35219.ts
-
-#EXTINF:-1,CA-AMC
-http://iptvtool.es:9977/live/carlosh/carlosh/35210.ts
-
-#EXTINF:-1,CA-Animal Planet
-http://iptvtool.es:9977/live/carlosh/carlosh/35206.ts
-
-#EXTINF:-1,CA-HISTORY
-http://iptvtool.es:9977/live/carlosh/carlosh/35205.ts
-
-#EXTINF:-1,CA-MSNBC
-http://iptvtool.es:9977/live/carlosh/carlosh/35208.ts
-
-#EXTINF:-1,CA-NBC WEST
-http://iptvtool.es:9977/live/carlosh/carlosh/35209.ts
-
-#EXTINF:-1,CA-Sportsnet 360
-http://iptvtool.es:9977/live/carlosh/carlosh/35203.ts
-
-#EXTINF:-1,CA-Sportsnet One
-http://iptvtool.es:9977/live/carlosh/carlosh/35204.ts
-
-#EXTINF:-1,CA-Sportsnet Ontario
-http://iptvtool.es:9977/live/carlosh/carlosh/35201.ts
-
-#EXTINF:-1,CA-Sportsnet World
-http://iptvtool.es:9977/live/carlosh/carlosh/35202.ts
-
-#EXTINF:-1,NL: 24 Kitchen
-http://iptvtool.es:9977/live/carlosh/carlosh/36349.ts
-
-#EXTINF:-1,NL: AT5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36347.ts
-
-#EXTINF:-1,NL: BBC Entertainement
-http://iptvtool.es:9977/live/carlosh/carlosh/36346.ts
-
-#EXTINF:-1,NL: BVN
-http://iptvtool.es:9977/live/carlosh/carlosh/36345.ts
-
-#EXTINF:-1,NL: Comedy Central
-http://iptvtool.es:9977/live/carlosh/carlosh/36343.ts
-
-#EXTINF:-1,NL: Comedy Central Extra
-http://iptvtool.es:9977/live/carlosh/carlosh/36342.ts
-
-#EXTINF:-1,NL: Discovery Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/36339.ts
-
-#EXTINF:-1,NL: Discovery Science HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36338.ts
-
-#EXTINF:-1,NL: Disney Channel HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36337.ts
-
-#EXTINF:-1,NL: Disney Junior
-http://iptvtool.es:9977/live/carlosh/carlosh/36336.ts
-
-#EXTINF:-1,NL: Eurosport 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36333.ts
-
-#EXTINF:-1,NL: Eurosport 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36332.ts
-
-#EXTINF:-1,NL: Film 1 Action HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36331.ts
-
-#EXTINF:-1,NL: Film 1 Comedy HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36330.ts
-
-#EXTINF:-1,NL: Fox HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36326.ts
-
-#EXTINF:-1,NL: Fox Sports 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36325.ts
-
-#EXTINF:-1,NL: Fox Sports 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36324.ts
-
-#EXTINF:-1,NL: Fox Sports 3
-http://iptvtool.es:9977/live/carlosh/carlosh/36323.ts
-
-#EXTINF:-1,NL: Fox Sports 4
-http://iptvtool.es:9977/live/carlosh/carlosh/36322.ts
-
-#EXTINF:-1,NL: Fox Sports 5
-http://iptvtool.es:9977/live/carlosh/carlosh/36321.ts
-
-#EXTINF:-1,NL: Fox Sports 6
-http://iptvtool.es:9977/live/carlosh/carlosh/36320.ts
-
-#EXTINF:-1,NL: History Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/36317.ts
-
-#EXTINF:-1,NL: I Concerts
-http://iptvtool.es:9977/live/carlosh/carlosh/36316.ts
-
-#EXTINF:-1,NL: Investigation Discovery
-http://iptvtool.es:9977/live/carlosh/carlosh/36315.ts
-
-#EXTINF:-1,NL: JimJam
-http://iptvtool.es:9977/live/carlosh/carlosh/36314.ts
-
-#EXTINF:-1,NL: L1 Limburg
-http://iptvtool.es:9977/live/carlosh/carlosh/36313.ts
-
-#EXTINF:-1,NL: MTV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36312.ts
-
-#EXTINF:-1,NL: National Geographic HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36310.ts
-
-#EXTINF:-1,NL: National Geographic Wild HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36309.ts
-
-#EXTINF:-1,NL: Net 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36308.ts
-
-#EXTINF:-1,NL: Nick Jr
-http://iptvtool.es:9977/live/carlosh/carlosh/36307.ts
-
-#EXTINF:-1,NL: Nickelodeon / Spike
-http://iptvtool.es:9977/live/carlosh/carlosh/36306.ts
-
-#EXTINF:-1,NL: Nicktoons
-http://iptvtool.es:9977/live/carlosh/carlosh/36305.ts
-
-#EXTINF:-1,NL: NPO 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36304.ts
-
-#EXTINF:-1,NL: NPO 101
-http://iptvtool.es:9977/live/carlosh/carlosh/36303.ts
-
-#EXTINF:-1,NL: NPO 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36302.ts
-
-#EXTINF:-1,NL: NPO 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36301.ts
-
-#EXTINF:-1,NL: NPO Cultura
-http://iptvtool.es:9977/live/carlosh/carlosh/36300.ts
-
-#EXTINF:-1,NL: NPO Politiek/Best
-http://iptvtool.es:9977/live/carlosh/carlosh/36299.ts
-
-#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36298.ts
-
-#EXTINF:-1,NL: Omroep Zeeland
-http://iptvtool.es:9977/live/carlosh/carlosh/36297.ts
-
-#EXTINF:-1,NL: ONS
-http://iptvtool.es:9977/live/carlosh/carlosh/36296.ts
-
-#EXTINF:-1,NL: Oost
-http://iptvtool.es:9977/live/carlosh/carlosh/36295.ts
-
-#EXTINF:-1,NL: RTL 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36294.ts
-
-#EXTINF:-1,NL: RTL 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36293.ts
-
-#EXTINF:-1,NL: RTL 7 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36292.ts
-
-#EXTINF:-1,NL: RTL 8 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36291.ts
-
-#EXTINF:-1,NL: RTL Lounge
-http://iptvtool.es:9977/live/carlosh/carlosh/36290.ts
-
-#EXTINF:-1,NL: RTL Z
-http://iptvtool.es:9977/live/carlosh/carlosh/36289.ts
-
-#EXTINF:-1,NL: RTV Drenthe
-http://iptvtool.es:9977/live/carlosh/carlosh/36288.ts
-
-#EXTINF:-1,NL: RTV Totaal voor Maas en Waal
-http://iptvtool.es:9977/live/carlosh/carlosh/36286.ts
-
-#EXTINF:-1,NL: SBS 6 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36285.ts
-
-#EXTINF:-1,NL: SBS 9
-http://iptvtool.es:9977/live/carlosh/carlosh/36284.ts
-
-#EXTINF:-1,NL: Shorts TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36283.ts
-
-#EXTINF:-1,NL: TLC
-http://iptvtool.es:9977/live/carlosh/carlosh/36280.ts
-
-#EXTINF:-1,NL: TV Oranje
-http://iptvtool.es:9977/live/carlosh/carlosh/36278.ts
-
-#EXTINF:-1,NL: TVO
-http://iptvtool.es:9977/live/carlosh/carlosh/36277.ts
-
-#EXTINF:-1,NL: Veronica / Disney XD
-http://iptvtool.es:9977/live/carlosh/carlosh/36276.ts
-
-#EXTINF:-1,NL: WOS TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36275.ts
-
-#EXTINF:-1,NL: Zeeland Televisie
-http://iptvtool.es:9977/live/carlosh/carlosh/36274.ts
-
-#EXTINF:-1,NL: Ziggo Sport eXtra 1
-http://iptvtool.es:9977/live/carlosh/carlosh/36273.ts
-
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36272.ts
-
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://iptvtool.es:9977/live/carlosh/carlosh/36271.ts
-
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://iptvtool.es:9977/live/carlosh/carlosh/36270.ts
-
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36269.ts
-
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://iptvtool.es:9977/live/carlosh/carlosh/36268.ts
-
-#EXTINF:-1,(IT) RAI 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36425.ts
-
-#EXTINF:-1,(IT) RAI 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36424.ts
-
-#EXTINF:-1,(IT) RAI 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36423.ts
-
-#EXTINF:-1,(IT) RAI 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36421.ts
-
-#EXTINF:-1,(IT) Rai Movie
-http://iptvtool.es:9977/live/carlosh/carlosh/36419.ts
-
-#EXTINF:-1,(IT) Rai News 24
-http://iptvtool.es:9977/live/carlosh/carlosh/36418.ts
-
-#EXTINF:-1,(IT) Rai Premium
-http://iptvtool.es:9977/live/carlosh/carlosh/36417.ts
-
-#EXTINF:-1,(IT) Rai Sport 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36415.ts
-
-#EXTINF:-1,(IT) Real Time HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36412.ts
-
-#EXTINF:-1,(IT) Rete4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36411.ts
-
-#EXTINF:-1,(IT) RSI La2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36409.ts
-
-#EXTINF:-1,(IT) Alice
-http://iptvtool.es:9977/live/carlosh/carlosh/36503.ts
-
-#EXTINF:-1,(IT) Animal Planet
-http://iptvtool.es:9977/live/carlosh/carlosh/36502.ts
-
-#EXTINF:-1,(IT) Automoto TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36501.ts
-
-#EXTINF:-1,(IT) Boing
-http://iptvtool.es:9977/live/carlosh/carlosh/36499.ts
-
-#EXTINF:-1,(IT) Canale 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36497.ts
-
-#EXTINF:-1,(IT) Cartoon Network
-http://iptvtool.es:9977/live/carlosh/carlosh/36496.ts
-
-#EXTINF:-1,(IT) Cartoonito
-http://iptvtool.es:9977/live/carlosh/carlosh/36495.ts
-
-#EXTINF:-1,(IT) Cielo HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36494.ts
-
-#EXTINF:-1,(IT) Deejay TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36492.ts
-
-#EXTINF:-1,(IT) Discovery HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36491.ts
-
-#EXTINF:-1,(IT) Discovery Science HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36490.ts
-
-#EXTINF:-1,(IT) Discovery Travel & Living HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36489.ts
-
-#EXTINF:-1,(IT) Disney XD
-http://iptvtool.es:9977/live/carlosh/carlosh/36487.ts
-
-#EXTINF:-1,(IT) Dmax
-http://iptvtool.es:9977/live/carlosh/carlosh/36486.ts
-
-#EXTINF:-1,(IT) Eurosport 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36482.ts
-
-#EXTINF:-1,(IT) Fine living
-http://iptvtool.es:9977/live/carlosh/carlosh/36480.ts
-
-#EXTINF:-1,(IT) Fox Animation HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36478.ts
-
-#EXTINF:-1,(IT) Fox Comedy HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36477.ts
-
-#EXTINF:-1,(IT) Fox HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36476.ts
-
-#EXTINF:-1,(IT) Fox Life HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36475.ts
-
-#EXTINF:-1,(IT) Fox Sports HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36474.ts
-
-#EXTINF:-1,(IT) GAMBERRO ROSSO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36473.ts
-
-#EXTINF:-1,(IT) Giallo
-http://iptvtool.es:9977/live/carlosh/carlosh/36472.ts
-
-#EXTINF:-1,(IT) History
-http://iptvtool.es:9977/live/carlosh/carlosh/36471.ts
-
-#EXTINF:-1,(IT) INTER CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/36470.ts
-
-#EXTINF:-1,(IT) Iris
-http://iptvtool.es:9977/live/carlosh/carlosh/36468.ts
-
-#EXTINF:-1,(IT) Italia 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36467.ts
-
-#EXTINF:-1,(IT) Italia 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36466.ts
-
-#EXTINF:-1,(IT) Italian Fishing TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36465.ts
-
-#EXTINF:-1,(IT) K2
-http://iptvtool.es:9977/live/carlosh/carlosh/36464.ts
-
-#EXTINF:-1,(IT) LA 7d HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36462.ts
-
-#EXTINF:-1,(IT) M2O TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36460.ts
-
-#EXTINF:-1,(IT) MANGA
-http://iptvtool.es:9977/live/carlosh/carlosh/36459.ts
-
-#EXTINF:-1,(IT) Milan Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/36450.ts
-
-#EXTINF:-1,(IT) Nautical HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36453.ts
-
-#EXTINF:-1,(IT) Paramount Channel HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36451.ts
-
-#EXTINF:-1,(IT) Premium Action HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36448.ts
-
-#EXTINF:-1,(IT) Premium Calcio 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36447.ts
-
-#EXTINF:-1,(IT) Premium Calcio 3
-http://iptvtool.es:9977/live/carlosh/carlosh/36445.ts
-
-#EXTINF:-1,(IT) Premium Calcio 4
-http://iptvtool.es:9977/live/carlosh/carlosh/36444.ts
-
-#EXTINF:-1,(IT) Premium Calcio 5
-http://iptvtool.es:9977/live/carlosh/carlosh/36443.ts
-
-#EXTINF:-1,(IT) Premium Cinema HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36438.ts
-
-#EXTINF:-1,(IT) Premium Comedy
-http://iptvtool.es:9977/live/carlosh/carlosh/36437.ts
-
-#EXTINF:-1,(IT) Premium Emotion
-http://iptvtool.es:9977/live/carlosh/carlosh/36434.ts
-
-#EXTINF:-1,(IT) Premium Energy
-http://iptvtool.es:9977/live/carlosh/carlosh/36433.ts
-
-#EXTINF:-1,(IT) Premium Joi  24
-http://iptvtool.es:9977/live/carlosh/carlosh/36432.ts
-
-#EXTINF:-1,(IT) Premium Joi HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36431.ts
-
-#EXTINF:-1,(IT) Premium Sport 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36430.ts
-
-#EXTINF:-1,(IT) Premium Stories
-http://iptvtool.es:9977/live/carlosh/carlosh/36427.ts
-
-#EXTINF:-1,(IT) Sky Atlantic HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36408.ts
-
-#EXTINF:-1,(IT) Sky Calcio 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36407.ts
-
-#EXTINF:-1,(IT) Sky Cinema  1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36401.ts
-
-#EXTINF:-1,(IT) Sky Cinema  24 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36400.ts
-
-#EXTINF:-1,(IT) Sky Cinema 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36399.ts
-
-#EXTINF:-1,(IT) Sky Cinema Classic
-http://iptvtool.es:9977/live/carlosh/carlosh/36398.ts
-
-#EXTINF:-1,(IT) Sky Cinema Comedy HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36397.ts
-
-#EXTINF:-1,(IT) Sky Cinema Cult HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36396.ts
-
-#EXTINF:-1,(IT) Sky Cinema Family HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36395.ts
-
-#EXTINF:-1,(IT) Sky Cinema Hits HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36394.ts
-
-#EXTINF:-1,(IT) Sky Cinema Max  1
-http://iptvtool.es:9977/live/carlosh/carlosh/36393.ts
-
-#EXTINF:-1,(IT) Sky Cinema Max HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36392.ts
-
-#EXTINF:-1,(IT) Sky Cinema Passion HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36391.ts
-
-#EXTINF:-1,(IT) Sky Primafila 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36390.ts
-
-#EXTINF:-1,(IT) Sky Primafila 10 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36389.ts
-
-#EXTINF:-1,(IT) Sky Primafila 11 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36388.ts
-
-#EXTINF:-1,(IT) Sky PrimaFila 12 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36387.ts
-
-#EXTINF:-1,(IT) Sky Primafila 13 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36386.ts
-
-#EXTINF:-1,(IT) Sky Primafila 14 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36385.ts
-
-#EXTINF:-1,(IT) Sky Primafila 15 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36384.ts
-
-#EXTINF:-1,(IT) Sky Primafila 16 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36383.ts
-
-#EXTINF:-1,(IT) Sky Primafila 17 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36382.ts
-
-#EXTINF:-1,(IT) Sky Primafila 18 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36381.ts
-
-#EXTINF:-1,(IT) Sky Primafila 19 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36380.ts
-
-#EXTINF:-1,(IT) Sky Primafila 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36379.ts
-
-#EXTINF:-1,(IT) Sky Primafila 20 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36378.ts
-
-#EXTINF:-1,(IT) Sky Primafila 21 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36377.ts
-
-#EXTINF:-1,(IT) Sky Primafila 22 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36376.ts
-
-#EXTINF:-1,(IT) Sky Primafila 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36375.ts
-
-#EXTINF:-1,(IT) Sky Primafila 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36374.ts
-
-#EXTINF:-1,(IT) Sky Primafila 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36373.ts
-
-#EXTINF:-1,(IT) Sky Primafila 6 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36372.ts
-
-#EXTINF:-1,(IT) Sky Primafila 7 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36371.ts
-
-#EXTINF:-1,(IT) Sky Primafila 8 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36370.ts
-
-#EXTINF:-1,(IT) Sky Primafila 9 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36369.ts
-
-#EXTINF:-1,(IT) Sky Sport 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36368.ts
-
-#EXTINF:-1,(IT) Sky Sport 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36367.ts
-
-#EXTINF:-1,(IT) Sky Sport 24 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36366.ts
-
-#EXTINF:-1,(IT) Sky Sport 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36365.ts
-
-#EXTINF:-1,(IT) Sky Sport F1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36364.ts
-
-#EXTINF:-1,(IT) Sky Sport MotoGP HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36363.ts
-
-#EXTINF:-1,(IT) Sky Sport Plus HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36362.ts
-
-#EXTINF:-1,(IT) Sky Super Calcio HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36361.ts
-
-#EXTINF:-1,(IT) Sky TG 24
-http://iptvtool.es:9977/live/carlosh/carlosh/36360.ts
-
-#EXTINF:-1,(IT) Sky Uno HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36359.ts
-
-#EXTINF:-1,(IT) Super
-http://iptvtool.es:9977/live/carlosh/carlosh/36357.ts
-
-#EXTINF:-1,(IT) Supertennis HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36356.ts
-
-#EXTINF:-1,(IT) TGCOM 24
-http://iptvtool.es:9977/live/carlosh/carlosh/36354.ts
-
-#EXTINF:-1,(IT) Top Crime
-http://iptvtool.es:9977/live/carlosh/carlosh/36353.ts
-
-#EXTINF:-1,(IT) TV8
-http://iptvtool.es:9977/live/carlosh/carlosh/36351.ts
-
-#EXTINF:-1,AF 2S TV
-http://iptvtool.es:9977/live/carlosh/carlosh/34684.ts
-
-#EXTINF:-1,AF 2STV (Senegal)
-http://iptvtool.es:9977/live/carlosh/carlosh/34699.ts
-
-#EXTINF:-1,AF ABN
-http://iptvtool.es:9977/live/carlosh/carlosh/34696.ts
-
-#EXTINF:-1,AF Africa TV 2 (Sudan)
-http://iptvtool.es:9977/live/carlosh/carlosh/34703.ts
-
-#EXTINF:-1,AF Africa TV 3 (Sudan)
-http://iptvtool.es:9977/live/carlosh/carlosh/34702.ts
-
-#EXTINF:-1,AF Channels 24 (Nigeria)
-http://iptvtool.es:9977/live/carlosh/carlosh/34690.ts
-
-#EXTINF:-1,AF Crtv (Cameroun)
-http://iptvtool.es:9977/live/carlosh/carlosh/34689.ts
-
-#EXTINF:-1,AF EBC (Ethiopia)
-http://iptvtool.es:9977/live/carlosh/carlosh/34686.ts
-
-#EXTINF:-1,AF Music TV (Africa)
-http://iptvtool.es:9977/live/carlosh/carlosh/34676.ts
-
-#EXTINF:-1,AF Nollywood Movies (Nigeria)
-http://iptvtool.es:9977/live/carlosh/carlosh/34675.ts
-
-#EXTINF:-1,AF ORTM (Mali)
-http://iptvtool.es:9977/live/carlosh/carlosh/34671.ts
-
-#EXTINF:-1,AF Sen TV (Senegal)
-http://iptvtool.es:9977/live/carlosh/carlosh/34659.ts
-
-#EXTINF:-1,AF SNTV (Somali)
-http://iptvtool.es:9977/live/carlosh/carlosh/34658.ts
-
-#EXTINF:-1,AF Somaliland National TV (Somali)
-http://iptvtool.es:9977/live/carlosh/carlosh/34664.ts
-
-#EXTINF:-1,AF Start TV (Somali)
-http://iptvtool.es:9977/live/carlosh/carlosh/34656.ts
-
-#EXTINF:-1,AF TFM (Senegal)
-http://iptvtool.es:9977/live/carlosh/carlosh/34652.ts
-
-#EXTINF:-1,AF TPA Internacional (Angola)
-http://iptvtool.es:9977/live/carlosh/carlosh/34650.ts
-
-#EXTINF:-1,AF Trace Tropical HD (Africa)
-http://iptvtool.es:9977/live/carlosh/carlosh/34645.ts
-
-#EXTINF:-1,AF TV24 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34644.ts
-
-#EXTINF:-1,AF TV25 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34643.ts
-
-#EXTINF:-1,AF VOX AFRICA
-http://iptvtool.es:9977/live/carlosh/carlosh/34669.ts
-
-#EXTINF:-1,Swiss 1SW HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34566.ts
-
-#EXTINF:-1,TELE ZURICH
-http://iptvtool.es:9977/live/carlosh/carlosh/34555.ts
-
-#EXTINF:-1,SRF 1SW
-http://iptvtool.es:9977/live/carlosh/carlosh/34573.ts
-
-#EXTINF:-1,SRF 2
-http://iptvtool.es:9977/live/carlosh/carlosh/34572.ts
-
-#EXTINF:-1,Acht HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34565.ts
-
-#EXTINF:-1,TVO
-http://iptvtool.es:9977/live/carlosh/carlosh/34564.ts
-
-#EXTINF:-1,Teleclub Prime
-http://iptvtool.es:9977/live/carlosh/carlosh/34563.ts
-
-#EXTINF:-1,Teleclub Cinema
-http://iptvtool.es:9977/live/carlosh/carlosh/34562.ts
-
-#EXTINF:-1,TeleBielingue
-http://iptvtool.es:9977/live/carlosh/carlosh/34561.ts
-
-#EXTINF:-1,TeleBärn
-http://iptvtool.es:9977/live/carlosh/carlosh/34560.ts
-
-#EXTINF:-1,Canal Alpha (Neuchâtel)
-http://iptvtool.es:9977/live/carlosh/carlosh/34559.ts
-
-#EXTINF:-1,RU 24Док_-_24_Doc
-http://iptvtool.es:9977/live/carlosh/carlosh/35811.ts
-
-#EXTINF:-1,RU 24Крым_
-http://iptvtool.es:9977/live/carlosh/carlosh/35810.ts
-
-#EXTINF:-1,RU 2x2
-http://iptvtool.es:9977/live/carlosh/carlosh/35809.ts
-
-#EXTINF:-1,RU AnimalPlanet
-http://iptvtool.es:9977/live/carlosh/carlosh/35808.ts
-
-#EXTINF:-1,RU AZ: AZAD TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35833.ts
-
-#EXTINF:-1,RU AZ: CBC Azerbaycan
-http://iptvtool.es:9977/live/carlosh/carlosh/35829.ts
-
-#EXTINF:-1,RU AZ: Lider Tv
-http://iptvtool.es:9977/live/carlosh/carlosh/35832.ts
-
-#EXTINF:-1,RU AZ: Setanta Eurasia
-http://iptvtool.es:9977/live/carlosh/carlosh/35830.ts
-
-#EXTINF:-1,RU DiscoveryChannel
-http://iptvtool.es:9977/live/carlosh/carlosh/35806.ts
-
-#EXTINF:-1,RU Extreme Sports
-http://iptvtool.es:9977/live/carlosh/carlosh/35805.ts
-
-#EXTINF:-1,RU HD media
-http://iptvtool.es:9977/live/carlosh/carlosh/35800.ts
-
-#EXTINF:-1,RU Kinopokaz
-http://iptvtool.es:9977/live/carlosh/carlosh/35796.ts
-
-#EXTINF:-1,RU Life HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35795.ts
-
-#EXTINF:-1,RU Match! Futbol 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35792.ts
-
-#EXTINF:-1,RU Match! Futbol 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35793.ts
-
-#EXTINF:-1,RU Match!_Futbol_1
-http://iptvtool.es:9977/live/carlosh/carlosh/35788.ts
-
-#EXTINF:-1,RU NatGeoWild
-http://iptvtool.es:9977/live/carlosh/carlosh/35787.ts
-
-#EXTINF:-1,RU NationalGeographic
-http://iptvtool.es:9977/live/carlosh/carlosh/35786.ts
-
-#EXTINF:-1,RU Outdoor Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35785.ts
-
-#EXTINF:-1,RU Paramount Comedy
-http://iptvtool.es:9977/live/carlosh/carlosh/35784.ts
-
-#EXTINF:-1,RU Rusong TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35781.ts
-
-#EXTINF:-1,RU Sony Sci Fi
-http://iptvtool.es:9977/live/carlosh/carlosh/35777.ts
-
-#EXTINF:-1,RU Travel Adventure HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35773.ts
-
-#EXTINF:-1,RU Travel Channel HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35772.ts
-
-#EXTINF:-1,RU TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35782.ts
-
-#EXTINF:-1,RU TV1000 Megahit HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35825.ts
-
-#EXTINF:-1,RU TV1000 Premium HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35824.ts
-
-#EXTINF:-1,RU TV1000 Ruskoe Kino
-http://iptvtool.es:9977/live/carlosh/carlosh/35823.ts
-
-#EXTINF:-1,RU TV1000_русское_кино_-_TV1000_Ruskoe_Kino
-http://iptvtool.es:9977/live/carlosh/carlosh/35828.ts
-
-#EXTINF:-1,RU ViasatExplorer
-http://iptvtool.es:9977/live/carlosh/carlosh/35822.ts
-
-#EXTINF:-1,RU ViasatHistory
-http://iptvtool.es:9977/live/carlosh/carlosh/35821.ts
-
-#EXTINF:-1,RU Время_-_Time
-http://iptvtool.es:9977/live/carlosh/carlosh/35818.ts
-
-#EXTINF:-1,RU Дождь_-_Rain
-http://iptvtool.es:9977/live/carlosh/carlosh/35817.ts
-
-#EXTINF:-1,RU Дом_кино_-_Home_cinema
-http://iptvtool.es:9977/live/carlosh/carlosh/35816.ts
-
-#EXTINF:-1,RU Европа_Плюс_ТВ_-_Europa_Plus_TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35765.ts
-
-#EXTINF:-1,RU Еда_HD_-_Food_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35803.ts
-
-#EXTINF:-1,RU Звезда_-_Zvezda
-http://iptvtool.es:9977/live/carlosh/carlosh/35775.ts
-
-#EXTINF:-1,RU Зоопарк_-_Zoo_park
-http://iptvtool.es:9977/live/carlosh/carlosh/35819.ts
-
-#EXTINF:-1,RU Иллюзион _-_Illusion
-http://iptvtool.es:9977/live/carlosh/carlosh/35797.ts
-
-#EXTINF:-1,RU Индия ТВ India TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35814.ts
-
-#EXTINF:-1,RU Карусель_-_Carousel
-http://iptvtool.es:9977/live/carlosh/carlosh/35813.ts
-
-#EXTINF:-1,RU Кинокомедия_-_Comedy_movies
-http://iptvtool.es:9977/live/carlosh/carlosh/35807.ts
-
-#EXTINF:-1,RU Киномикс Movie mix
-http://iptvtool.es:9977/live/carlosh/carlosh/35812.ts
-
-#EXTINF:-1,RU Кинопремьера_HD_-_Movie_premieres_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35790.ts
-
-#EXTINF:-1,RU Киносемья_-_Family_movies
-http://iptvtool.es:9977/live/carlosh/carlosh/35804.ts
-
-#EXTINF:-1,RU Мама
-http://iptvtool.es:9977/live/carlosh/carlosh/35770.ts
-
-#EXTINF:-1,RU МАТЧ!_-_Match!
-http://iptvtool.es:9977/live/carlosh/carlosh/35794.ts
-
-#EXTINF:-1,RU Матч!_Арена_-_Match!_Arena
-http://iptvtool.es:9977/live/carlosh/carlosh/35783.ts
-
-#EXTINF:-1,RU Мир_-_World
-http://iptvtool.es:9977/live/carlosh/carlosh/35769.ts
-
-#EXTINF:-1,RU Моя_планета_-_My_planet
-http://iptvtool.es:9977/live/carlosh/carlosh/35789.ts
-
-#EXTINF:-1,RU Мульт_-_Mult
-http://iptvtool.es:9977/live/carlosh/carlosh/35768.ts
-
-#EXTINF:-1,RU Наш_футбол_-_Our_football
-http://iptvtool.es:9977/live/carlosh/carlosh/35801.ts
-
-#EXTINF:-1,RU Наше_новое_кино_-_Our_new_movies
-http://iptvtool.es:9977/live/carlosh/carlosh/35791.ts
-
-#EXTINF:-1,RU Ностальгия_-_Nostalgia
-http://iptvtool.es:9977/live/carlosh/carlosh/35767.ts
-
-#EXTINF:-1,RU Охота_и_рыбалка_-_Hunting_and_fishing
-http://iptvtool.es:9977/live/carlosh/carlosh/35798.ts
-
-#EXTINF:-1,RU Ретро_-_Retro
-http://iptvtool.es:9977/live/carlosh/carlosh/35766.ts
-
-#EXTINF:-1,RU Россия_1_-_Russia_1
-http://iptvtool.es:9977/live/carlosh/carlosh/35780.ts
-
-#EXTINF:-1,RU Русский_иллюзион_-Russian_illusion_
-http://iptvtool.es:9977/live/carlosh/carlosh/35779.ts
-
-#EXTINF:-1,RU Русский_роман_-_Russian_romance
-http://iptvtool.es:9977/live/carlosh/carlosh/35778.ts
-
-#EXTINF:-1,RU Телекафе_-_Telecafe
-http://iptvtool.es:9977/live/carlosh/carlosh/35764.ts
-
-#EXTINF:-1,RU Футбол_-_Football
-http://iptvtool.es:9977/live/carlosh/carlosh/35802.ts
-
-#EXTINF:-1,ALGERIA:: SAMIRA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/30403.ts
-
-#EXTINF:-1,ALGERIA::Al_Heddaf
-http://iptvtool.es:9977/live/carlosh/carlosh/30417.ts
-
-#EXTINF:-1,ALGERIA::Algeria_3
-http://iptvtool.es:9977/live/carlosh/carlosh/30415.ts
-
-#EXTINF:-1,ALGERIA::Berbere_Music
-http://iptvtool.es:9977/live/carlosh/carlosh/30409.ts
-
-#EXTINF:-1,ALGERIA::Beur
-http://iptvtool.es:9977/live/carlosh/carlosh/30408.ts
-
-#EXTINF:-1,ALGERIA::Canal_Algeria
-http://iptvtool.es:9977/live/carlosh/carlosh/30407.ts
-
-#EXTINF:-1,ALGERIA::CBC_BENNA
-http://iptvtool.es:9977/live/carlosh/carlosh/30406.ts
-
-#EXTINF:-1,ALGERIA::Dzair
-http://iptvtool.es:9977/live/carlosh/carlosh/30405.ts
-
-#EXTINF:-1,ALGERIA::Dzair_News
-http://iptvtool.es:9977/live/carlosh/carlosh/30404.ts
-
-#EXTINF:-1,ALGERIA::Echourouk
-http://iptvtool.es:9977/live/carlosh/carlosh/30402.ts
-
-#EXTINF:-1,ALGERIA::Echourouk_News
-http://iptvtool.es:9977/live/carlosh/carlosh/30401.ts
-
-#EXTINF:-1,ALGERIA::EnnahALGERIA:
-http://iptvtool.es:9977/live/carlosh/carlosh/30400.ts
-
-#EXTINF:-1,ALGERIA::EnnahALGERIA:_Laki
-http://iptvtool.es:9977/live/carlosh/carlosh/30399.ts
-
-#EXTINF:-1,ALGERIA::Numidia
-http://iptvtool.es:9977/live/carlosh/carlosh/30397.ts
-
-#EXTINF:-1,ALGERIA::Programe_ National
-http://iptvtool.es:9977/live/carlosh/carlosh/30396.ts
-
-#EXTINF:-1,MAROC: TELE MAROC
-http://iptvtool.es:9977/live/carlosh/carlosh/30319.ts
-
-#EXTINF:-1,MAROC:2M_Maroc
-http://iptvtool.es:9977/live/carlosh/carlosh/30348.ts
-
-#EXTINF:-1,MAROC:2M_Maroc_Monde
-http://iptvtool.es:9977/live/carlosh/carlosh/30347.ts
-
-#EXTINF:-1,MAROC:Al_Aoula
-http://iptvtool.es:9977/live/carlosh/carlosh/30350.ts
-
-#EXTINF:-1,MAROC:Al_Aoula_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/30349.ts
-
-#EXTINF:-1,MAROC:Al_Maghribia
-http://iptvtool.es:9977/live/carlosh/carlosh/30339.ts
-
-#EXTINF:-1,MAROC:Al_Maghribia_2
-http://iptvtool.es:9977/live/carlosh/carlosh/30338.ts
-
-#EXTINF:-1,MAROC:Al_Maghribia_News
-http://iptvtool.es:9977/live/carlosh/carlosh/30336.ts
-
-#EXTINF:-1,MAROC:Arrabia_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/30345.ts
-
-#EXTINF:-1,MAROC:Arrabiaa
-http://iptvtool.es:9977/live/carlosh/carlosh/30346.ts
-
-#EXTINF:-1,MAROC:Arriadia
-http://iptvtool.es:9977/live/carlosh/carlosh/30341.ts
-
-#EXTINF:-1,MAROC:Arriadia_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/30340.ts
-
-#EXTINF:-1,MAROC:Assadissa
-http://iptvtool.es:9977/live/carlosh/carlosh/30344.ts
-
-#EXTINF:-1,MAROC:Assadissa_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/30343.ts
-
-#EXTINF:-1,MAROC:Medi1
-http://iptvtool.es:9977/live/carlosh/carlosh/30351.ts
-
-#EXTINF:-1,MAROC:Tamazight
-http://iptvtool.es:9977/live/carlosh/carlosh/30322.ts
-
-#EXTINF:-1,MAROC:Tamazight_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/30321.ts
-
-#EXTINF:-1,MAROC:Tele_Maroc
-http://iptvtool.es:9977/live/carlosh/carlosh/30320.ts
-
-#EXTINF:-1,BR Band
-http://iptvtool.es:9977/live/carlosh/carlosh/35191.ts
-
-#EXTINF:-1,BR Cinemax
-http://iptvtool.es:9977/live/carlosh/carlosh/35193.ts
-
-#EXTINF:-1,BR Discovery Home and Health
-http://iptvtool.es:9977/live/carlosh/carlosh/35189.ts
-
-#EXTINF:-1,BR Discovery.Civilization
-http://iptvtool.es:9977/live/carlosh/carlosh/35190.ts
-
-#EXTINF:-1,BR Discovery.Science
-http://iptvtool.es:9977/live/carlosh/carlosh/35188.ts
-
-#EXTINF:-1,BR Disney .XD
-http://iptvtool.es:9977/live/carlosh/carlosh/35184.ts
-
-#EXTINF:-1,BR Food .Network
-http://iptvtool.es:9977/live/carlosh/carlosh/35183.ts
-
-#EXTINF:-1,BR Fox Life
-http://iptvtool.es:9977/live/carlosh/carlosh/35182.ts
-
-#EXTINF:-1,BR Fx Brasil
-http://iptvtool.es:9977/live/carlosh/carlosh/35194.ts
-
-#EXTINF:-1,BR FX Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35180.ts
-
-#EXTINF:-1,BR HBO Signature
-http://iptvtool.es:9977/live/carlosh/carlosh/35178.ts
-
-#EXTINF:-1,BR History.2
-http://iptvtool.es:9977/live/carlosh/carlosh/35177.ts
-
-#EXTINF:-1,BR National .Geographic
-http://iptvtool.es:9977/live/carlosh/carlosh/35176.ts
-
-#EXTINF:-1,BR Nick .Jr
-http://iptvtool.es:9977/live/carlosh/carlosh/35175.ts
-
-#EXTINF:-1,BR Novo Tempo
-http://iptvtool.es:9977/live/carlosh/carlosh/35174.ts
-
-#EXTINF:-1,BR Prime Box Brazil
-http://iptvtool.es:9977/live/carlosh/carlosh/35173.ts
-
-#EXTINF:-1,BR Space
-http://iptvtool.es:9977/live/carlosh/carlosh/35172.ts
-
-#EXTINF:-1,BR Studio_Universal
-http://iptvtool.es:9977/live/carlosh/carlosh/35171.ts
-
-#EXTINF:-1,BR Telecine Pipoca
-http://iptvtool.es:9977/live/carlosh/carlosh/35170.ts
-
-#EXTINF:-1,BR Telecine Premium
-http://iptvtool.es:9977/live/carlosh/carlosh/35169.ts
-
-#EXTINF:-1,BR Telecine Touch
-http://iptvtool.es:9977/live/carlosh/carlosh/35168.ts
-
-#EXTINF:-1,BR TV Globo Premium
-http://iptvtool.es:9977/live/carlosh/carlosh/35167.ts
-
-#EXTINF:-1,BR Universal_Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35166.ts
-
-#EXTINF:-1,BR Warner
-http://iptvtool.es:9977/live/carlosh/carlosh/35165.ts
-
-#EXTINF:-1,BRASIL:_AMC
-http://iptvtool.es:9977/live/carlosh/carlosh/35754.ts
-
-#EXTINF:-1,BRASIL:_Animal Planet
-http://iptvtool.es:9977/live/carlosh/carlosh/35753.ts
-
-#EXTINF:-1,BRASIL:_Aparecida
-http://iptvtool.es:9977/live/carlosh/carlosh/35632.ts
-
-#EXTINF:-1,BRASIL:_Arte 1
-http://iptvtool.es:9977/live/carlosh/carlosh/35752.ts
-
-#EXTINF:-1,BRASIL:_AXN
-http://iptvtool.es:9977/live/carlosh/carlosh/35751.ts
-
-#EXTINF:-1,BRASIL:_Baby TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35750.ts
-
-#EXTINF:-1,BRASIL:_Band News
-http://iptvtool.es:9977/live/carlosh/carlosh/35749.ts
-
-#EXTINF:-1,BRASIL:_Band Sports
-http://iptvtool.es:9977/live/carlosh/carlosh/35748.ts
-
-#EXTINF:-1,BRASIL:_Bandeirantes
-http://iptvtool.es:9977/live/carlosh/carlosh/35631.ts
-
-#EXTINF:-1,BRASIL:_BIS
-http://iptvtool.es:9977/live/carlosh/carlosh/35746.ts
-
-#EXTINF:-1,BRASIL:_Boa Vontade TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35745.ts
-
-#EXTINF:-1,BRASIL:_Boomerang
-http://iptvtool.es:9977/live/carlosh/carlosh/35744.ts
-
-#EXTINF:-1,BRASIL:_Canal Brasil
-http://iptvtool.es:9977/live/carlosh/carlosh/35743.ts
-
-#EXTINF:-1,BRASIL:_Canal Claro
-http://iptvtool.es:9977/live/carlosh/carlosh/35742.ts
-
-#EXTINF:-1,BRASIL:_Canal Nova
-http://iptvtool.es:9977/live/carlosh/carlosh/35741.ts
-
-#EXTINF:-1,BRASIL:_Canal Rural
-http://iptvtool.es:9977/live/carlosh/carlosh/35740.ts
-
-#EXTINF:-1,BRASIL:_Canal Sony
-http://iptvtool.es:9977/live/carlosh/carlosh/35739.ts
-
-#EXTINF:-1,BRASIL:_Cartoon Network
-http://iptvtool.es:9977/live/carlosh/carlosh/35738.ts
-
-#EXTINF:-1,BRASIL:_Cinemax
-http://iptvtool.es:9977/live/carlosh/carlosh/35630.ts
-
-#EXTINF:-1,BRASIL:_CNN Espanol
-http://iptvtool.es:9977/live/carlosh/carlosh/35737.ts
-
-#EXTINF:-1,BRASIL:_CNN Internacional
-http://iptvtool.es:9977/live/carlosh/carlosh/35629.ts
-
-#EXTINF:-1,BRASIL:_CNT
-http://iptvtool.es:9977/live/carlosh/carlosh/35736.ts
-
-#EXTINF:-1,BRASIL:_Combate
-http://iptvtool.es:9977/live/carlosh/carlosh/35735.ts
-
-#EXTINF:-1,BRASIL:_Comedy Central
-http://iptvtool.es:9977/live/carlosh/carlosh/35734.ts
-
-#EXTINF:-1,BRASIL:_Curta
-http://iptvtool.es:9977/live/carlosh/carlosh/35733.ts
-
-#EXTINF:-1,BRASIL:_Discovery Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35732.ts
-
-#EXTINF:-1,BRASIL:_Discovery H&H
-http://iptvtool.es:9977/live/carlosh/carlosh/35731.ts
-
-#EXTINF:-1,BRASIL:_Discovery Kids
-http://iptvtool.es:9977/live/carlosh/carlosh/35628.ts
-
-#EXTINF:-1,BRASIL:_Discovery Turbo
-http://iptvtool.es:9977/live/carlosh/carlosh/35730.ts
-
-#EXTINF:-1,BRASIL:_Disney
-http://iptvtool.es:9977/live/carlosh/carlosh/35729.ts
-
-#EXTINF:-1,BRASIL:_Disney Junior
-http://iptvtool.es:9977/live/carlosh/carlosh/35728.ts
-
-#EXTINF:-1,BRASIL:_Disney XD
-http://iptvtool.es:9977/live/carlosh/carlosh/35727.ts
-
-#EXTINF:-1,BRASIL:_DW (Deutsch )
-http://iptvtool.es:9977/live/carlosh/carlosh/35627.ts
-
-#EXTINF:-1,BRASIL:_E!
-http://iptvtool.es:9977/live/carlosh/carlosh/35726.ts
-
-#EXTINF:-1,BRASIL:_EI
-http://iptvtool.es:9977/live/carlosh/carlosh/35725.ts
-
-#EXTINF:-1,BRASIL:_EI 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35724.ts
-
-#EXTINF:-1,BRASIL:_ESPN
-http://iptvtool.es:9977/live/carlosh/carlosh/35723.ts
-
-#EXTINF:-1,BRASIL:_ESPN Brasil
-http://iptvtool.es:9977/live/carlosh/carlosh/35722.ts
-
-#EXTINF:-1,BRASIL:_Fish TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35721.ts
-
-#EXTINF:-1,BRASIL:_Food Network
-http://iptvtool.es:9977/live/carlosh/carlosh/35720.ts
-
-#EXTINF:-1,BRASIL:_FOX
-http://iptvtool.es:9977/live/carlosh/carlosh/35719.ts
-
-#EXTINF:-1,BRASIL:_Fox Life
-http://iptvtool.es:9977/live/carlosh/carlosh/35718.ts
-
-#EXTINF:-1,BRASIL:_Fox Sports
-http://iptvtool.es:9977/live/carlosh/carlosh/35717.ts
-
-#EXTINF:-1,BRASIL:_Fox Sports 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35716.ts
-
-#EXTINF:-1,BRASIL:_Futura
-http://iptvtool.es:9977/live/carlosh/carlosh/35626.ts
-
-#EXTINF:-1,BRASIL:_FX
-http://iptvtool.es:9977/live/carlosh/carlosh/35715.ts
-
-#EXTINF:-1,BRASIL:_Globo SP
-http://iptvtool.es:9977/live/carlosh/carlosh/35714.ts
-
-#EXTINF:-1,BRASIL:_GloboNews
-http://iptvtool.es:9977/live/carlosh/carlosh/35713.ts
-
-#EXTINF:-1,BRASIL:_Gloob
-http://iptvtool.es:9977/live/carlosh/carlosh/35712.ts
-
-#EXTINF:-1,BRASIL:_GNT
-http://iptvtool.es:9977/live/carlosh/carlosh/35711.ts
-
-#EXTINF:-1,BRASIL:_H2
-http://iptvtool.es:9977/live/carlosh/carlosh/35710.ts
-
-#EXTINF:-1,BRASIL:_HBO
-http://iptvtool.es:9977/live/carlosh/carlosh/35709.ts
-
-#EXTINF:-1,BRASIL:_HBO Family
-http://iptvtool.es:9977/live/carlosh/carlosh/35708.ts
-
-#EXTINF:-1,BRASIL:_HBO Plus
-http://iptvtool.es:9977/live/carlosh/carlosh/35707.ts
-
-#EXTINF:-1,BRASIL:_HBO Plus*e
-http://iptvtool.es:9977/live/carlosh/carlosh/35706.ts
-
-#EXTINF:-1,BRASIL:_HBO Signature
-http://iptvtool.es:9977/live/carlosh/carlosh/35705.ts
-
-#EXTINF:-1,BRASIL:_HBO2
-http://iptvtool.es:9977/live/carlosh/carlosh/35704.ts
-
-#EXTINF:-1,BRASIL:_I-SAT
-http://iptvtool.es:9977/live/carlosh/carlosh/35703.ts
-
-#EXTINF:-1,BRASIL:_ID - Investigation Discovery
-http://iptvtool.es:9977/live/carlosh/carlosh/35702.ts
-
-#EXTINF:-1,BRASIL:_Lifetime
-http://iptvtool.es:9977/live/carlosh/carlosh/35701.ts
-
-#EXTINF:-1,BRASIL:_Mais Globosat
-http://iptvtool.es:9977/live/carlosh/carlosh/35700.ts
-
-#EXTINF:-1,BRASIL:_MAX
-http://iptvtool.es:9977/live/carlosh/carlosh/35699.ts
-
-#EXTINF:-1,BRASIL:_MAX Prime
-http://iptvtool.es:9977/live/carlosh/carlosh/35625.ts
-
-#EXTINF:-1,BRASIL:_MAX Prime*e
-http://iptvtool.es:9977/live/carlosh/carlosh/35698.ts
-
-#EXTINF:-1,BRASIL:_MAX UP
-http://iptvtool.es:9977/live/carlosh/carlosh/35697.ts
-
-#EXTINF:-1,BRASIL:_MegaPix
-http://iptvtool.es:9977/live/carlosh/carlosh/35624.ts
-
-#EXTINF:-1,BRASIL:_MTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35696.ts
-
-#EXTINF:-1,BRASIL:_Multishow
-http://iptvtool.es:9977/live/carlosh/carlosh/35695.ts
-
-#EXTINF:-1,BRASIL:_Music Box Brazil
-http://iptvtool.es:9977/live/carlosh/carlosh/35694.ts
-
-#EXTINF:-1,BRASIL:_NatGeo Kids
-http://iptvtool.es:9977/live/carlosh/carlosh/35693.ts
-
-#EXTINF:-1,BRASIL:_NatGeo Wild
-http://iptvtool.es:9977/live/carlosh/carlosh/35692.ts
-
-#EXTINF:-1,BRASIL:_National Geographic
-http://iptvtool.es:9977/live/carlosh/carlosh/35691.ts
-
-#EXTINF:-1,BRASIL:_NHK
-http://iptvtool.es:9977/live/carlosh/carlosh/35690.ts
-
-#EXTINF:-1,BRASIL:_Nick Jr
-http://iptvtool.es:9977/live/carlosh/carlosh/35689.ts
-
-#EXTINF:-1,BRASIL:_Nickelodeon
-http://iptvtool.es:9977/live/carlosh/carlosh/35688.ts
-
-#EXTINF:-1,BRASIL:_OFF
-http://iptvtool.es:9977/live/carlosh/carlosh/35687.ts
-
-#EXTINF:-1,BRASIL:_Paramount
-http://iptvtool.es:9977/live/carlosh/carlosh/35686.ts
-
-#EXTINF:-1,BRASIL:_Play TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35623.ts
-
-#EXTINF:-1,BRASIL:_Playboy TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35685.ts
-
-#EXTINF:-1,BRASIL:_Premiere 7
-http://iptvtool.es:9977/live/carlosh/carlosh/35678.ts
-
-#EXTINF:-1,BRASIL:_Premiere 8
-http://iptvtool.es:9977/live/carlosh/carlosh/35677.ts
-
-#EXTINF:-1,BRASIL:_Premiere Clubes
-http://iptvtool.es:9977/live/carlosh/carlosh/35613.ts
-
-#EXTINF:-1,BRASIL:_Prime Box Brazil
-http://iptvtool.es:9977/live/carlosh/carlosh/35675.ts
-
-#EXTINF:-1,BRASIL:_RAI
-http://iptvtool.es:9977/live/carlosh/carlosh/35622.ts
-
-#EXTINF:-1,BRASIL:_RBI
-http://iptvtool.es:9977/live/carlosh/carlosh/35674.ts
-
-#EXTINF:-1,BRASIL:_RBS TV Porto Alegre
-http://iptvtool.es:9977/live/carlosh/carlosh/35612.ts
-
-#EXTINF:-1,BRASIL:_Record News
-http://iptvtool.es:9977/live/carlosh/carlosh/35673.ts
-
-#EXTINF:-1,BRASIL:_RECORDTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35672.ts
-
-#EXTINF:-1,BRASIL:_Rede TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35621.ts
-
-#EXTINF:-1,BRASIL:_Rede Vida
-http://iptvtool.es:9977/live/carlosh/carlosh/35670.ts
-
-#EXTINF:-1,BRASIL:_RIT
-http://iptvtool.es:9977/live/carlosh/carlosh/35669.ts
-
-#EXTINF:-1,BRASIL:_SBT
-http://iptvtool.es:9977/live/carlosh/carlosh/35611.ts
-
-#EXTINF:-1,BRASIL:_Sextreme
-http://iptvtool.es:9977/live/carlosh/carlosh/35668.ts
-
-#EXTINF:-1,BRASIL:_Sexy Hot
-http://iptvtool.es:9977/live/carlosh/carlosh/35667.ts
-
-#EXTINF:-1,BRASIL:_SIC Internacional
-http://iptvtool.es:9977/live/carlosh/carlosh/35620.ts
-
-#EXTINF:-1,BRASIL:_Space
-http://iptvtool.es:9977/live/carlosh/carlosh/35666.ts
-
-#EXTINF:-1,BRASIL:_SporTV 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35664.ts
-
-#EXTINF:-1,BRASIL:_SporTV 2 Alternativo
-http://iptvtool.es:9977/live/carlosh/carlosh/35663.ts
-
-#EXTINF:-1,BRASIL:_SporTV 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35619.ts
-
-#EXTINF:-1,BRASIL:_SporTV Alternativo
-http://iptvtool.es:9977/live/carlosh/carlosh/35618.ts
-
-#EXTINF:-1,BRASIL:_Studio Universal
-http://iptvtool.es:9977/live/carlosh/carlosh/35662.ts
-
-#EXTINF:-1,BRASIL:_SyFy
-http://iptvtool.es:9977/live/carlosh/carlosh/35617.ts
-
-#EXTINF:-1,BRASIL:_TBS
-http://iptvtool.es:9977/live/carlosh/carlosh/35661.ts
-
-#EXTINF:-1,BRASIL:_TCM
-http://iptvtool.es:9977/live/carlosh/carlosh/35660.ts
-
-#EXTINF:-1,BRASIL:_Telecine Action
-http://iptvtool.es:9977/live/carlosh/carlosh/35659.ts
-
-#EXTINF:-1,BRASIL:_Telecine Cult
-http://iptvtool.es:9977/live/carlosh/carlosh/35658.ts
-
-#EXTINF:-1,BRASIL:_Telecine Fun
-http://iptvtool.es:9977/live/carlosh/carlosh/35657.ts
-
-#EXTINF:-1,BRASIL:_Telecine Pipoca
-http://iptvtool.es:9977/live/carlosh/carlosh/35656.ts
-
-#EXTINF:-1,BRASIL:_Telecine Premium
-http://iptvtool.es:9977/live/carlosh/carlosh/35655.ts
-
-#EXTINF:-1,BRASIL:_Telecine Touch
-http://iptvtool.es:9977/live/carlosh/carlosh/35654.ts
-
-#EXTINF:-1,BRASIL:_Terra Viva
-http://iptvtool.es:9977/live/carlosh/carlosh/35653.ts
-
-#EXTINF:-1,BRASIL:_The History Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35616.ts
-
-#EXTINF:-1,BRASIL:_TLC
-http://iptvtool.es:9977/live/carlosh/carlosh/35652.ts
-
-#EXTINF:-1,BRASIL:_Tooncast
-http://iptvtool.es:9977/live/carlosh/carlosh/35649.ts
-
-#EXTINF:-1,BRASIL:_TruTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35648.ts
-
-#EXTINF:-1,BRASIL:_TV Brasil
-http://iptvtool.es:9977/live/carlosh/carlosh/35647.ts
-
-#EXTINF:-1,BRASIL:_TV CÐmara
-http://iptvtool.es:9977/live/carlosh/carlosh/35646.ts
-
-#EXTINF:-1,BRASIL:_TV Cultura
-http://iptvtool.es:9977/live/carlosh/carlosh/35645.ts
-
-#EXTINF:-1,BRASIL:_TV Escola
-http://iptvtool.es:9977/live/carlosh/carlosh/35644.ts
-
-#EXTINF:-1,BRASIL:_TV Novo Tempo
-http://iptvtool.es:9977/live/carlosh/carlosh/35615.ts
-
-#EXTINF:-1,BRASIL:_TV RÆ tim bum
-http://iptvtool.es:9977/live/carlosh/carlosh/35642.ts
-
-#EXTINF:-1,BRASIL:_TV Senado
-http://iptvtool.es:9977/live/carlosh/carlosh/35641.ts
-
-#EXTINF:-1,BRASIL:_TV Tem Sao Jose do Rio Preto
-http://iptvtool.es:9977/live/carlosh/carlosh/35640.ts
-
-#EXTINF:-1,BRASIL:_TV Tribuna Santos
-http://iptvtool.es:9977/live/carlosh/carlosh/35614.ts
-
-#EXTINF:-1,BRASIL:_TV5 Monde
-http://iptvtool.es:9977/live/carlosh/carlosh/35639.ts
-
-#EXTINF:-1,BRASIL:_TVE
-http://iptvtool.es:9977/live/carlosh/carlosh/35638.ts
-
-#EXTINF:-1,BRASIL:_Universal Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35637.ts
-
-#EXTINF:-1,BRASIL:_VH1 Megahits
-http://iptvtool.es:9977/live/carlosh/carlosh/35636.ts
-
-#EXTINF:-1,BRASIL:_Viva
-http://iptvtool.es:9977/live/carlosh/carlosh/35635.ts
-
-#EXTINF:-1,BRASIL:_Warner Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/35634.ts
-
-#EXTINF:-1,BRASIL:_Woohoo
-http://iptvtool.es:9977/live/carlosh/carlosh/35633.ts
-
-#EXTINF:-1,VIP: OSN Al Yawm
-http://iptvtool.es:9977/live/carlosh/carlosh/36173.ts
-
-#EXTINF:-1,VIP: OSN Animal Planet HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36172.ts
-
-#EXTINF:-1,VIP: OSN BBC First HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36171.ts
-
-#EXTINF:-1,VIP: OSN Box Office 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36169.ts
-
-#EXTINF:-1,VIP: OSN Box Office 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36168.ts
-
-#EXTINF:-1,VIP: OSN Cinema 1
-http://iptvtool.es:9977/live/carlosh/carlosh/36167.ts
-
-#EXTINF:-1,VIP: OSN Cinema 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36166.ts
-
-#EXTINF:-1,VIP: OSN Discovery Family
-http://iptvtool.es:9977/live/carlosh/carlosh/36165.ts
-
-#EXTINF:-1,VIP: OSN Discovery HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36164.ts
-
-#EXTINF:-1,VIP: OSN Discovery ID HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36163.ts
-
-#EXTINF:-1,VIP: OSN Discovery Science HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36162.ts
-
-#EXTINF:-1,VIP: OSN Disney Channel HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36161.ts
-
-#EXTINF:-1,VIP: OSN First Comedy HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36158.ts
-
-#EXTINF:-1,VIP: OSN First HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36157.ts
-
-#EXTINF:-1,VIP: OSN First Home Of HBO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36156.ts
-
-#EXTINF:-1,VIP: OSN Food Network HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36155.ts
-
-#EXTINF:-1,VIP: OSN Fox Family Movies HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36154.ts
-
-#EXTINF:-1,VIP: OSN Movies Action HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36150.ts
-
-#EXTINF:-1,VIP: OSN Movies Comedy HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36149.ts
-
-#EXTINF:-1,VIP: OSN Movies Family HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36147.ts
-
-#EXTINF:-1,VIP: OSN Movies HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36145.ts
-
-#EXTINF:-1,VIP: OSN Movies Kids
-http://iptvtool.es:9977/live/carlosh/carlosh/36144.ts
-
-#EXTINF:-1,VIP: OSN Movies Premiere HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36143.ts
-
-#EXTINF:-1,VIP: OSN Musalsalat
-http://iptvtool.es:9977/live/carlosh/carlosh/36142.ts
-
-#EXTINF:-1,VIP: OSN Nat Geo People HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36141.ts
-
-#EXTINF:-1,VIP: OSN Nat Geo Wild HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36140.ts
-
-#EXTINF:-1,VIP: OSN Nat Geographic HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36139.ts
-
-#EXTINF:-1,VIP: OSN Outdoor HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36138.ts
-
-#EXTINF:-1,VIP: OSN Sport 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36137.ts
-
-#EXTINF:-1,VIP: OSN Sport 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36136.ts
-
-#EXTINF:-1,VIP: OSN Sports 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36135.ts
-
-#EXTINF:-1,VIP: OSN Sports 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36134.ts
-
-#EXTINF:-1,VIP: OSN Star World HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36133.ts
-
-#EXTINF:-1,VIP: OSN WWE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36129.ts
-
-#EXTINF:-1,VIP: OSN Yahala Cinema HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36128.ts
-
-#EXTINF:-1,VIP: OSN Yahala Shabab HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36125.ts
-
-#EXTINF:-1,RO: ACASA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35325.ts
-
-#EXTINF:-1,RO: ANTENA 1
-http://iptvtool.es:9977/live/carlosh/carlosh/35324.ts
-
-#EXTINF:-1,RO: ANTENA 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35323.ts
-
-#EXTINF:-1,RO: ANTENA STARS
-http://iptvtool.es:9977/live/carlosh/carlosh/35322.ts
-
-#EXTINF:-1,RO: AXN
-http://iptvtool.es:9977/live/carlosh/carlosh/35321.ts
-
-#EXTINF:-1,RO: AXN WHITE
-http://iptvtool.es:9977/live/carlosh/carlosh/35319.ts
-
-#EXTINF:-1,RO: B1
-http://iptvtool.es:9977/live/carlosh/carlosh/35318.ts
-
-#EXTINF:-1,RO: B1TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35317.ts
-
-#EXTINF:-1,RO: CINEMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/35316.ts
-
-#EXTINF:-1,RO: DIGI 24
-http://iptvtool.es:9977/live/carlosh/carlosh/35314.ts
-
-#EXTINF:-1,RO: DIGI 24 CRAIOVA
-http://iptvtool.es:9977/live/carlosh/carlosh/35313.ts
-
-#EXTINF:-1,RO: DIGI FILM
-http://iptvtool.es:9977/live/carlosh/carlosh/35311.ts
-
-#EXTINF:-1,RO: DIGI LIFE
-http://iptvtool.es:9977/live/carlosh/carlosh/35310.ts
-
-#EXTINF:-1,RO: DIGISPORT 1
-http://iptvtool.es:9977/live/carlosh/carlosh/35308.ts
-
-#EXTINF:-1,RO: DIGISPORT 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35306.ts
-
-#EXTINF:-1,RO: DIGISPORT 4
-http://iptvtool.es:9977/live/carlosh/carlosh/35305.ts
-
-#EXTINF:-1,RO: DISNEY JUNIOR
-http://iptvtool.es:9977/live/carlosh/carlosh/35304.ts
-
-#EXTINF:-1,RO: HAPPY
-http://iptvtool.es:9977/live/carlosh/carlosh/35299.ts
-
-#EXTINF:-1,RO: HBO 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35298.ts
-
-#EXTINF:-1,RO: HBO 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35297.ts
-
-#EXTINF:-1,RO: HBO ROMANIA
-http://iptvtool.es:9977/live/carlosh/carlosh/35296.ts
-
-#EXTINF:-1,RO: HISTORI CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/35295.ts
-
-#EXTINF:-1,RO: HISTORY
-http://iptvtool.es:9977/live/carlosh/carlosh/35294.ts
-
-#EXTINF:-1,RO: HIT MUSIC CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/35293.ts
-
-#EXTINF:-1,RO: KANAL D
-http://iptvtool.es:9977/live/carlosh/carlosh/35292.ts
-
-#EXTINF:-1,RO: KISS
-http://iptvtool.es:9977/live/carlosh/carlosh/35291.ts
-
-#EXTINF:-1,RO: LOOK PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/35290.ts
-
-#EXTINF:-1,RO: MEGAMAX HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35289.ts
-
-#EXTINF:-1,RO: MINIMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/35288.ts
-
-#EXTINF:-1,RO: MUSIC CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/35287.ts
-
-#EXTINF:-1,RO: MUSIC CHANNEL HU
-http://iptvtool.es:9977/live/carlosh/carlosh/35286.ts
-
-#EXTINF:-1,RO: NATIONAL GEO
-http://iptvtool.es:9977/live/carlosh/carlosh/35285.ts
-
-#EXTINF:-1,RO: NATIONAL GEO WILD
-http://iptvtool.es:9977/live/carlosh/carlosh/35284.ts
-
-#EXTINF:-1,RO: PARAMOUNT CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/35283.ts
-
-#EXTINF:-1,RO: PRIMA
-http://iptvtool.es:9977/live/carlosh/carlosh/35282.ts
-
-#EXTINF:-1,RO: PRIMA COOL
-http://iptvtool.es:9977/live/carlosh/carlosh/35281.ts
-
-#EXTINF:-1,RO: PRO CINEMA
-http://iptvtool.es:9977/live/carlosh/carlosh/35280.ts
-
-#EXTINF:-1,RO: PRO TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35279.ts
-
-#EXTINF:-1,RO: REALITATERA
-http://iptvtool.es:9977/live/carlosh/carlosh/35278.ts
-
-#EXTINF:-1,RO: ROMANIA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35277.ts
-
-#EXTINF:-1,RO: SPORT.RO
-http://iptvtool.es:9977/live/carlosh/carlosh/35276.ts
-
-#EXTINF:-1,RO: TARAFTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35275.ts
-
-#EXTINF:-1,RO: TELEMOLDOVAPLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/35274.ts
-
-#EXTINF:-1,RO: TNT
-http://iptvtool.es:9977/live/carlosh/carlosh/35273.ts
-
-#EXTINF:-1,RO: TV 1000
-http://iptvtool.es:9977/live/carlosh/carlosh/35272.ts
-
-#EXTINF:-1,RO: TVR 1
-http://iptvtool.es:9977/live/carlosh/carlosh/35271.ts
-
-#EXTINF:-1,RO: TVR 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35270.ts
-
-#EXTINF:-1,RO: UTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35269.ts
-
-#EXTINF:-1,RO: VIASAT EXPLORER
-http://iptvtool.es:9977/live/carlosh/carlosh/35268.ts
-
-#EXTINF:-1,RO: VIASAT NATURE
-http://iptvtool.es:9977/live/carlosh/carlosh/35267.ts
-
-#EXTINF:-1,PT: 24 Kitchen HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35445.ts
-
-#EXTINF:-1,PT: AXN. HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35443.ts
-
-#EXTINF:-1,PT: Axn. White HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35442.ts
-
-#EXTINF:-1,PT: Baby. TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35421.ts
-
-#EXTINF:-1,PT: Benfica TV 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35392.ts
-
-#EXTINF:-1,PT: Benfica TV1
-http://iptvtool.es:9977/live/carlosh/carlosh/35393.ts
-
-#EXTINF:-1,PT: Canal Porto
-http://iptvtool.es:9977/live/carlosh/carlosh/35420.ts
-
-#EXTINF:-1,PT: Cine Mundo
-http://iptvtool.es:9977/live/carlosh/carlosh/35419.ts
-
-#EXTINF:-1,PT: CM TV
-http://iptvtool.es:9977/live/carlosh/carlosh/35418.ts
-
-#EXTINF:-1,PT: Discovery. Showcase HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35416.ts
-
-#EXTINF:-1,PT: Disney. Junior
-http://iptvtool.es:9977/live/carlosh/carlosh/35414.ts
-
-#EXTINF:-1,PT: E! Entertainment
-http://iptvtool.es:9977/live/carlosh/carlosh/35417.ts
-
-#EXTINF:-1,PT: Fox .Movies
-http://iptvtool.es:9977/live/carlosh/carlosh/35408.ts
-
-#EXTINF:-1,PT: Fox Crime HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35411.ts
-
-#EXTINF:-1,PT: Fox. HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35410.ts
-
-#EXTINF:-1,PT: Fox.Comedy
-http://iptvtool.es:9977/live/carlosh/carlosh/35412.ts
-
-#EXTINF:-1,PT: History HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35407.ts
-
-#EXTINF:-1,PT: Hollywood
-http://iptvtool.es:9977/live/carlosh/carlosh/35406.ts
-
-#EXTINF:-1,PT: JIM JAM
-http://iptvtool.es:9977/live/carlosh/carlosh/35404.ts
-
-#EXTINF:-1,PT: MCM.Pop
-http://iptvtool.es:9977/live/carlosh/carlosh/35403.ts
-
-#EXTINF:-1,PT: Motorvision
-http://iptvtool.es:9977/live/carlosh/carlosh/35395.ts
-
-#EXTINF:-1,PT: MTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35402.ts
-
-#EXTINF:-1,PT: National Geographic .Wild
-http://iptvtool.es:9977/live/carlosh/carlosh/35415.ts
-
-#EXTINF:-1,PT: Odisseia
-http://iptvtool.es:9977/live/carlosh/carlosh/35401.ts
-
-#EXTINF:-1,PT: Panda Canal
-http://iptvtool.es:9977/live/carlosh/carlosh/35400.ts
-
-#EXTINF:-1,PT: PFC
-http://iptvtool.es:9977/live/carlosh/carlosh/35399.ts
-
-#EXTINF:-1,PT: Porto Canal
-http://iptvtool.es:9977/live/carlosh/carlosh/35413.ts
-
-#EXTINF:-1,PT: Real MadridTV
-http://iptvtool.es:9977/live/carlosh/carlosh/35394.ts
-
-#EXTINF:-1,PT: RTP  Acores
-http://iptvtool.es:9977/live/carlosh/carlosh/35438.ts
-
-#EXTINF:-1,PT: RTP 1
-http://iptvtool.es:9977/live/carlosh/carlosh/35441.ts
-
-#EXTINF:-1,PT: RTP 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35440.ts
-
-#EXTINF:-1,PT: RTP 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35439.ts
-
-#EXTINF:-1,PT: RTP Africa
-http://iptvtool.es:9977/live/carlosh/carlosh/35437.ts
-
-#EXTINF:-1,PT: RTP Madeira
-http://iptvtool.es:9977/live/carlosh/carlosh/35436.ts
-
-#EXTINF:-1,PT: RTP Memoria
-http://iptvtool.es:9977/live/carlosh/carlosh/35435.ts
-
-#EXTINF:-1,PT: Sic Caras
-http://iptvtool.es:9977/live/carlosh/carlosh/35398.ts
-
-#EXTINF:-1,PT: Sic Noticias
-http://iptvtool.es:9977/live/carlosh/carlosh/35397.ts
-
-#EXTINF:-1,PT: Sic Radical
-http://iptvtool.es:9977/live/carlosh/carlosh/35396.ts
-
-#EXTINF:-1,PT: Sport TV 1HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35391.ts
-
-#EXTINF:-1,PT: Sport TV 2HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35390.ts
-
-#EXTINF:-1,PT: Sport TV 3HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35389.ts
-
-#EXTINF:-1,PT: SPORT TV 4
-http://iptvtool.es:9977/live/carlosh/carlosh/35388.ts
-
-#EXTINF:-1,PT: Sport TV 5
-http://iptvtool.es:9977/live/carlosh/carlosh/35387.ts
-
-#EXTINF:-1,PT: Sporting TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35386.ts
-
-#EXTINF:-1,PT: TV  Series
-http://iptvtool.es:9977/live/carlosh/carlosh/35430.ts
-
-#EXTINF:-1,PT: TV Cine 1HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35434.ts
-
-#EXTINF:-1,PT: TV Cine 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35433.ts
-
-#EXTINF:-1,PT: TV Cine 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35432.ts
-
-#EXTINF:-1,PT: TV Cine 4
-http://iptvtool.es:9977/live/carlosh/carlosh/35431.ts
-
-#EXTINF:-1,PT: TV Record
-http://iptvtool.es:9977/live/carlosh/carlosh/35428.ts
-
-#EXTINF:-1,PT: TV Urbana
-http://iptvtool.es:9977/live/carlosh/carlosh/35427.ts
-
-#EXTINF:-1,PT: TV. Globo
-http://iptvtool.es:9977/live/carlosh/carlosh/35429.ts
-
-#EXTINF:-1,PT: TVE/TV Cultura
-http://iptvtool.es:9977/live/carlosh/carlosh/35426.ts
-
-#EXTINF:-1,PT: TVI
-http://iptvtool.es:9977/live/carlosh/carlosh/35425.ts
-
-#EXTINF:-1,PT: TVI Ficcao
-http://iptvtool.es:9977/live/carlosh/carlosh/35423.ts
-
-#EXTINF:-1,PT: TVI Reality
-http://iptvtool.es:9977/live/carlosh/carlosh/35422.ts
-
-#EXTINF:-1,PT: TVI_24
-http://iptvtool.es:9977/live/carlosh/carlosh/35424.ts
-
-#EXTINF:-1,LO-DE: 13TH STREET
-http://iptvtool.es:9977/live/carlosh/carlosh/23423.ts
-
-#EXTINF:-1,LO-DE: 13TH STREET HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23424.ts
-
-#EXTINF:-1,LO-DE: 3SAT
-http://iptvtool.es:9977/live/carlosh/carlosh/23339.ts
-
-#EXTINF:-1,LO-DE: ANIXE SD
-http://iptvtool.es:9977/live/carlosh/carlosh/23337.ts
-
-#EXTINF:-1,LO-DE: CARTOON NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/23342.ts
-
-#EXTINF:-1,LO-DE: CHANNEL21
-http://iptvtool.es:9977/live/carlosh/carlosh/23335.ts
-
-#EXTINF:-1,LO-DE: CLASSICA
-http://iptvtool.es:9977/live/carlosh/carlosh/23334.ts
-
-#EXTINF:-1,LO-DE: DISCOVERY CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/23352.ts
-
-#EXTINF:-1,LO-DE: DISCOVERY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23353.ts
-
-#EXTINF:-1,LO-DE: DISNEY CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/23348.ts
-
-#EXTINF:-1,LO-DE: DISNEY CINEMAGIC
-http://iptvtool.es:9977/live/carlosh/carlosh/23346.ts
-
-#EXTINF:-1,LO-DE: DISNEY CINEMAGIC HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23347.ts
-
-#EXTINF:-1,LO-DE: DISNEY JUNIOR
-http://iptvtool.es:9977/live/carlosh/carlosh/23344.ts
-
-#EXTINF:-1,LO-DE: DISNEY JUNIOR HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23345.ts
-
-#EXTINF:-1,LO-DE: DISNEY XD
-http://iptvtool.es:9977/live/carlosh/carlosh/23349.ts
-
-#EXTINF:-1,LO-DE: EOTV
-http://iptvtool.es:9977/live/carlosh/carlosh/23329.ts
-
-#EXTINF:-1,LO-DE: EURONEWS GERMAN SD
-http://iptvtool.es:9977/live/carlosh/carlosh/23328.ts
-
-#EXTINF:-1,LO-DE: EUROSPORT 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23360.ts
-
-#EXTINF:-1,LO-DE: EUROSPORT 1 SD
-http://iptvtool.es:9977/live/carlosh/carlosh/23359.ts
-
-#EXTINF:-1,LO-DE: EUROSPORT 2 HD XTRA
-http://iptvtool.es:9977/live/carlosh/carlosh/23358.ts
-
-#EXTINF:-1,LO-DE: FAMILY TV
-http://iptvtool.es:9977/live/carlosh/carlosh/23327.ts
-
-#EXTINF:-1,LO-DE: FOX SERIE
-http://iptvtool.es:9977/live/carlosh/carlosh/23429.ts
-
-#EXTINF:-1,LO-DE: kABEL EINS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23326.ts
-
-#EXTINF:-1,LO-DE: MOTORVISION TV
-http://iptvtool.es:9977/live/carlosh/carlosh/23323.ts
-
-#EXTINF:-1,LO-DE: MTV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23438.ts
-
-#EXTINF:-1,LO-DE: N-TV
-http://iptvtool.es:9977/live/carlosh/carlosh/23322.ts
-
-#EXTINF:-1,LO-DE: N24 DOKU
-http://iptvtool.es:9977/live/carlosh/carlosh/23321.ts
-
-#EXTINF:-1,LO-DE: NAT GEO WILD
-http://iptvtool.es:9977/live/carlosh/carlosh/23356.ts
-
-#EXTINF:-1,LO-DE: NAT GEO WILD HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23357.ts
-
-#EXTINF:-1,LO-DE: NATIONAL GEOGRAPHIC
-http://iptvtool.es:9977/live/carlosh/carlosh/23354.ts
-
-#EXTINF:-1,LO-DE: NATIONAL GEOGRAPHIC HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23355.ts
-
-#EXTINF:-1,LO-DE: NICKELODEON AT
-http://iptvtool.es:9977/live/carlosh/carlosh/23320.ts
-
-#EXTINF:-1,LO-DE: NITRO
-http://iptvtool.es:9977/live/carlosh/carlosh/23448.ts
-
-#EXTINF:-1,LO-DE: NITRO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23449.ts
-
-#EXTINF:-1,LO-DE: PRO7 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23318.ts
-
-#EXTINF:-1,LO-DE: PRO7 MAXX HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23315.ts
-
-#EXTINF:-1,LO-DE: PROSIEBEN
-http://iptvtool.es:9977/live/carlosh/carlosh/23314.ts
-
-#EXTINF:-1,LO-DE: ROMANCE TV
-http://iptvtool.es:9977/live/carlosh/carlosh/23313.ts
-
-#EXTINF:-1,LO-DE: RTL
-http://iptvtool.es:9977/live/carlosh/carlosh/23437.ts
-
-#EXTINF:-1,LO-DE: RTL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23436.ts
-
-#EXTINF:-1,LO-DE: RTL LIVING
-http://iptvtool.es:9977/live/carlosh/carlosh/23430.ts
-
-#EXTINF:-1,LO-DE: RTL PASSION
-http://iptvtool.es:9977/live/carlosh/carlosh/23432.ts
-
-#EXTINF:-1,LO-DE: RTL PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/23431.ts
-
-#EXTINF:-1,LO-DE: RTL2
-http://iptvtool.es:9977/live/carlosh/carlosh/23434.ts
-
-#EXTINF:-1,LO-DE: SAT 1 GOLD HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23440.ts
-
-#EXTINF:-1,LO-DE: SAT 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23439.ts
-
-#EXTINF:-1,LO-DE: SKY ATLANTIC
-http://iptvtool.es:9977/live/carlosh/carlosh/23411.ts
-
-#EXTINF:-1,LO-DE: SKY ATLANTIC HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23412.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA  1
-http://iptvtool.es:9977/live/carlosh/carlosh/23418.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA  1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23419.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA  24 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23416.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA ACTION
-http://iptvtool.es:9977/live/carlosh/carlosh/23413.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA ACTION HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23414.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA ANIMATION HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23410.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA EMOTION
-http://iptvtool.es:9977/live/carlosh/carlosh/23408.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA FAMILY
-http://iptvtool.es:9977/live/carlosh/carlosh/23407.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23406.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA HITS
-http://iptvtool.es:9977/live/carlosh/carlosh/23404.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA HITS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23405.ts
-
-#EXTINF:-1,LO-DE: SKY CINEMA NOSTALGIE
-http://iptvtool.es:9977/live/carlosh/carlosh/23403.ts
-
-#EXTINF:-1,LO-DE: SKY KRIMI
-http://iptvtool.es:9977/live/carlosh/carlosh/23402.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT 1
-http://iptvtool.es:9977/live/carlosh/carlosh/23398.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23399.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23397.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT 8 ( Match time )
-http://iptvtool.es:9977/live/carlosh/carlosh/23384.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT AUSTRIA
-http://iptvtool.es:9977/live/carlosh/carlosh/23379.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 1
-http://iptvtool.es:9977/live/carlosh/carlosh/23378.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT BUNDESLIGA 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23377.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT NEWS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23401.ts
-
-#EXTINF:-1,LO-DE: SKY SPORT NEWS SD
-http://iptvtool.es:9977/live/carlosh/carlosh/23400.ts
-
-#EXTINF:-1,LO-DE: SYFY
-http://iptvtool.es:9977/live/carlosh/carlosh/23421.ts
-
-#EXTINF:-1,LO-DE: SYFY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23422.ts
-
-#EXTINF:-1,LO-DE: TAGESSCHAU24
-http://iptvtool.es:9977/live/carlosh/carlosh/23311.ts
-
-#EXTINF:-1,LO-DE: TLC
-http://iptvtool.es:9977/live/carlosh/carlosh/23442.ts
-
-#EXTINF:-1,LO-DE: TLC HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23441.ts
-
-#EXTINF:-1,LO-DE: TNT COMEDY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23428.ts
-
-#EXTINF:-1,LO-DE: TNT SERIE
-http://iptvtool.es:9977/live/carlosh/carlosh/23425.ts
-
-#EXTINF:-1,LO-DE: TNT SERIE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23426.ts
-
-#EXTINF:-1,LO-DE: TOGGO PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/23310.ts
-
-#EXTINF:-1,LO-DE: UNIVERSAL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23420.ts
-
-#EXTINF:-1,LO-DE: VOX
-http://iptvtool.es:9977/live/carlosh/carlosh/23316.ts
-
-#EXTINF:-1,LO-DE: VOX HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23317.ts
-
-#EXTINF:-1,LO-DE: ZDF
-http://iptvtool.es:9977/live/carlosh/carlosh/23445.ts
-
-#EXTINF:-1,LO-DE: ZDF INFO
-http://iptvtool.es:9977/live/carlosh/carlosh/23444.ts
-
-#EXTINF:-1,LO-DE: ZDF NEO
-http://iptvtool.es:9977/live/carlosh/carlosh/23443.ts
-
-#EXTINF:-1,LO-DE: ZEE ONE
-http://iptvtool.es:9977/live/carlosh/carlosh/23446.ts
-
-#EXTINF:-1,LO-DE: ZEE ONE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/23447.ts
-
-#EXTINF:-1,LA_CABLEONDA SPORTS 270p
-http://iptvtool.es:9977/live/carlosh/carlosh/22577.ts
-
-#EXTINF:-1,LA_CABLEONDA SPORTS 480p
-http://iptvtool.es:9977/live/carlosh/carlosh/22576.ts
-
-#EXTINF:-1,LA_CABLEONDA SPORTS FC 480p
-http://iptvtool.es:9977/live/carlosh/carlosh/22574.ts
-
-#EXTINF:-1,LA_ECO TV 270p
-http://iptvtool.es:9977/live/carlosh/carlosh/23186.ts
-
-#EXTINF:-1,LA_ECO TV 480p
-http://iptvtool.es:9977/live/carlosh/carlosh/22573.ts
-
-#EXTINF:-1,LA_FHD: Canal 5 HD MEX
-http://iptvtool.es:9977/live/carlosh/carlosh/22801.ts
-
-#EXTINF:-1,LA_FHD: Cinema 01 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22658.ts
-
-#EXTINF:-1,LA_FHD: Cinema 02 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22657.ts
-
-#EXTINF:-1,LA_FHD: Cinema 03 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22656.ts
-
-#EXTINF:-1,LA_FHD: Cinema 05 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22654.ts
-
-#EXTINF:-1,LA_FHD: Cinema 06 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22653.ts
-
-#EXTINF:-1,LA_FHD: Cinema 07 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22652.ts
-
-#EXTINF:-1,LA_FHD: Cinema 12 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22647.ts
-
-#EXTINF:-1,LA_FHD: Cinema 14 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22645.ts
-
-#EXTINF:-1,LA_FHD: Cinema 16 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22643.ts
-
-#EXTINF:-1,LA_FHD: Cinema 26 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22633.ts
-
-#EXTINF:-1,LA_FHD: Cinema 27 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22632.ts
-
-#EXTINF:-1,LA_FHD: Cinema 28 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22631.ts
-
-#EXTINF:-1,LA_FHD: Cinema 29 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22630.ts
-
-#EXTINF:-1,LA_FHD: Cinema 30 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22629.ts
-
-#EXTINF:-1,LA_FHD: Cinema 31 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22628.ts
-
-#EXTINF:-1,LA_FHD: Cinema 32 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22627.ts
-
-#EXTINF:-1,LA_FHD: Cinema 33 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22626.ts
-
-#EXTINF:-1,LA_FHD: Cinema 34 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22625.ts
-
-#EXTINF:-1,LA_FHD: Cinema 36 PPV
-http://iptvtool.es:9977/live/carlosh/carlosh/22623.ts
-
-#EXTINF:-1,LA_FHD: Music Top HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22713.ts
-
-#EXTINF:-1,LA_FHD:A&E
-http://iptvtool.es:9977/live/carlosh/carlosh/22779.ts
-
-#EXTINF:-1,LA_FHD:A3 SERIES HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22709.ts
-
-#EXTINF:-1,LA_FHD:AMC HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22780.ts
-
-#EXTINF:-1,LA_FHD:AMC_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22848.ts
-
-#EXTINF:-1,LA_FHD:AMERICA TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22824.ts
-
-#EXTINF:-1,LA_FHD:AXN HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22732.ts
-
-#EXTINF:-1,LA_FHD:Azteca Cinema HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22667.ts
-
-#EXTINF:-1,LA_FHD:Azteca Corazón HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22707.ts
-
-#EXTINF:-1,LA_FHD:BABY TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22686.ts
-
-#EXTINF:-1,LA_FHD:BANDAMAX HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22811.ts
-
-#EXTINF:-1,LA_FHD:BEIN SPORT_USA
-http://iptvtool.es:9977/live/carlosh/carlosh/22800.ts
-
-#EXTINF:-1,LA_FHD:BLOOMBERG HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22684.ts
-
-#EXTINF:-1,LA_FHD:BOOMERANG
-http://iptvtool.es:9977/live/carlosh/carlosh/22706.ts
-
-#EXTINF:-1,LA_FHD:BOX NATION
-http://iptvtool.es:9977/live/carlosh/carlosh/22747.ts
-
-#EXTINF:-1,LA_FHD:CANAL 11 HD HONDURAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22746.ts
-
-#EXTINF:-1,LA_FHD:CANAL 13 Chile HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22727.ts
-
-#EXTINF:-1,LA_FHD:CANAL 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22677.ts
-
-#EXTINF:-1,LA_FHD:CANAL DE LAS ESTRELLAS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22676.ts
-
-#EXTINF:-1,LA_FHD:CANAL N URUGUAY
-http://iptvtool.es:9977/live/carlosh/carlosh/22661.ts
-
-#EXTINF:-1,LA_FHD:CINEMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/22772.ts
-
-#EXTINF:-1,LA_FHD:CNN INT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22846.ts
-
-#EXTINF:-1,LA_FHD:CNT SPORT_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22583.ts
-
-#EXTINF:-1,LA_FHD:COMEDY CENTRAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22771.ts
-
-#EXTINF:-1,LA_FHD:CONCERT CHANEL SD/HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22703.ts
-
-#EXTINF:-1,LA_FHD:DE PELICULA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22763.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORT 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22830.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22828.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORTS 1 ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22580.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORTS 1 HD ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22777.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORTS 2 HD ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22776.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORTS 3 HD ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22775.ts
-
-#EXTINF:-1,LA_FHD:FOX SPORTS PREMIUM HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22820.ts
-
-#EXTINF:-1,LA_FHD:FX HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22756.ts
-
-#EXTINF:-1,LA_FHD:FX MOVIE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22752.ts
-
-#EXTINF:-1,LA_FHD:GALAVISION
-http://iptvtool.es:9977/live/carlosh/carlosh/22790.ts
-
-#EXTINF:-1,LA_FHD:Gol TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22789.ts
-
-#EXTINF:-1,LA_FHD:GOLDEN HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22683.ts
-
-#EXTINF:-1,LA_FHD:GOLDEN PREMIER 2
-http://iptvtool.es:9977/live/carlosh/carlosh/22778.ts
-
-#EXTINF:-1,LA_FHD:GOLDEN PREMIER HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22682.ts
-
-#EXTINF:-1,LA_FHD:HBO 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22788.ts
-
-#EXTINF:-1,LA_FHD:HBO FAMILY
-http://iptvtool.es:9977/live/carlosh/carlosh/22671.ts
-
-#EXTINF:-1,LA_FHD:HBO PLUS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22787.ts
-
-#EXTINF:-1,LA_FHD:HISTORY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22773.ts
-
-#EXTINF:-1,LA_FHD:HOLA TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22715.ts
-
-#EXTINF:-1,LA_FHD:HTV
-http://iptvtool.es:9977/live/carlosh/carlosh/22698.ts
-
-#EXTINF:-1,LA_FHD:KOMBAT SPORT
-http://iptvtool.es:9977/live/carlosh/carlosh/22728.ts
-
-#EXTINF:-1,LA_FHD:LIFETIME HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22666.ts
-
-#EXTINF:-1,LA_FHD:LN  HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22819.ts
-
-#EXTINF:-1,LA_FHD:MASCHIC HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22697.ts
-
-#EXTINF:-1,LA_FHD:MAX PRIME
-http://iptvtool.es:9977/live/carlosh/carlosh/22761.ts
-
-#EXTINF:-1,LA_FHD:MAX UP HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22760.ts
-
-#EXTINF:-1,LA_FHD:MEGA CHILE  HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22818.ts
-
-#EXTINF:-1,LA_FHD:MI MUSICA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22696.ts
-
-#EXTINF:-1,LA_FHD:MULTIMEDIOS
-http://iptvtool.es:9977/live/carlosh/carlosh/22695.ts
-
-#EXTINF:-1,LA_FHD:NAT GEO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22840.ts
-
-#EXTINF:-1,LA_FHD:NAT GEO KIDS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22694.ts
-
-#EXTINF:-1,LA_FHD:NAT GEO WILD HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22839.ts
-
-#EXTINF:-1,LA_FHD:NBA TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22838.ts
-
-#EXTINF:-1,LA_FHD:NBC UNIVERSO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22784.ts
-
-#EXTINF:-1,LA_FHD:NICK 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22679.ts
-
-#EXTINF:-1,LA_FHD:NICKELODEON HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22681.ts
-
-#EXTINF:-1,LA_FHD:NTN24HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22571.ts
-
-#EXTINF:-1,LA_FHD:PARAMOUNT CHANNEL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22837.ts
-
-#EXTINF:-1,LA_FHD:PASIONES HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22582.ts
-
-#EXTINF:-1,LA_FHD:Power HD ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22720.ts
-
-#EXTINF:-1,LA_FHD:RCN
-http://iptvtool.es:9977/live/carlosh/carlosh/22693.ts
-
-#EXTINF:-1,LA_FHD:RCN_Novelas_HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22770.ts
-
-#EXTINF:-1,LA_FHD:RITMOZON LATINO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22809.ts
-
-#EXTINF:-1,LA_FHD:RTS ECUADOR
-http://iptvtool.es:9977/live/carlosh/carlosh/22664.ts
-
-#EXTINF:-1,LA_FHD:SONY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22733.ts
-
-#EXTINF:-1,LA_FHD:SPACE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22827.ts
-
-#EXTINF:-1,LA_FHD:SPORT TV CONO SUR 1
-http://iptvtool.es:9977/live/carlosh/carlosh/22795.ts
-
-#EXTINF:-1,LA_FHD:SPORT TV CONO SUR 2
-http://iptvtool.es:9977/live/carlosh/carlosh/22794.ts
-
-#EXTINF:-1,LA_FHD:SPORT TV CONO SUR 3
-http://iptvtool.es:9977/live/carlosh/carlosh/22793.ts
-
-#EXTINF:-1,LA_FHD:SPORT TV CONO SUR 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22792.ts
-
-#EXTINF:-1,LA_FHD:SPORT TV CONO SUR 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22791.ts
-
-#EXTINF:-1,LA_FHD:SPORT TV CONO SUR HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22796.ts
-
-#EXTINF:-1,LA_FHD:STUDIO UNIVERSAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22692.ts
-
-#EXTINF:-1,LA_FHD:SUNDANCE CHANNEL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22836.ts
-
-#EXTINF:-1,LA_FHD:SYFY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22759.ts
-
-#EXTINF:-1,LA_FHD:TBS HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22758.ts
-
-#EXTINF:-1,LA_FHD:TC ECUADOR
-http://iptvtool.es:9977/live/carlosh/carlosh/22674.ts
-
-#EXTINF:-1,LA_FHD:TDN DEPORTES HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22849.ts
-
-#EXTINF:-1,LA_FHD:TELECADENA 7 HONDURAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22741.ts
-
-#EXTINF:-1,LA_FHD:TELEFE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22678.ts
-
-#EXTINF:-1,LA_FHD:TELEHIT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22835.ts
-
-#EXTINF:-1,LA_FHD:TELEMAX ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22719.ts
-
-#EXTINF:-1,LA_FHD:TELEMUNDO
-http://iptvtool.es:9977/live/carlosh/carlosh/22690.ts
-
-#EXTINF:-1,LA_FHD:TELEMUNDO LOS ANGELES HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22734.ts
-
-#EXTINF:-1,LA_FHD:TELEPIN ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22721.ts
-
-#EXTINF:-1,LA_FHD:TLC
-http://iptvtool.es:9977/live/carlosh/carlosh/22689.ts
-
-#EXTINF:-1,LA_FHD:TLX HD ARG
-http://iptvtool.es:9977/live/carlosh/carlosh/22718.ts
-
-#EXTINF:-1,LA_FHD:TNT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22834.ts
-
-#EXTINF:-1,LA_FHD:TNT SERIES HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22826.ts
-
-#EXTINF:-1,LA_FHD:TNT SPORT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22816.ts
-
-#EXTINF:-1,LA_FHD:TRAVEL HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22806.ts
-
-#EXTINF:-1,LA_FHD:TRU TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22688.ts
-
-#EXTINF:-1,LA_FHD:TV PUBLICA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22815.ts
-
-#EXTINF:-1,LA_FHD:TVN HD CHILE
-http://iptvtool.es:9977/live/carlosh/carlosh/22814.ts
-
-#EXTINF:-1,LA_FHD:TVO HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22805.ts
-
-#EXTINF:-1,LA_FHD:TyC_Sports HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22751.ts
-
-#EXTINF:-1,LA_FHD:UFC _FIGHT HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22783.ts
-
-#EXTINF:-1,LA_FHD:UNIVERSAL CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/22757.ts
-
-#EXTINF:-1,LA_FHD:UNIVISION DEPORTE
-http://iptvtool.es:9977/live/carlosh/carlosh/22716.ts
-
-#EXTINF:-1,LA_FHD:WOBI HD
-http://iptvtool.es:9977/live/carlosh/carlosh/22691.ts
-
-#EXTINF:-1,LA_HD_MEX:A&E
-http://iptvtool.es:9977/live/carlosh/carlosh/22551.ts
-
-#EXTINF:-1,LA_HD_MEX:A3 SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/22550.ts
-
-#EXTINF:-1,LA_HD_MEX:ADN40
-http://iptvtool.es:9977/live/carlosh/carlosh/22549.ts
-
-#EXTINF:-1,LA_HD_MEX:AFORE AZTECA
-http://iptvtool.es:9977/live/carlosh/carlosh/22548.ts
-
-#EXTINF:-1,LA_HD_MEX:ALJAZZERA
-http://iptvtool.es:9977/live/carlosh/carlosh/22547.ts
-
-#EXTINF:-1,LA_HD_MEX:AMC
-http://iptvtool.es:9977/live/carlosh/carlosh/22546.ts
-
-#EXTINF:-1,LA_HD_MEX:AMC_
-http://iptvtool.es:9977/live/carlosh/carlosh/22545.ts
-
-#EXTINF:-1,LA_HD_MEX:ANIMAL PLANET
-http://iptvtool.es:9977/live/carlosh/carlosh/22544.ts
-
-#EXTINF:-1,LA_HD_MEX:ANTENA 3
-http://iptvtool.es:9977/live/carlosh/carlosh/22542.ts
-
-#EXTINF:-1,LA_HD_MEX:AXN
-http://iptvtool.es:9977/live/carlosh/carlosh/22541.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA 1
-http://iptvtool.es:9977/live/carlosh/carlosh/22540.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA 7
-http://iptvtool.es:9977/live/carlosh/carlosh/22539.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA CINEMA
-http://iptvtool.es:9977/live/carlosh/carlosh/22538.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA CLICK
-http://iptvtool.es:9977/live/carlosh/carlosh/22537.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA CORAZON
-http://iptvtool.es:9977/live/carlosh/carlosh/22536.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA MUNDO
-http://iptvtool.es:9977/live/carlosh/carlosh/22535.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA UNO_
-http://iptvtool.es:9977/live/carlosh/carlosh/22534.ts
-
-#EXTINF:-1,LA_HD_MEX:AZTECA_UNO
-http://iptvtool.es:9977/live/carlosh/carlosh/22533.ts
-
-#EXTINF:-1,LA_HD_MEX:BABY TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22532.ts
-
-#EXTINF:-1,LA_HD_MEX:BANDAMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/22531.ts
-
-#EXTINF:-1,LA_HD_MEX:BBC WORLD NEWS
-http://iptvtool.es:9977/live/carlosh/carlosh/22530.ts
-
-#EXTINF:-1,LA_HD_MEX:BLOOMBERG
-http://iptvtool.es:9977/live/carlosh/carlosh/22529.ts
-
-#EXTINF:-1,LA_HD_MEX:BLOOMBERG.
-http://iptvtool.es:9977/live/carlosh/carlosh/22528.ts
-
-#EXTINF:-1,LA_HD_MEX:CADEND TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22526.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL 11
-http://iptvtool.es:9977/live/carlosh/carlosh/22406.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL 2 MX
-http://iptvtool.es:9977/live/carlosh/carlosh/22525.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL 26
-http://iptvtool.es:9977/live/carlosh/carlosh/22524.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL 4
-http://iptvtool.es:9977/live/carlosh/carlosh/22523.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL DE LAS ESTRELLAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22519.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL JUDICIAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22518.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL1873
-http://iptvtool.es:9977/live/carlosh/carlosh/22403.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL1935
-http://iptvtool.es:9977/live/carlosh/carlosh/22400.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL1938
-http://iptvtool.es:9977/live/carlosh/carlosh/22399.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL1952
-http://iptvtool.es:9977/live/carlosh/carlosh/22397.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL1989
-http://iptvtool.es:9977/live/carlosh/carlosh/22396.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL2130
-http://iptvtool.es:9977/live/carlosh/carlosh/22392.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL2316
-http://iptvtool.es:9977/live/carlosh/carlosh/22391.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL2355
-http://iptvtool.es:9977/live/carlosh/carlosh/22389.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL269
-http://iptvtool.es:9977/live/carlosh/carlosh/22388.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL470
-http://iptvtool.es:9977/live/carlosh/carlosh/22385.ts
-
-#EXTINF:-1,LA_HD_MEX:CANAL7
-http://iptvtool.es:9977/live/carlosh/carlosh/22516.ts
-
-#EXTINF:-1,LA_HD_MEX:CARTOON NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/22515.ts
-
-#EXTINF:-1,LA_HD_MEX:CINECANAL_
-http://iptvtool.es:9977/live/carlosh/carlosh/22514.ts
-
-#EXTINF:-1,LA_HD_MEX:CINEMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/22513.ts
-
-#EXTINF:-1,LA_HD_MEX:CNN ESP_
-http://iptvtool.es:9977/live/carlosh/carlosh/22512.ts
-
-#EXTINF:-1,LA_HD_MEX:CNN INT
-http://iptvtool.es:9977/live/carlosh/carlosh/22511.ts
-
-#EXTINF:-1,LA_HD_MEX:CNN_
-http://iptvtool.es:9977/live/carlosh/carlosh/22510.ts
-
-#EXTINF:-1,LA_HD_MEX:COMEDY CENTRAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22509.ts
-
-#EXTINF:-1,LA_HD_MEX:COMEDY CENTRAL_
-http://iptvtool.es:9977/live/carlosh/carlosh/22508.ts
-
-#EXTINF:-1,LA_HD_MEX:DE PELICULA
-http://iptvtool.es:9977/live/carlosh/carlosh/22507.ts
-
-#EXTINF:-1,LA_HD_MEX:DE PELICULA_
-http://iptvtool.es:9977/live/carlosh/carlosh/22506.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/22505.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY CIVILIZATION
-http://iptvtool.es:9977/live/carlosh/carlosh/22504.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY HH
-http://iptvtool.es:9977/live/carlosh/carlosh/22503.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY ID
-http://iptvtool.es:9977/live/carlosh/carlosh/22502.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY KIDS
-http://iptvtool.es:9977/live/carlosh/carlosh/22501.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY SCI
-http://iptvtool.es:9977/live/carlosh/carlosh/22500.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY TH
-http://iptvtool.es:9977/live/carlosh/carlosh/22499.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY TURBO.
-http://iptvtool.es:9977/live/carlosh/carlosh/22498.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY WORLD
-http://iptvtool.es:9977/live/carlosh/carlosh/22497.ts
-
-#EXTINF:-1,LA_HD_MEX:DISCOVERY WORLD_
-http://iptvtool.es:9977/live/carlosh/carlosh/22496.ts
-
-#EXTINF:-1,LA_HD_MEX:DISNEY CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/22495.ts
-
-#EXTINF:-1,LA_HD_MEX:DISNEY XD
-http://iptvtool.es:9977/live/carlosh/carlosh/22493.ts
-
-#EXTINF:-1,LA_HD_MEX:E TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22404.ts
-
-#EXTINF:-1,LA_HD_MEX:ESPN 2
-http://iptvtool.es:9977/live/carlosh/carlosh/22488.ts
-
-#EXTINF:-1,LA_HD_MEX:ESPN 3
-http://iptvtool.es:9977/live/carlosh/carlosh/22487.ts
-
-#EXTINF:-1,LA_HD_MEX:ESPN NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/22486.ts
-
-#EXTINF:-1,LA_HD_MEX:ESPN PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/22485.ts
-
-#EXTINF:-1,LA_HD_MEX:ESPN U
-http://iptvtool.es:9977/live/carlosh/carlosh/22484.ts
-
-#EXTINF:-1,LA_HD_MEX:Europa Europa
-http://iptvtool.es:9977/live/carlosh/carlosh/22405.ts
-
-#EXTINF:-1,LA_HD_MEX:FILM & ART
-http://iptvtool.es:9977/live/carlosh/carlosh/22483.ts
-
-#EXTINF:-1,LA_HD_MEX:FOOD NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/22482.ts
-
-#EXTINF:-1,LA_HD_MEX:FORMULA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22481.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX
-http://iptvtool.es:9977/live/carlosh/carlosh/22480.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX ACTION
-http://iptvtool.es:9977/live/carlosh/carlosh/22479.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX CH
-http://iptvtool.es:9977/live/carlosh/carlosh/22478.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX CINEMA
-http://iptvtool.es:9977/live/carlosh/carlosh/22477.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX CLASSICS
-http://iptvtool.es:9977/live/carlosh/carlosh/22476.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX MOVIE
-http://iptvtool.es:9977/live/carlosh/carlosh/22475.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX NEWS
-http://iptvtool.es:9977/live/carlosh/carlosh/22474.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/22473.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SPORT1
-http://iptvtool.es:9977/live/carlosh/carlosh/22472.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SPORT2
-http://iptvtool.es:9977/live/carlosh/carlosh/22471.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SPORT2_
-http://iptvtool.es:9977/live/carlosh/carlosh/22470.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SPORTS
-http://iptvtool.es:9977/live/carlosh/carlosh/22469.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SPORTS 2
-http://iptvtool.es:9977/live/carlosh/carlosh/22468.ts
-
-#EXTINF:-1,LA_HD_MEX:FOX SPORTS 3
-http://iptvtool.es:9977/live/carlosh/carlosh/22467.ts
-
-#EXTINF:-1,LA_HD_MEX:FOXLIFE
-http://iptvtool.es:9977/live/carlosh/carlosh/22387.ts
-
-#EXTINF:-1,LA_HD_MEX:FX
-http://iptvtool.es:9977/live/carlosh/carlosh/22466.ts
-
-#EXTINF:-1,LA_HD_MEX:GALA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22395.ts
-
-#EXTINF:-1,LA_HD_MEX:GLITZ
-http://iptvtool.es:9977/live/carlosh/carlosh/22465.ts
-
-#EXTINF:-1,LA_HD_MEX:GOLDEN
-http://iptvtool.es:9977/live/carlosh/carlosh/22464.ts
-
-#EXTINF:-1,LA_HD_MEX:GOLDEN EDG
-http://iptvtool.es:9977/live/carlosh/carlosh/22463.ts
-
-#EXTINF:-1,LA_HD_MEX:GOLDEN PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/22462.ts
-
-#EXTINF:-1,LA_HD_MEX:GOLF CH
-http://iptvtool.es:9977/live/carlosh/carlosh/22461.ts
-
-#EXTINF:-1,LA_HD_MEX:HISTORY
-http://iptvtool.es:9977/live/carlosh/carlosh/22460.ts
-
-#EXTINF:-1,LA_HD_MEX:HLN
-http://iptvtool.es:9977/live/carlosh/carlosh/22459.ts
-
-#EXTINF:-1,LA_HD_MEX:HOLA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22458.ts
-
-#EXTINF:-1,LA_HD_MEX:i CLASSIC
-http://iptvtool.es:9977/live/carlosh/carlosh/22457.ts
-
-#EXTINF:-1,LA_HD_MEX:IMAGEN TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22456.ts
-
-#EXTINF:-1,LA_HD_MEX:IMAGEN TV.
-http://iptvtool.es:9977/live/carlosh/carlosh/22455.ts
-
-#EXTINF:-1,LA_HD_MEX:INGENION TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22386.ts
-
-#EXTINF:-1,LA_HD_MEX:ISAT_
-http://iptvtool.es:9977/live/carlosh/carlosh/22454.ts
-
-#EXTINF:-1,LA_HD_MEX:ITV
-http://iptvtool.es:9977/live/carlosh/carlosh/22393.ts
-
-#EXTINF:-1,LA_HD_MEX:LAS ESTRELLA_.
-http://iptvtool.es:9977/live/carlosh/carlosh/22451.ts
-
-#EXTINF:-1,LA_HD_MEX:LAS ESTRELLAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22453.ts
-
-#EXTINF:-1,LA_HD_MEX:LAS ESTRELLAS -2
-http://iptvtool.es:9977/live/carlosh/carlosh/22384.ts
-
-#EXTINF:-1,LA_HD_MEX:LAS ESTRELLAS._
-http://iptvtool.es:9977/live/carlosh/carlosh/22452.ts
-
-#EXTINF:-1,LA_HD_MEX:LIFETIME
-http://iptvtool.es:9977/live/carlosh/carlosh/22450.ts
-
-#EXTINF:-1,LA_HD_MEX:MAS CHIC
-http://iptvtool.es:9977/live/carlosh/carlosh/22449.ts
-
-#EXTINF:-1,LA_HD_MEX:MTV LIVE
-http://iptvtool.es:9977/live/carlosh/carlosh/22448.ts
-
-#EXTINF:-1,LA_HD_MEX:MTV NEWS
-http://iptvtool.es:9977/live/carlosh/carlosh/22447.ts
-
-#EXTINF:-1,LA_HD_MEX:MTV_
-http://iptvtool.es:9977/live/carlosh/carlosh/22446.ts
-
-#EXTINF:-1,LA_HD_MEX:MULTIMEDIOS
-http://iptvtool.es:9977/live/carlosh/carlosh/22445.ts
-
-#EXTINF:-1,LA_HD_MEX:MULTIMEDIOS P.
-http://iptvtool.es:9977/live/carlosh/carlosh/22444.ts
-
-#EXTINF:-1,LA_HD_MEX:NAT GEO KIDS
-http://iptvtool.es:9977/live/carlosh/carlosh/22443.ts
-
-#EXTINF:-1,LA_HD_MEX:NAT GEO WILD
-http://iptvtool.es:9977/live/carlosh/carlosh/22442.ts
-
-#EXTINF:-1,LA_HD_MEX:NATGEO
-http://iptvtool.es:9977/live/carlosh/carlosh/22441.ts
-
-#EXTINF:-1,LA_HD_MEX:NICK
-http://iptvtool.es:9977/live/carlosh/carlosh/22440.ts
-
-#EXTINF:-1,LA_HD_MEX:NICK 2
-http://iptvtool.es:9977/live/carlosh/carlosh/22439.ts
-
-#EXTINF:-1,LA_HD_MEX:NICK JR
-http://iptvtool.es:9977/live/carlosh/carlosh/22438.ts
-
-#EXTINF:-1,LA_HD_MEX:NICK_
-http://iptvtool.es:9977/live/carlosh/carlosh/22436.ts
-
-#EXTINF:-1,LA_HD_MEX:NICKTOONS
-http://iptvtool.es:9977/live/carlosh/carlosh/22437.ts
-
-#EXTINF:-1,LA_HD_MEX:NTN24
-http://iptvtool.es:9977/live/carlosh/carlosh/22435.ts
-
-#EXTINF:-1,LA_HD_MEX:OCHO TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22394.ts
-
-#EXTINF:-1,LA_HD_MEX:PARAMOUNT
-http://iptvtool.es:9977/live/carlosh/carlosh/22434.ts
-
-#EXTINF:-1,LA_HD_MEX:PX SPORTS
-http://iptvtool.es:9977/live/carlosh/carlosh/22433.ts
-
-#EXTINF:-1,LA_HD_MEX:Q PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/22517.ts
-
-#EXTINF:-1,LA_HD_MEX:RMS_
-http://iptvtool.es:9977/live/carlosh/carlosh/22432.ts
-
-#EXTINF:-1,LA_HD_MEX:RT RUSIA
-http://iptvtool.es:9977/live/carlosh/carlosh/22431.ts
-
-#EXTINF:-1,LA_HD_MEX:SENDERO
-http://iptvtool.es:9977/live/carlosh/carlosh/22430.ts
-
-#EXTINF:-1,LA_HD_MEX:SHE
-http://iptvtool.es:9977/live/carlosh/carlosh/22429.ts
-
-#EXTINF:-1,LA_HD_MEX:SONY
-http://iptvtool.es:9977/live/carlosh/carlosh/22428.ts
-
-#EXTINF:-1,LA_HD_MEX:SPACE
-http://iptvtool.es:9977/live/carlosh/carlosh/22427.ts
-
-#EXTINF:-1,LA_HD_MEX:SPACE_
-http://iptvtool.es:9977/live/carlosh/carlosh/22426.ts
-
-#EXTINF:-1,LA_HD_MEX:STAR TVE
-http://iptvtool.es:9977/live/carlosh/carlosh/22425.ts
-
-#EXTINF:-1,LA_HD_MEX:SUNDANCE
-http://iptvtool.es:9977/live/carlosh/carlosh/22424.ts
-
-#EXTINF:-1,LA_HD_MEX:SYFY
-http://iptvtool.es:9977/live/carlosh/carlosh/22423.ts
-
-#EXTINF:-1,LA_HD_MEX:TBS
-http://iptvtool.es:9977/live/carlosh/carlosh/22422.ts
-
-#EXTINF:-1,LA_HD_MEX:TCM
-http://iptvtool.es:9977/live/carlosh/carlosh/22421.ts
-
-#EXTINF:-1,LA_HD_MEX:TELEHIT
-http://iptvtool.es:9977/live/carlosh/carlosh/22420.ts
-
-#EXTINF:-1,LA_HD_MEX:TELENOVELAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22419.ts
-
-#EXTINF:-1,LA_HD_MEX:TELEVISA
-http://iptvtool.es:9977/live/carlosh/carlosh/22418.ts
-
-#EXTINF:-1,LA_HD_MEX:TELEVISA.
-http://iptvtool.es:9977/live/carlosh/carlosh/22417.ts
-
-#EXTINF:-1,LA_HD_MEX:TIIN
-http://iptvtool.es:9977/live/carlosh/carlosh/22416.ts
-
-#EXTINF:-1,LA_HD_MEX:TLC
-http://iptvtool.es:9977/live/carlosh/carlosh/22415.ts
-
-#EXTINF:-1,LA_HD_MEX:TLC.
-http://iptvtool.es:9977/live/carlosh/carlosh/22414.ts
-
-#EXTINF:-1,LA_HD_MEX:TLR
-http://iptvtool.es:9977/live/carlosh/carlosh/22413.ts
-
-#EXTINF:-1,LA_HD_MEX:TNT
-http://iptvtool.es:9977/live/carlosh/carlosh/22412.ts
-
-#EXTINF:-1,LA_HD_MEX:TNT SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/22411.ts
-
-#EXTINF:-1,LA_HD_MEX:TOONCAST
-http://iptvtool.es:9977/live/carlosh/carlosh/22410.ts
-
-#EXTINF:-1,LA_HD_MEX:TP AZTECA_UNO
-http://iptvtool.es:9977/live/carlosh/carlosh/22409.ts
-
-#EXTINF:-1,LA_HD_MEX:TRU TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22383.ts
-
-#EXTINF:-1,LA_HD_MEX:TV MAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22382.ts
-
-#EXTINF:-1,LA_HD_MEX:TV UNAME
-http://iptvtool.es:9977/live/carlosh/carlosh/22408.ts
-
-#EXTINF:-1,LA_HD_MEX:TV5 FRANCIA
-http://iptvtool.es:9977/live/carlosh/carlosh/22381.ts
-
-#EXTINF:-1,LA_HD_MEX:TVCD
-http://iptvtool.es:9977/live/carlosh/carlosh/22380.ts
-
-#EXTINF:-1,LA_HD_MEX:TVE
-http://iptvtool.es:9977/live/carlosh/carlosh/22379.ts
-
-#EXTINF:-1,LA_HD_MEX:TVO
-http://iptvtool.es:9977/live/carlosh/carlosh/22378.ts
-
-#EXTINF:-1,LA_HD_MEX:UNICABLE
-http://iptvtool.es:9977/live/carlosh/carlosh/22377.ts
-
-#EXTINF:-1,LA_HD_MEX:UNIVERSAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22376.ts
-
-#EXTINF:-1,LA_HD_MEX:VH1 P
-http://iptvtool.es:9977/live/carlosh/carlosh/22375.ts
-
-#EXTINF:-1,LA_HD_MEX:VH1_
-http://iptvtool.es:9977/live/carlosh/carlosh/22374.ts
-
-#EXTINF:-1,LA_HD_MEX:VTV
-http://iptvtool.es:9977/live/carlosh/carlosh/22373.ts
-
-#EXTINF:-1,LA_HD_MEX:WARNER CH
-http://iptvtool.es:9977/live/carlosh/carlosh/22372.ts
-
-#EXTINF:-1,LA_HD_MEX:WOBI
-http://iptvtool.es:9977/live/carlosh/carlosh/22371.ts
-
-#EXTINF:-1,LA_HD:PE_AMERICA TV HD PERU
-http://iptvtool.es:9977/live/carlosh/carlosh/22561.ts
-
-#EXTINF:-1,LA_HD:PE_ATV
-http://iptvtool.es:9977/live/carlosh/carlosh/22560.ts
-
-#EXTINF:-1,LA_HD:PE_FRECUENCIA LATINA
-http://iptvtool.es:9977/live/carlosh/carlosh/22559.ts
-
-#EXTINF:-1,LA_HD:PE_GOL TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22558.ts
-
-#EXTINF:-1,LA_SD_MEX:A&E
-http://iptvtool.es:9977/live/carlosh/carlosh/22369.ts
-
-#EXTINF:-1,LA_SD_MEX:A3 SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/22368.ts
-
-#EXTINF:-1,LA_SD_MEX:ADN40
-http://iptvtool.es:9977/live/carlosh/carlosh/22367.ts
-
-#EXTINF:-1,LA_SD_MEX:AL JAZZERA
-http://iptvtool.es:9977/live/carlosh/carlosh/22366.ts
-
-#EXTINF:-1,LA_SD_MEX:AMC
-http://iptvtool.es:9977/live/carlosh/carlosh/22218.ts
-
-#EXTINF:-1,LA_SD_MEX:AMC.-
-http://iptvtool.es:9977/live/carlosh/carlosh/22213.ts
-
-#EXTINF:-1,LA_SD_MEX:ANIMAL PLANET
-http://iptvtool.es:9977/live/carlosh/carlosh/22365.ts
-
-#EXTINF:-1,LA_SD_MEX:ANIMAL PLANET._
-http://iptvtool.es:9977/live/carlosh/carlosh/22543.ts
-
-#EXTINF:-1,LA_SD_MEX:ANTENA3
-http://iptvtool.es:9977/live/carlosh/carlosh/22364.ts
-
-#EXTINF:-1,LA_SD_MEX:AXN
-http://iptvtool.es:9977/live/carlosh/carlosh/22363.ts
-
-#EXTINF:-1,LA_SD_MEX:Az uno
-http://iptvtool.es:9977/live/carlosh/carlosh/22234.ts
-
-#EXTINF:-1,LA_SD_MEX:AZ_UNO
-http://iptvtool.es:9977/live/carlosh/carlosh/22230.ts
-
-#EXTINF:-1,LA_SD_MEX:AZT UNO
-http://iptvtool.es:9977/live/carlosh/carlosh/22231.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA 1
-http://iptvtool.es:9977/live/carlosh/carlosh/22362.ts
-
-#EXTINF:-1,LA_SD_MEX:Azteca 7 -1
-http://iptvtool.es:9977/live/carlosh/carlosh/22212.ts
-
-#EXTINF:-1,LA_SD_MEX:Azteca 7 -2
-http://iptvtool.es:9977/live/carlosh/carlosh/22214.ts
-
-#EXTINF:-1,LA_SD_MEX:azteca 7_
-http://iptvtool.es:9977/live/carlosh/carlosh/22216.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA CINEMA
-http://iptvtool.es:9977/live/carlosh/carlosh/22361.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA CLICK
-http://iptvtool.es:9977/live/carlosh/carlosh/22360.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA CORAZON
-http://iptvtool.es:9977/live/carlosh/carlosh/22359.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA CORAZON_
-http://iptvtool.es:9977/live/carlosh/carlosh/22358.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA MUNDO
-http://iptvtool.es:9977/live/carlosh/carlosh/22357.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA UNO_
-http://iptvtool.es:9977/live/carlosh/carlosh/22356.ts
-
-#EXTINF:-1,LA_SD_MEX:AZTECA7
-http://iptvtool.es:9977/live/carlosh/carlosh/22355.ts
-
-#EXTINF:-1,LA_SD_MEX:BABY FIRST
-http://iptvtool.es:9977/live/carlosh/carlosh/22354.ts
-
-#EXTINF:-1,LA_SD_MEX:BBC WORLD NEWS
-http://iptvtool.es:9977/live/carlosh/carlosh/22352.ts
-
-#EXTINF:-1,LA_SD_MEX:BLOMMBERG
-http://iptvtool.es:9977/live/carlosh/carlosh/22351.ts
-
-#EXTINF:-1,LA_SD_MEX:BLOOMBERG
-http://iptvtool.es:9977/live/carlosh/carlosh/22350.ts
-
-#EXTINF:-1,LA_SD_MEX:BOOMERANG
-http://iptvtool.es:9977/live/carlosh/carlosh/22349.ts
-
-#EXTINF:-1,LA_SD_MEX:CADEND TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22348.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL 26
-http://iptvtool.es:9977/live/carlosh/carlosh/22347.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL 4
-http://iptvtool.es:9977/live/carlosh/carlosh/22346.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL 5
-http://iptvtool.es:9977/live/carlosh/carlosh/22345.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL 7
-http://iptvtool.es:9977/live/carlosh/carlosh/22344.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL 8
-http://iptvtool.es:9977/live/carlosh/carlosh/22343.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL B
-http://iptvtool.es:9977/live/carlosh/carlosh/22223.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL DE LAS ESTRELLAS
-http://iptvtool.es:9977/live/carlosh/carlosh/22342.ts
-
-#EXTINF:-1,LA_SD_MEX:CANAL556
-http://iptvtool.es:9977/live/carlosh/carlosh/22217.ts
-
-#EXTINF:-1,LA_SD_MEX:CARTOON NETWORK
-http://iptvtool.es:9977/live/carlosh/carlosh/22340.ts
-
-#EXTINF:-1,LA_SD_MEX:CINECANAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22339.ts
-
-#EXTINF:-1,LA_SD_MEX:CINEMAX
-http://iptvtool.es:9977/live/carlosh/carlosh/22219.ts
-
-#EXTINF:-1,LA_SD_MEX:CNN ESP_
-http://iptvtool.es:9977/live/carlosh/carlosh/22338.ts
-
-#EXTINF:-1,LA_SD_MEX:CNN INT
-http://iptvtool.es:9977/live/carlosh/carlosh/22337.ts
-
-#EXTINF:-1,LA_SD_MEX:COMEDY CENTRAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22335.ts
-
-#EXTINF:-1,LA_SD_MEX:COMEDY CENTRAL_
-http://iptvtool.es:9977/live/carlosh/carlosh/22334.ts
-
-#EXTINF:-1,LA_SD_MEX:DE PELICULA_
-http://iptvtool.es:9977/live/carlosh/carlosh/22332.ts
-
-#EXTINF:-1,LA_SD_MEX:DISCOVERY CHANNEL
-http://iptvtool.es:9977/live/carlosh/carlosh/22331.ts
-
-#EXTINF:-1,LA_SD_MEX:DISCOVERY H&H
-http://iptvtool.es:9977/live/carlosh/carlosh/22329.ts
-
-#EXTINF:-1,LA_SD_MEX:DISCOVERY KIDS
-http://iptvtool.es:9977/live/carlosh/carlosh/22327.ts
-
-#EXTINF:-1,LA_SD_MEX:DISCOVERY TURBO
-http://iptvtool.es:9977/live/carlosh/carlosh/22324.ts
-
-#EXTINF:-1,LA_SD_MEX:iTV_
-http://iptvtool.es:9977/live/carlosh/carlosh/22227.ts
-
-#EXTINF:-1,LA_SD_MEX:LAS ESTRELLAS_
-http://iptvtool.es:9977/live/carlosh/carlosh/22277.ts
-
-#EXTINF:-1,LA_SD_MEX:LIFE TIME
-http://iptvtool.es:9977/live/carlosh/carlosh/22309.ts
-
-#EXTINF:-1,LA_SD_MEX:MAS CHIC
-http://iptvtool.es:9977/live/carlosh/carlosh/22276.ts
-
-#EXTINF:-1,LA_SD_MEX:MEQUIQUENSE TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22220.ts
-
-#EXTINF:-1,LA_SD_MEX:Milenio
-http://iptvtool.es:9977/live/carlosh/carlosh/22211.ts
-
-#EXTINF:-1,LA_SD_MEX:MULTIMEDIOS
-http://iptvtool.es:9977/live/carlosh/carlosh/22274.ts
-
-#EXTINF:-1,LA_SD_MEX:MULTIMEDIOS P.
-http://iptvtool.es:9977/live/carlosh/carlosh/22273.ts
-
-#EXTINF:-1,LA_SD_MEX:NAT GEO
-http://iptvtool.es:9977/live/carlosh/carlosh/22272.ts
-
-#EXTINF:-1,LA_SD_MEX:NAT GEO KIDS
-http://iptvtool.es:9977/live/carlosh/carlosh/22271.ts
-
-#EXTINF:-1,LA_SD_MEX:NAT GEO WILD
-http://iptvtool.es:9977/live/carlosh/carlosh/22270.ts
-
-#EXTINF:-1,LA_SD_MEX:NICKTOONS
-http://iptvtool.es:9977/live/carlosh/carlosh/22266.ts
-
-#EXTINF:-1,LA_SD_MEX:PX SPORTS
-http://iptvtool.es:9977/live/carlosh/carlosh/22262.ts
-
-#EXTINF:-1,LA_SD_MEX:SHE
-http://iptvtool.es:9977/live/carlosh/carlosh/22257.ts
-
-#EXTINF:-1,LA_SD_MEX:SPACE
-http://iptvtool.es:9977/live/carlosh/carlosh/22255.ts
-
-#EXTINF:-1,LA_SD_MEX:SPACE__
-http://iptvtool.es:9977/live/carlosh/carlosh/22254.ts
-
-#EXTINF:-1,LA_SD_MEX:STAR TVE
-http://iptvtool.es:9977/live/carlosh/carlosh/22253.ts
-
-#EXTINF:-1,LA_SD_MEX:STUDIO UNIVERSAL
-http://iptvtool.es:9977/live/carlosh/carlosh/22252.ts
-
-#EXTINF:-1,LA_SD_MEX:SUNDNCE
-http://iptvtool.es:9977/live/carlosh/carlosh/22251.ts
-
-#EXTINF:-1,LA_SD_MEX:SYFY
-http://iptvtool.es:9977/live/carlosh/carlosh/22250.ts
-
-#EXTINF:-1,LA_SD_MEX:TELEHIT
-http://iptvtool.es:9977/live/carlosh/carlosh/22247.ts
-
-#EXTINF:-1,LA_SD:PAN_MAS TV 23
-http://iptvtool.es:9977/live/carlosh/carlosh/23059.ts
-
-#EXTINF:-1,LA_SD:PE_AMERICA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/23203.ts
-
-#EXTINF:-1,LA_SD:PE_CANAL N
-http://iptvtool.es:9977/live/carlosh/carlosh/23201.ts
-
-#EXTINF:-1,LA_SD:PE_CMD
-http://iptvtool.es:9977/live/carlosh/carlosh/23049.ts
-
-#EXTINF:-1,LA_SD:PE_PANAMERICANA
-http://iptvtool.es:9977/live/carlosh/carlosh/23199.ts
-
-#EXTINF:-1,LA_SD:RCN
-http://iptvtool.es:9977/live/carlosh/carlosh/23293.ts
-
-#EXTINF:-1,LA_SD:RCN NOVELAS
-http://iptvtool.es:9977/live/carlosh/carlosh/23109.ts
-
-#EXTINF:-1,LA_SD:RD_Antena Latina
-http://iptvtool.es:9977/live/carlosh/carlosh/22999.ts
-
-#EXTINF:-1,LA_SD:RD_CDN2
-http://iptvtool.es:9977/live/carlosh/carlosh/23006.ts
-
-#EXTINF:-1,LA_SD:RD_Color Vision 9
-http://iptvtool.es:9977/live/carlosh/carlosh/23005.ts
-
-#EXTINF:-1,LA_SD:RD_Tele Antillas
-http://iptvtool.es:9977/live/carlosh/carlosh/22998.ts
-
-#EXTINF:-1,LA_SD:REC TV CHILE
-http://iptvtool.es:9977/live/carlosh/carlosh/23072.ts
-
-#EXTINF:-1,LA_SD:RTS
-http://iptvtool.es:9977/live/carlosh/carlosh/23195.ts
-
-#EXTINF:-1,LA_SD:SAL_Canal  21
-http://iptvtool.es:9977/live/carlosh/carlosh/22996.ts
-
-#EXTINF:-1,LA_SD:SAL_Canal 19
-http://iptvtool.es:9977/live/carlosh/carlosh/22995.ts
-
-#EXTINF:-1,LA_SD:SAL_VTV Canal 35
-http://iptvtool.es:9977/live/carlosh/carlosh/22994.ts
-
-#EXTINF:-1,LA_SD:SPORT TV CONO SUR 5 SD
-http://iptvtool.es:9977/live/carlosh/carlosh/23127.ts
-
-#EXTINF:-1,LA_SD:SPORT TV CONO SUR TV
-http://iptvtool.es:9977/live/carlosh/carlosh/23132.ts
-
-#EXTINF:-1,LA_SD:STUDIO UNIVERSAL
-http://iptvtool.es:9977/live/carlosh/carlosh/23241.ts
-
-#EXTINF:-1,LA_SD:SUR_24 Horas
-http://iptvtool.es:9977/live/carlosh/carlosh/22986.ts
-
-#EXTINF:-1,LA_SD:SUR_America TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22985.ts
-
-#EXTINF:-1,LA_SD:SUR_Bang TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22982.ts
-
-#EXTINF:-1,LA_SD:SUR_C9N
-http://iptvtool.es:9977/live/carlosh/carlosh/22981.ts
-
-#EXTINF:-1,LA_SD:SUR_Canal 13
-http://iptvtool.es:9977/live/carlosh/carlosh/22980.ts
-
-#EXTINF:-1,LA_SD:SUR_Canal Claro
-http://iptvtool.es:9977/live/carlosh/carlosh/22979.ts
-
-#EXTINF:-1,LA_SD:SUR_Canal J
-http://iptvtool.es:9977/live/carlosh/carlosh/22978.ts
-
-#EXTINF:-1,LA_SD:SUR_Canal Uno
-http://iptvtool.es:9977/live/carlosh/carlosh/22977.ts
-
-#EXTINF:-1,LA_SD:SUR_Canal Uno TV Ecua
-http://iptvtool.es:9977/live/carlosh/carlosh/22976.ts
-
-#EXTINF:-1,LA_SD:SUR_Capital TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22975.ts
-
-#EXTINF:-1,LA_SD:SUR_Cartoon Network
-http://iptvtool.es:9977/live/carlosh/carlosh/22974.ts
-
-#EXTINF:-1,LA_SD:SUR_CHV
-http://iptvtool.es:9977/live/carlosh/carlosh/22972.ts
-
-#EXTINF:-1,LA_SD:SUR_Cinecanal
-http://iptvtool.es:9977/live/carlosh/carlosh/22971.ts
-
-#EXTINF:-1,LA_SD:SUR_Claro Cinema
-http://iptvtool.es:9977/live/carlosh/carlosh/22967.ts
-
-#EXTINF:-1,LA_SD:SUR_ClaroSports
-http://iptvtool.es:9977/live/carlosh/carlosh/22965.ts
-
-#EXTINF:-1,LA_SD:SUR_CNN Chile
-http://iptvtool.es:9977/live/carlosh/carlosh/22964.ts
-
-#EXTINF:-1,LA_SD:SUR_Discovery ID
-http://iptvtool.es:9977/live/carlosh/carlosh/22962.ts
-
-#EXTINF:-1,LA_SD:SUR_Enlace
-http://iptvtool.es:9977/live/carlosh/carlosh/22955.ts
-
-#EXTINF:-1,LA_SD:SUR_EsneTV
-http://iptvtool.es:9977/live/carlosh/carlosh/22954.ts
-
-#EXTINF:-1,LA_SD:SUR_ESPN 3
-http://iptvtool.es:9977/live/carlosh/carlosh/22952.ts
-
-#EXTINF:-1,LA_SD:SUR_Fox Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/22951.ts
-
-#EXTINF:-1,LA_SD:SUR_Fox Life
-http://iptvtool.es:9977/live/carlosh/carlosh/22950.ts
-
-#EXTINF:-1,LA_SD:SUR_Fox Sport PY
-http://iptvtool.es:9977/live/carlosh/carlosh/22946.ts
-
-#EXTINF:-1,LA_SD:SUR_Frecuencia Latina
-http://iptvtool.es:9977/live/carlosh/carlosh/22944.ts
-
-#EXTINF:-1,LA_SD:SUR_FX
-http://iptvtool.es:9977/live/carlosh/carlosh/22943.ts
-
-#EXTINF:-1,LA_SD:SUR_FX Movies
-http://iptvtool.es:9977/live/carlosh/carlosh/22942.ts
-
-#EXTINF:-1,LA_SD:SUR_GamaTV
-http://iptvtool.es:9977/live/carlosh/carlosh/22941.ts
-
-#EXTINF:-1,LA_SD:SUR_HBO
-http://iptvtool.es:9977/live/carlosh/carlosh/22940.ts
-
-#EXTINF:-1,LA_SD:SUR_History Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/22936.ts
-
-#EXTINF:-1,LA_SD:SUR_Home and Health
-http://iptvtool.es:9977/live/carlosh/carlosh/22935.ts
-
-#EXTINF:-1,LA_SD:SUR_La Tele
-http://iptvtool.es:9977/live/carlosh/carlosh/22932.ts
-
-#EXTINF:-1,LA_SD:SUR_Mega
-http://iptvtool.es:9977/live/carlosh/carlosh/22930.ts
-
-#EXTINF:-1,LA_SD:SUR_MTV
-http://iptvtool.es:9977/live/carlosh/carlosh/22929.ts
-
-#EXTINF:-1,LA_SD:SUR_Nat Geo
-http://iptvtool.es:9977/live/carlosh/carlosh/22928.ts
-
-#EXTINF:-1,LA_SD:SUR_NatGeo Kids
-http://iptvtool.es:9977/live/carlosh/carlosh/22927.ts
-
-#EXTINF:-1,LA_SD:SUR_Nick Jr
-http://iptvtool.es:9977/live/carlosh/carlosh/22926.ts
-
-#EXTINF:-1,LA_SD:SUR_Nickelodeon
-http://iptvtool.es:9977/live/carlosh/carlosh/22925.ts
-
-#EXTINF:-1,LA_SD:SUR_Panamericana TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22924.ts
-
-#EXTINF:-1,LA_SD:SUR_Paraguay TV
-http://iptvtool.es:9977/live/carlosh/carlosh/22923.ts
-
-#EXTINF:-1,LA_SD:SUR_Red Guarani
-http://iptvtool.es:9977/live/carlosh/carlosh/22921.ts
-
-#EXTINF:-1,LA_SD:SUR_RPC
-http://iptvtool.es:9977/live/carlosh/carlosh/22920.ts
-
-#EXTINF:-1,LA_SD:SUR_RTS
-http://iptvtool.es:9977/live/carlosh/carlosh/22919.ts
-
-#EXTINF:-1,LA_SD:SUR_SNT
-http://iptvtool.es:9977/live/carlosh/carlosh/22918.ts
-
-#EXTINF:-1,LA_SD:SUR_Teleantioquia
-http://iptvtool.es:9977/live/carlosh/carlosh/22910.ts
-
-#EXTINF:-1,LA_SD:SUR_Telecaribe
-http://iptvtool.es:9977/live/carlosh/carlosh/22909.ts
-
-#EXTINF:-1,LA_SD:SUR_Telefuturo
-http://iptvtool.es:9977/live/carlosh/carlosh/22907.ts
-
-#EXTINF:-1,LA_SD:SUR_TNT
-http://iptvtool.es:9977/live/carlosh/carlosh/22905.ts
-
-#EXTINF:-1,LA_SD:SUR_TVE
-http://iptvtool.es:9977/live/carlosh/carlosh/22904.ts
-
-#EXTINF:-1,LA_SD:SUR_TVN
-http://iptvtool.es:9977/live/carlosh/carlosh/22903.ts
-
-#EXTINF:-1,LA_SD:SUR_Unicanal
-http://iptvtool.es:9977/live/carlosh/carlosh/22902.ts
-
-#EXTINF:-1,LA_SD:SUR_Universal
-http://iptvtool.es:9977/live/carlosh/carlosh/22901.ts
-
-#EXTINF:-1,LA_SD:SUR_Win Sport
-http://iptvtool.es:9977/live/carlosh/carlosh/22900.ts
-
-#EXTINF:-1,LA_SD:SUR_Zona Latina
-http://iptvtool.es:9977/live/carlosh/carlosh/22899.ts
-
-#EXTINF:-1,LA_SD:SYFY
-http://iptvtool.es:9977/live/carlosh/carlosh/23242.ts
-
-#EXTINF:-1,LA_SD:TC TELEVISION
-http://iptvtool.es:9977/live/carlosh/carlosh/23194.ts
-
-#EXTINF:-1,LA_SD:TCM
-http://iptvtool.es:9977/live/carlosh/carlosh/23244.ts
-
-#EXTINF:-1,LA_SD:TELEMUNDO
-http://iptvtool.es:9977/live/carlosh/carlosh/23246.ts
-
-#EXTINF:-1,LA_SD:TELEVEN
-http://iptvtool.es:9977/live/carlosh/carlosh/23061.ts
-
-#EXTINF:-1,LA_SD:TELPIN
-http://iptvtool.es:9977/live/carlosh/carlosh/23174.ts
-
-#EXTINF:-1,LA_SD:TNT
-http://iptvtool.es:9977/live/carlosh/carlosh/23229.ts
-
-#EXTINF:-1,LA_SD:TNT SERIES
-http://iptvtool.es:9977/live/carlosh/carlosh/23237.ts
-
-#EXTINF:-1,LA_SD:TOONCAST
-http://iptvtool.es:9977/live/carlosh/carlosh/23245.ts
-
-#EXTINF:-1,LA_SD:TV UNAM
-http://iptvtool.es:9977/live/carlosh/carlosh/23082.ts
-
-#EXTINF:-1,LA_SD:TyC SPORTS
-http://iptvtool.es:9977/live/carlosh/carlosh/23191.ts
-
-#EXTINF:-1,LA_SD:UCV CHILE
-http://iptvtool.es:9977/live/carlosh/carlosh/23057.ts
-
-#EXTINF:-1,LA_SD:UNO
-http://iptvtool.es:9977/live/carlosh/carlosh/23170.ts
-
-#EXTINF:-1,LA_SD:VENEVISION
-http://iptvtool.es:9977/live/carlosh/carlosh/23060.ts
-
-#EXTINF:-1,LA_SD:VENEVISION PLUS
-http://iptvtool.es:9977/live/carlosh/carlosh/23190.ts
-
-#EXTINF:-1,LA_TELETRAK
-http://iptvtool.es:9977/live/carlosh/carlosh/23185.ts
-
-#EXTINF:-1,Mex77| Azteca 13
-http://iptvtool.es:9977/live/carlosh/carlosh/22897.ts
-
-#EXTINF:-1,Mex77| Azteca 7
-http://iptvtool.es:9977/live/carlosh/carlosh/22896.ts
-
-#EXTINF:-1,Mex77| Discovery
-http://iptvtool.es:9977/live/carlosh/carlosh/22885.ts
-
-#EXTINF:-1,Mex77| Discovery Kids
-http://iptvtool.es:9977/live/carlosh/carlosh/22884.ts
-
-#EXTINF:-1,Mex77| Disney
-http://iptvtool.es:9977/live/carlosh/carlosh/22883.ts
-
-#EXTINF:-1,Mex77| Fox Family
-http://iptvtool.es:9977/live/carlosh/carlosh/22877.ts
-
-#EXTINF:-1,Mex77| Fox Sports 1 SD
-http://iptvtool.es:9977/live/carlosh/carlosh/22876.ts
-
-#EXTINF:-1,Mex77| Fox Sports 2 SD
-http://iptvtool.es:9977/live/carlosh/carlosh/22875.ts
-
-#EXTINF:-1,Mex77| Fox Sports 3 SD
-http://iptvtool.es:9977/live/carlosh/carlosh/22874.ts
-
-#EXTINF:-1,Mex77| HBO
-http://iptvtool.es:9977/live/carlosh/carlosh/22871.ts
-
-#EXTINF:-1,Mex77| HBO2
-http://iptvtool.es:9977/live/carlosh/carlosh/22870.ts
-
-#EXTINF:-1,Mex77| Home And Health
-http://iptvtool.es:9977/live/carlosh/carlosh/22868.ts
-
-#EXTINF:-1,Mex77| Natgeo Kids
-http://iptvtool.es:9977/live/carlosh/carlosh/22863.ts
-
-#EXTINF:-1,Mex77| Nick 1
-http://iptvtool.es:9977/live/carlosh/carlosh/22862.ts
-
-#EXTINF:-1,Mex77| Sony
-http://iptvtool.es:9977/live/carlosh/carlosh/22859.ts
-
-#EXTINF:-1,Mex77| Space
-http://iptvtool.es:9977/live/carlosh/carlosh/22858.ts
-
-#EXTINF:-1,Mex77| TLC
-http://iptvtool.es:9977/live/carlosh/carlosh/22856.ts
-
-#EXTINF:-1,Mex77| TNT
-http://iptvtool.es:9977/live/carlosh/carlosh/22855.ts
-
-#EXTINF:-1,FR: 13e Rue
-http://iptvtool.es:9977/live/carlosh/carlosh/36689.ts
-
-#EXTINF:-1,FR: 6 TER HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36688.ts
-
-#EXTINF:-1,FR: A La Carte 1
-http://iptvtool.es:9977/live/carlosh/carlosh/36687.ts
-
-#EXTINF:-1,FR: A La Carte 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36686.ts
-
-#EXTINF:-1,FR: A La Carte 3
-http://iptvtool.es:9977/live/carlosh/carlosh/36685.ts
-
-#EXTINF:-1,FR: A La Carte 4
-http://iptvtool.es:9977/live/carlosh/carlosh/36684.ts
-
-#EXTINF:-1,FR: A La Carte 5
-http://iptvtool.es:9977/live/carlosh/carlosh/36683.ts
-
-#EXTINF:-1,FR: A La Carte 7
-http://iptvtool.es:9977/live/carlosh/carlosh/36681.ts
-
-#EXTINF:-1,FR: AB Moteurs
-http://iptvtool.es:9977/live/carlosh/carlosh/36680.ts
-
-#EXTINF:-1,FR: AB1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36679.ts
-
-#EXTINF:-1,FR: Action HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36678.ts
-
-#EXTINF:-1,FR: Alsace 20
-http://iptvtool.es:9977/live/carlosh/carlosh/36677.ts
-
-#EXTINF:-1,FR: Animaux
-http://iptvtool.es:9977/live/carlosh/carlosh/36676.ts
-
-#EXTINF:-1,FR: Antenne Reunion
-http://iptvtool.es:9977/live/carlosh/carlosh/36674.ts
-
-#EXTINF:-1,FR: Arte HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36673.ts
-
-#EXTINF:-1,FR: Bein Sports 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36671.ts
-
-#EXTINF:-1,FR: Bein Sports 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36670.ts
-
-#EXTINF:-1,FR: Bein Sports 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36669.ts
-
-#EXTINF:-1,FR: BET
-http://iptvtool.es:9977/live/carlosh/carlosh/36668.ts
-
-#EXTINF:-1,FR: C STAR HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36664.ts
-
-#EXTINF:-1,FR: C8 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36663.ts
-
-#EXTINF:-1,FR: Canal  Cinema HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36662.ts
-
-#EXTINF:-1,FR: Canal  Decale HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36661.ts
-
-#EXTINF:-1,FR: Canal  Family HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36660.ts
-
-#EXTINF:-1,FR: Canal  HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36659.ts
-
-#EXTINF:-1,FR: Canal  Series HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36658.ts
-
-#EXTINF:-1,FR: Canal  Sport HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36657.ts
-
-#EXTINF:-1,FR: Canal J HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36656.ts
-
-#EXTINF:-1,FR: Canal Play 1
-http://iptvtool.es:9977/live/carlosh/carlosh/36655.ts
-
-#EXTINF:-1,FR: Canal Play 2
-http://iptvtool.es:9977/live/carlosh/carlosh/36654.ts
-
-#EXTINF:-1,FR: Canal Play 3
-http://iptvtool.es:9977/live/carlosh/carlosh/36653.ts
-
-#EXTINF:-1,FR: Canal Play 4
-http://iptvtool.es:9977/live/carlosh/carlosh/36652.ts
-
-#EXTINF:-1,FR: Canal Play 6
-http://iptvtool.es:9977/live/carlosh/carlosh/36650.ts
-
-#EXTINF:-1,FR: Canal Play 7
-http://iptvtool.es:9977/live/carlosh/carlosh/36649.ts
-
-#EXTINF:-1,FR: Cine Frisson HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36640.ts
-
-#EXTINF:-1,FR: Cine FX
-http://iptvtool.es:9977/live/carlosh/carlosh/36639.ts
-
-#EXTINF:-1,FR: Cine Polar
-http://iptvtool.es:9977/live/carlosh/carlosh/36638.ts
-
-#EXTINF:-1,FR: Cine Premier HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36637.ts
-
-#EXTINF:-1,FR: Comedie
-http://iptvtool.es:9977/live/carlosh/carlosh/36636.ts
-
-#EXTINF:-1,FR: Discovery HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36634.ts
-
-#EXTINF:-1,FR: Discovery Science HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36633.ts
-
-#EXTINF:-1,FR: Disney Channel
-http://iptvtool.es:9977/live/carlosh/carlosh/36632.ts
-
-#EXTINF:-1,FR: Disney Junior HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36630.ts
-
-#EXTINF:-1,FR: E! Entertainment
-http://iptvtool.es:9977/live/carlosh/carlosh/36628.ts
-
-#EXTINF:-1,FR: Elle Girl
-http://iptvtool.es:9977/live/carlosh/carlosh/36627.ts
-
-#EXTINF:-1,FR: Equidia Life HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36625.ts
-
-#EXTINF:-1,FR: Euronews Fr
-http://iptvtool.es:9977/live/carlosh/carlosh/36623.ts
-
-#EXTINF:-1,FR: Eurosport 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36622.ts
-
-#EXTINF:-1,FR: Eurosport 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36621.ts
-
-#EXTINF:-1,FR: Foot  24
-http://iptvtool.es:9977/live/carlosh/carlosh/36620.ts
-
-#EXTINF:-1,FR: France 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36619.ts
-
-#EXTINF:-1,FR: France 24 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36618.ts
-
-#EXTINF:-1,FR: France 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36617.ts
-
-#EXTINF:-1,FR: France 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36616.ts
-
-#EXTINF:-1,FR: France 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36615.ts
-
-#EXTINF:-1,FR: France O HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36614.ts
-
-#EXTINF:-1,FR: Game One
-http://iptvtool.es:9977/live/carlosh/carlosh/36613.ts
-
-#EXTINF:-1,FR: Golf  HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36612.ts
-
-#EXTINF:-1,FR: Gong Base
-http://iptvtool.es:9977/live/carlosh/carlosh/36611.ts
-
-#EXTINF:-1,FR: Gulli
-http://iptvtool.es:9977/live/carlosh/carlosh/36609.ts
-
-#EXTINF:-1,FR: HD1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36608.ts
-
-#EXTINF:-1,FR: Histoire
-http://iptvtool.es:9977/live/carlosh/carlosh/36607.ts
-
-#EXTINF:-1,FR: IL TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36605.ts
-
-#EXTINF:-1,FR: Infosport
-http://iptvtool.es:9977/live/carlosh/carlosh/36604.ts
-
-#EXTINF:-1,FR: L'equipe 21 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36603.ts
-
-#EXTINF:-1,FR: La chaine Normande
-http://iptvtool.es:9977/live/carlosh/carlosh/36602.ts
-
-#EXTINF:-1,FR: LCI HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36600.ts
-
-#EXTINF:-1,FR: LCP
-http://iptvtool.es:9977/live/carlosh/carlosh/36599.ts
-
-#EXTINF:-1,FR: Luxe.TV
-http://iptvtool.es:9977/live/carlosh/carlosh/36597.ts
-
-#EXTINF:-1,FR: M6 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36596.ts
-
-#EXTINF:-1,FR: M6 Music
-http://iptvtool.es:9977/live/carlosh/carlosh/36595.ts
-
-#EXTINF:-1,FR: MCM
-http://iptvtool.es:9977/live/carlosh/carlosh/36592.ts
-
-#EXTINF:-1,FR: MTV France
-http://iptvtool.es:9977/live/carlosh/carlosh/36589.ts
-
-#EXTINF:-1,FR: Nat Geo Wild HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36587.ts
-
-#EXTINF:-1,FR: National Geographic HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36586.ts
-
-#EXTINF:-1,FR: Nickelodeon
-http://iptvtool.es:9977/live/carlosh/carlosh/36585.ts
-
-#EXTINF:-1,FR: NRJ 12 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36583.ts
-
-#EXTINF:-1,FR: NRJ Hits
-http://iptvtool.es:9977/live/carlosh/carlosh/36582.ts
-
-#EXTINF:-1,FR: NT1
-http://iptvtool.es:9977/live/carlosh/carlosh/36581.ts
-
-#EXTINF:-1,FR: Numero 23
-http://iptvtool.es:9977/live/carlosh/carlosh/36580.ts
-
-#EXTINF:-1,FR: OCS Choc HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36579.ts
-
-#EXTINF:-1,FR: OCS City
-http://iptvtool.es:9977/live/carlosh/carlosh/36578.ts
-
-#EXTINF:-1,FR: OCS Geants HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36577.ts
-
-#EXTINF:-1,FR: OCS Max HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36576.ts
-
-#EXTINF:-1,FR: Paramount Channel HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36575.ts
-
-#EXTINF:-1,FR: Piwi
-http://iptvtool.es:9977/live/carlosh/carlosh/36573.ts
-
-#EXTINF:-1,FR: Planete   HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36572.ts
-
-#EXTINF:-1,FR: Planete  A&E HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36571.ts
-
-#EXTINF:-1,FR: RMC Decouverte HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36569.ts
-
-#EXTINF:-1,FR: Science & Vie
-http://iptvtool.es:9977/live/carlosh/carlosh/36567.ts
-
-#EXTINF:-1,FR: Seasons
-http://iptvtool.es:9977/live/carlosh/carlosh/36566.ts
-
-#EXTINF:-1,FR: Teletoon   HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36562.ts
-
-#EXTINF:-1,FR: Teva HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36561.ts
-
-#EXTINF:-1,FR: TF1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36560.ts
-
-#EXTINF:-1,FR: Tiji HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36559.ts
-
-#EXTINF:-1,FR: Trek HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36556.ts
-
-#EXTINF:-1,FR: TV Breizh HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36555.ts
-
-#EXTINF:-1,FR: TV5 Monde Europe
-http://iptvtool.es:9977/live/carlosh/carlosh/36553.ts
-
-#EXTINF:-1,FR: TV5 Monde Info
-http://iptvtool.es:9977/live/carlosh/carlosh/36552.ts
-
-#EXTINF:-1,FR: Ushuaia TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36549.ts
-
-#EXTINF:-1,FR: Voyage HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36547.ts
-
-#EXTINF:-1,FR: W9 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/36546.ts
-
-#EXTINF:-1,FR: Weo
-http://iptvtool.es:9977/live/carlosh/carlosh/36545.ts
-
-#EXTINF:-1,FR: Zouzou
-http://iptvtool.es:9977/live/carlosh/carlosh/36544.ts
-
-#EXTINF:-1,KANAL 9 (francais)
-http://iptvtool.es:9977/live/carlosh/carlosh/34556.ts
-
-#EXTINF:-1,AR: BEIN MOVIES 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21442.ts
-
-#EXTINF:-1,AR: BEIN MOVIES 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21441.ts
-
-#EXTINF:-1,AR: BEIN MOVIES 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21440.ts
-
-#EXTINF:-1,AR: BEIN MOVIES 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21439.ts
-
-#EXTINF:-1,AR: BEIN ANIMAL PLANET
-http://iptvtool.es:9977/live/carlosh/carlosh/21436.ts
-
-#EXTINF:-1,AR: BEIN SERIES 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21435.ts
-
-#EXTINF:-1,AR: BEIN FATAFET
-http://iptvtool.es:9977/live/carlosh/carlosh/21437.ts
-
-#EXTINF:-1,AR: BEIN JUNIOR
-http://iptvtool.es:9977/live/carlosh/carlosh/21438.ts
-
-#EXTINF:-1,AR: MBC 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21452.ts
-
-#EXTINF:-1,AR: MBC 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21451.ts
-
-#EXTINF:-1,AR: MBC 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21450.ts
-
-#EXTINF:-1,AR: MBC 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21449.ts
-
-#EXTINF:-1,AR: MBC ACTION HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21448.ts
-
-#EXTINF:-1,AR: MBC BOLLYWOOD HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21447.ts
-
-#EXTINF:-1,AR: MBC DRAMA  Plus HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21446.ts
-
-#EXTINF:-1,AR: MBC DRAMA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21445.ts
-
-#EXTINF:-1,AR: MBC MAX HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21444.ts
-
-#EXTINF:-1,AR: MBC Variety HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21443.ts
-
-#EXTINF:-1,AR: 2M MAROC
-http://iptvtool.es:9977/live/carlosh/carlosh/21421.ts
-
-#EXTINF:-1,AR: ABUDHABI TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21406.ts
-
-#EXTINF:-1,AR: AD SPORTS 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21348.ts
-
-#EXTINF:-1,AR: AL ARABIYA ALHADATH
-http://iptvtool.es:9977/live/carlosh/carlosh/21396.ts
-
-#EXTINF:-1,AR: AL MANAR TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21385.ts
-
-#EXTINF:-1,AR: AL NADA
-http://iptvtool.es:9977/live/carlosh/carlosh/21427.ts
-
-#EXTINF:-1,AR: ALJAZEERA DOCUMENTARY
-http://iptvtool.es:9977/live/carlosh/carlosh/21411.ts
-
-#EXTINF:-1,AR: ALRAI TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21361.ts
-
-#EXTINF:-1,AR: ARRABIAA
-http://iptvtool.es:9977/live/carlosh/carlosh/21417.ts
-
-#EXTINF:-1,AR: ARRIADIA
-http://iptvtool.es:9977/live/carlosh/carlosh/21419.ts
-
-#EXTINF:-1,AR: ATTESSIA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21362.ts
-
-#EXTINF:-1,AR: BAHRAIN INTERNATIONAL
-http://iptvtool.es:9977/live/carlosh/carlosh/21357.ts
-
-#EXTINF:-1,AR: BAHRAIN QURAN
-http://iptvtool.es:9977/live/carlosh/carlosh/21356.ts
-
-#EXTINF:-1,AR: BAHRAIN SPORTS
-http://iptvtool.es:9977/live/carlosh/carlosh/21355.ts
-
-#EXTINF:-1,AR: BBC ARABIC
-http://iptvtool.es:9977/live/carlosh/carlosh/21393.ts
-
-#EXTINF:-1,AR: CBC DRAMA
-http://iptvtool.es:9977/live/carlosh/carlosh/21372.ts
-
-#EXTINF:-1,AR: DUBAI ONE HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21402.ts
-
-#EXTINF:-1,AR: DW AR
-http://iptvtool.es:9977/live/carlosh/carlosh/21392.ts
-
-#EXTINF:-1,AR: ELHIWAR ETTOUNSI
-http://iptvtool.es:9977/live/carlosh/carlosh/21366.ts
-
-#EXTINF:-1,AR: FUTURE TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21384.ts
-
-#EXTINF:-1,AR: HIWAR NEWS
-http://iptvtool.es:9977/live/carlosh/carlosh/21391.ts
-
-#EXTINF:-1,AR: IQRAA
-http://iptvtool.es:9977/live/carlosh/carlosh/21431.ts
-
-#EXTINF:-1,AR: JORDAN TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21359.ts
-
-#EXTINF:-1,AR: LIBYA 218
-http://iptvtool.es:9977/live/carlosh/carlosh/21353.ts
-
-#EXTINF:-1,AR: LIBYA Hadash
-http://iptvtool.es:9977/live/carlosh/carlosh/21351.ts
-
-#EXTINF:-1,AR: MAJED KIDS
-http://iptvtool.es:9977/live/carlosh/carlosh/21408.ts
-
-#EXTINF:-1,AR: MECCA
-http://iptvtool.es:9977/live/carlosh/carlosh/21426.ts
-
-#EXTINF:-1,AR: MEDI1 1TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21420.ts
-
-#EXTINF:-1,AR: MTV LEBANON
-http://iptvtool.es:9977/live/carlosh/carlosh/21383.ts
-
-#EXTINF:-1,AR: QATAR TV HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21358.ts
-
-#EXTINF:-1,AR: RUSSIA ALYAOUM TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21390.ts
-
-#EXTINF:-1,AR: SAMA DUBAI HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21399.ts
-
-#EXTINF:-1,AR: SAUDI ALIKHBARIYA HD
-http://iptvtool.es:9977/live/carlosh/carlosh/21389.ts
-
-#EXTINF:-1,AR: TAYBA TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21425.ts
-
-#EXTINF:-1,AR: TUNISIE NAT 1 TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21365.ts
-
-#EXTINF:-1,AR: TUNISIE NAT 2 TV
-http://iptvtool.es:9977/live/carlosh/carlosh/21364.ts
-
-#EXTINF:-1,BEIN_SPORTS 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24720.ts
-
-#EXTINF:-1,BEIN_SPORTS 10 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24711.ts
-
-#EXTINF:-1,BEIN_SPORTS 11
-http://iptvtool.es:9977/live/carlosh/carlosh/24710.ts
-
-#EXTINF:-1,BEIN_SPORTS 12
-http://iptvtool.es:9977/live/carlosh/carlosh/24709.ts
-
-#EXTINF:-1,BEIN_SPORTS 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24719.ts
-
-#EXTINF:-1,BEIN_SPORTS 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24718.ts
-
-#EXTINF:-1,BEIN_SPORTS 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24717.ts
-
-#EXTINF:-1,BEIN_SPORTS 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24716.ts
-
-#EXTINF:-1,BEIN_SPORTS 6 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24715.ts
-
-#EXTINF:-1,BEIN_SPORTS 7 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24714.ts
-
-#EXTINF:-1,BEIN_SPORTS 8 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24713.ts
-
-#EXTINF:-1,BEIN_SPORTS 9 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/24712.ts
-
-#EXTINF:-1,XXX 10
-http://iptvtool.es:9977/live/carlosh/carlosh/35466.ts
-
-#EXTINF:-1,XXX 2
-http://iptvtool.es:9977/live/carlosh/carlosh/35474.ts
-
-#EXTINF:-1,XXX 3
-http://iptvtool.es:9977/live/carlosh/carlosh/35473.ts
-
-#EXTINF:-1,XXX 4
-http://iptvtool.es:9977/live/carlosh/carlosh/35472.ts
-
-#EXTINF:-1,XXX 5
-http://iptvtool.es:9977/live/carlosh/carlosh/35471.ts
-
-#EXTINF:-1,XXX 6
-http://iptvtool.es:9977/live/carlosh/carlosh/35470.ts
-
-#EXTINF:-1,XXX 7
-http://iptvtool.es:9977/live/carlosh/carlosh/35469.ts
-
-#EXTINF:-1,XXX 8
-http://iptvtool.es:9977/live/carlosh/carlosh/35468.ts
-
-#EXTINF:-1,XXX 9
-http://iptvtool.es:9977/live/carlosh/carlosh/35467.ts
-
-#EXTINF:-1,xxx Blacked FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/35479.ts
-
-#EXTINF:-1,xxx BRAZZERS
-http://iptvtool.es:9977/live/carlosh/carlosh/35478.ts
-
-#EXTINF:-1,xxx Dorcel
-http://iptvtool.es:9977/live/carlosh/carlosh/35481.ts
-
-#EXTINF:-1,xxx ELIT ADULT 10
-http://iptvtool.es:9977/live/carlosh/carlosh/35456.ts
-
-#EXTINF:-1,xxx ELIT ADULT 6
-http://iptvtool.es:9977/live/carlosh/carlosh/35460.ts
-
-#EXTINF:-1,xxx ELIT ADULT 7
-http://iptvtool.es:9977/live/carlosh/carlosh/35459.ts
-
-#EXTINF:-1,xxx ELIT ADULT 8
-http://iptvtool.es:9977/live/carlosh/carlosh/35458.ts
-
-#EXTINF:-1,xxx ELIT ADULT 9
-http://iptvtool.es:9977/live/carlosh/carlosh/35457.ts
-
-#EXTINF:-1,xxx Hot Club 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35455.ts
-
-#EXTINF:-1,xxx Hot Club 10 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35446.ts
-
-#EXTINF:-1,xxx Hot Club 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35453.ts
-
-#EXTINF:-1,xxx Hot Club 3 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35454.ts
-
-#EXTINF:-1,xxx Hot Club 4 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35452.ts
-
-#EXTINF:-1,xxx Hot Club 5 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35451.ts
-
-#EXTINF:-1,xxx Hot Club 6 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35450.ts
-
-#EXTINF:-1,xxx Hot Club 7 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35449.ts
-
-#EXTINF:-1,xxx Hot Club 8 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35448.ts
-
-#EXTINF:-1,xxx Hot Club 9 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35447.ts
-
-#EXTINF:-1,xxx Hustler FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/35485.ts
-
-#EXTINF:-1,xxx Moms Teach
-http://iptvtool.es:9977/live/carlosh/carlosh/35476.ts
-
-#EXTINF:-1,xxx PENTHOUSE 1 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35483.ts
-
-#EXTINF:-1,xxx PENTHOUSE 2 HD
-http://iptvtool.es:9977/live/carlosh/carlosh/35482.ts
-
-#EXTINF:-1,xxx Private
-http://iptvtool.es:9977/live/carlosh/carlosh/35480.ts
-
-#EXTINF:-1,xxx Red Light FHD
-http://iptvtool.es:9977/live/carlosh/carlosh/35484.ts
-
-#EXTINF:-1,xxx VIVID XXX
-http://iptvtool.es:9977/live/carlosh/carlosh/35477.ts
-
-#EXTINF:-1,ALBANIA ABC NEWS
-http://iptvtool.es:9977/live/carlosh/carlosh/34892.ts
-
-#EXTINF:-1,ALBANIA CUFO
-http://iptvtool.es:9977/live/carlosh/carlosh/34891.ts
-
-#EXTINF:-1,ALBANIA Digi Gold 1
-http://iptvtool.es:9977/live/carlosh/carlosh/34890.ts
-
-#EXTINF:-1,ALBANIA Digi Gold 2
-http://iptvtool.es:9977/live/carlosh/carlosh/34889.ts
-
-#EXTINF:-1,ALBANIA Digi Gold 3
-http://iptvtool.es:9977/live/carlosh/carlosh/34888.ts
-
-#EXTINF:-1,ALBANIA Digi Gold 4
-http://iptvtool.es:9977/live/carlosh/carlosh/34887.ts
-
-#EXTINF:-1,ALBANIA DM SAT
-http://iptvtool.es:9977/live/carlosh/carlosh/34886.ts
-
-#EXTINF:-1,ALBANIA Film Aksion
-http://iptvtool.es:9977/live/carlosh/carlosh/34885.ts
-
-#EXTINF:-1,ALBANIA Film Autor
-http://iptvtool.es:9977/live/carlosh/carlosh/34884.ts
-
-#EXTINF:-1,ALBANIA Film DY HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34882.ts
-
-#EXTINF:-1,ALBANIA Film Hits
-http://iptvtool.es:9977/live/carlosh/carlosh/34881.ts
-
-#EXTINF:-1,ALBANIA Film Komedi
-http://iptvtool.es:9977/live/carlosh/carlosh/34880.ts
-
-#EXTINF:-1,ALBANIA Film Nje HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34878.ts
-
-#EXTINF:-1,ALBANIA Film Stinet
-http://iptvtool.es:9977/live/carlosh/carlosh/34879.ts
-
-#EXTINF:-1,ALBANIA Grand TV
-http://iptvtool.es:9977/live/carlosh/carlosh/34876.ts
-
-#EXTINF:-1,ALBANIA Kosova Sport1
-http://iptvtool.es:9977/live/carlosh/carlosh/34873.ts
-
-#EXTINF:-1,ALBANIA PINK ACTION
-http://iptvtool.es:9977/live/carlosh/carlosh/34869.ts
-
-#EXTINF:-1,ALBANIA Pink BIH
-http://iptvtool.es:9977/live/carlosh/carlosh/34868.ts
-
-#EXTINF:-1,ALBANIA PINK COMEDY
-http://iptvtool.es:9977/live/carlosh/carlosh/34867.ts
-
-#EXTINF:-1,ALBANIA Pink EX
-http://iptvtool.es:9977/live/carlosh/carlosh/34872.ts
-
-#EXTINF:-1,ALBANIA Pink Film
-http://iptvtool.es:9977/live/carlosh/carlosh/34865.ts
-
-#EXTINF:-1,ALBANIA PINK FOLK
-http://iptvtool.es:9977/live/carlosh/carlosh/34864.ts
-
-#EXTINF:-1,ALBANIA Pink Folk 2
-http://iptvtool.es:9977/live/carlosh/carlosh/34863.ts
-
-#EXTINF:-1,ALBANIA PINK HORHOR
-http://iptvtool.es:9977/live/carlosh/carlosh/34862.ts
-
-#EXTINF:-1,ALBANIA PINK SCI-FI&FANTASY
-http://iptvtool.es:9977/live/carlosh/carlosh/34861.ts
-
-#EXTINF:-1,ALBANIA Pink Thriller
-http://iptvtool.es:9977/live/carlosh/carlosh/34858.ts
-
-#EXTINF:-1,ALBANIA PINK WORLD
-http://iptvtool.es:9977/live/carlosh/carlosh/34859.ts
-
-#EXTINF:-1,ALBANIA RTK 1
-http://iptvtool.es:9977/live/carlosh/carlosh/34843.ts
-
-#EXTINF:-1,ALBANIA RTK 2
-http://iptvtool.es:9977/live/carlosh/carlosh/34842.ts
-
-#EXTINF:-1,ALBANIA RTSH3
-http://iptvtool.es:9977/live/carlosh/carlosh/34841.ts
-
-#EXTINF:-1,ALBANIA RTV 21
-http://iptvtool.es:9977/live/carlosh/carlosh/34840.ts
-
-#EXTINF:-1,ALBANIA Super Sport 1HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34839.ts
-
-#EXTINF:-1,ALBANIA Super Sport 2HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34838.ts
-
-#EXTINF:-1,ALBANIA Super sport HD 4
-http://iptvtool.es:9977/live/carlosh/carlosh/34836.ts
-
-#EXTINF:-1,ALBANIA Supersport HD 3
-http://iptvtool.es:9977/live/carlosh/carlosh/34837.ts
-
-#EXTINF:-1,ALBANIA Tring 3
-http://iptvtool.es:9977/live/carlosh/carlosh/34856.ts
-
-#EXTINF:-1,ALBANIA TV Klan HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34893.ts
-
-#EXTINF:-1,SW: C More Hits HD
-http://iptvtool.es:9977/live/carlosh/carlosh/34826.ts
-
-#EXTINF:-1,SW: Cartoon_Network
-http://iptvtool.es:9977/live/carlosh/carlosh/34810.ts
-
-#EXTINF:-1,SW: Discovery
-http://iptvtool.es:9977/live/carlosh/carlosh/34822.ts
-
-#EXTINF:-1,SW: Kanal_4
-http://iptvtool.es:9977/live/carlosh/carlosh/34821.ts
-
-#EXTINF:-1,SW: SCAN Viasat  Premiere
-http://iptvtool.es:9977/live/carlosh/carlosh/34832.ts
-
-#EXTINF:-1,SW: SCAN Viasat Film Action
-http://iptvtool.es:9977/live/carlosh/carlosh/34834.ts
-
-#EXTINF:-1,SW: SCAN Viasat Film Hits
-http://iptvtool.es:9977/live/carlosh/carlosh/34831.ts
-
-#EXTINF:-1,SW: SVT 2
-http://iptvtool.es:9977/live/carlosh/carlosh/34818.ts
-
-#EXTINF:-1,SW: TV 6
-http://iptvtool.es:9977/live/carlosh/carlosh/34813.ts
-
-#EXTINF:-1,SW: TV10
-http://iptvtool.es:9977/live/carlosh/carlosh/34811.ts
-
-#EXTINF:-1,SW: TV3
-http://iptvtool.es:9977/live/carlosh/carlosh/34817.ts
-
-#EXTINF:-1,SW: TV4
-http://iptvtool.es:9977/live/carlosh/carlosh/34816.ts
-
-#EXTINF:-1,SW: Tv4_Fakta
-http://iptvtool.es:9977/live/carlosh/carlosh/34814.ts
-
-#EXTINF:-1,SW: Tv4_Film
-http://iptvtool.es:9977/live/carlosh/carlosh/34815.ts
-
-#EXTINF:-1,SW: Tv9
-http://iptvtool.es:9977/live/carlosh/carlosh/34812.ts
-
-#EXTINF:-1,SW: Viasat_4
-http://iptvtool.es:9977/live/carlosh/carlosh/34828.ts
-
-#EXTINF:-1,SW: Viasat.Nature
-http://iptvtool.es:9977/live/carlosh/carlosh/34829.ts
-
-#EXTINF:-1,NO: FEM
-http://iptvtool.es:9977/live/carlosh/carlosh/34804.ts
-
-#EXTINF:-1,NO: MAX Norway
-http://iptvtool.es:9977/live/carlosh/carlosh/34803.ts
-
-#EXTINF:-1,NO: Nat.Geo.Wild
-http://iptvtool.es:9977/live/carlosh/carlosh/34801.ts
-
-#EXTINF:-1,NO: Nrk 1
-http://iptvtool.es:9977/live/carlosh/carlosh/34808.ts
-
-#EXTINF:-1,NO: Nrk 2
-http://iptvtool.es:9977/live/carlosh/carlosh/34807.ts
-
-#EXTINF:-1,NO: TV Norge
-http://iptvtool.es:9977/live/carlosh/carlosh/34806.ts
-
-#EXTINF:-1,NO: TV2 NORGE
-http://iptvtool.es:9977/live/carlosh/carlosh/34805.ts
-
-#EXTINF:-1,NO: Vox
-http://iptvtool.es:9977/live/carlosh/carlosh/34809.ts
+http://iptvtool.es:9977/movie/Tercero/Tercero/26904.mp4
