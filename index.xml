@@ -12,7 +12,6 @@
 
 
 
-
  <item>
 <title>AMA MERCEDES TV PREMIUM</title>
 <thumbnail></thumbnail>
@@ -25,7 +24,6 @@
 
 
 
-
  <item>
 <title>MODESTO MOVISTAR PREMIUM</title>
 <thumbnail></thumbnail>
@@ -33,7 +31,6 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/MODESTO%20MOVISTAR%20PREMIUM.xml</externallink>
 </item>
-
 
 
 
@@ -59,6 +56,17 @@
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/OLGA%20MOVISTAR%20PREMIUM.xml</externallink>
 </item>
 
+
+
+
+
+<item>
+<title>RAQUEL MOVISTAR PREMIUM</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/OLGA%20MOVISTAR%20PREMIUM.xml</externallink>
+</item>
 
 
  
