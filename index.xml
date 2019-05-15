@@ -15,10 +15,19 @@
  <item>
 <title>AMA MERCEDES TV PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://s22.postimg.cc/6j4qwppy9/IMG_20180915_233056.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/AMA%20MERCEDES%20TV%20PREMIUM.xml</externallink>
 </item>
+
+
+
+<item>
+<title>[COLOR blue]HACKER KOBRA[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/HACKER%20KOBRA.xml</externallink>
 
 
 
@@ -27,7 +36,7 @@
  <item>
 <title>MODESTO MOVISTAR PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://s22.postimg.cc/nwf1bpiq9/IMG_20180915_233420.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/MODESTO%20MOVISTAR%20PREMIUM.xml</externallink>
 </item>
@@ -39,7 +48,7 @@
  <item>
 <title>ALICIA MOVISTAR PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.imgur.com/GtKJQky.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/ALICIA%20MOVISTAR%20PREMIUM.xml</externallink>
 </item>
@@ -51,7 +60,7 @@
  <item>
 <title>OLGA MOVISTAR PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://s22.postimg.cc/6j4qwppy9/IMG_20180915_233056.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/OLGA%20MOVISTAR%20PREMIUM.xml</externallink>
 </item>
@@ -63,7 +72,7 @@
 <item>
 <title>RAQUEL MOVISTAR PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://s22.postimg.cc/6j4qwppy9/IMG_20180915_233056.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/RAQUEL%20MOVISTAR%20PREMIUM.xml</externallink>
 </item>
@@ -75,7 +84,7 @@
 <item>
 <title>EL RENEGADO DON BENITO LATINO PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://s22.postimg.cc/6j4qwppy9/IMG_20180915_233056.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/EL%20RENEGADO%20DON%20BENITO%20LATINO%20PREMIUM.xml</externallink>
 </item>
@@ -84,22 +93,10 @@
  
  
 
- 
- <item>
-<title>LA VENTANA SIN VERGUENZAS PREMIUM</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/LA%20VENTANA%20SIN%20VERGUENZAS%20PREMIUM.xml</externallink>
-</item>
-
-
-
-
 <item>
 <title>RESERVA-PREMIUM</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.imgur.com/Ze4vEJg.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/sD83i02X</externallink>
 </item>
@@ -107,10 +104,56 @@
 
 
 
+<item>
+<title>LISTA PRIVADA KEPPLER-KOBRA</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/LISTA%20PRIVADA%20KEPPLER-KOBRA.xml</externallink>
+</item>
 
 
 
 
 
+<item>
+<title>GRAN HERMANO VIP 24 HORAS & OT</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/GRAN%20HERMANO%20VIP%2024%20HORAS%20%26%20OT.xml</externallink>
+</item>
 
+
+
+
+<item>
+<title>LOS MEJORES CONCIERTOS ROCK DE LA HISTORIA FHD</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/LOS%20MEJORES%20CONCIERTOS%20ROCK%20DE%20LA%20HISTORIA%20FHD.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR red]PORNO ADULTOS TODOS LOS CANALES MUNDIALES[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/PORNO%20ADULTOS%20TODOS%20LOS%20CANALES%20MUNDIALES.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue]MOVISTAR ESPAÑA SERVIDOR PREMIUM 20 OCTUBRE[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/MOVISTAR%20ESPA%C3%91A%20SERVIDOR%20PREMIUM%2020%20OCTUBRE.xml</externallink>
+</item>
 
