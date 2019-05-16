@@ -3,10 +3,14 @@
 http://spainiptv.selfip.info:8000/vasco/vasco/80827
 #EXTINF:-1,NUEVA APLICACION SMARTV
 http://spainiptv.selfip.info:8000/vasco/vasco/80796
+#EXTINF:-1,Mtmad
+http://spainiptv.selfip.info:8000/vasco/vasco/81673
 #EXTINF:-1,CONEXION HONDURAS 1
 http://spainiptv.selfip.info:8000/vasco/vasco/81481
 #EXTINF:-1,CONEXION HONDURAS 2
 http://spainiptv.selfip.info:8000/vasco/vasco/81534
+#EXTINF:-1,CONEXION HONDURAS 3
+http://spainiptv.selfip.info:8000/vasco/vasco/81657
 #EXTINF:-1,SUPERVIVIENTES DIARIO 1
 http://spainiptv.selfip.info:8000/vasco/vasco/81479
 #EXTINF:-1,SUPERVIVIENTES DIARIO 2
@@ -25,11 +29,21 @@ http://spainiptv.selfip.info:8000/vasco/vasco/81560
 http://spainiptv.selfip.info:8000/vasco/vasco/81628
 #EXTINF:-1,SUPERVIVIENTES DIARIO 10
 http://spainiptv.selfip.info:8000/vasco/vasco/81629
-#EXTINF:-1,TIERRA DE NADIE GALA 1
+#EXTINF:-1,SUPERVIVIENTES DIARIO 11
+http://spainiptv.selfip.info:8000/vasco/vasco/81658
+#EXTINF:-1,SUPERVIVIENTES DIARIO 12
+http://spainiptv.selfip.info:8000/vasco/vasco/81661
+#EXTINF:-1,TIERRA DE NADIE 1
 http://spainiptv.selfip.info:8000/vasco/vasco/81489
-#EXTINF:-1,TIERRA DE NADIE GALA 2
+#EXTINF:-1,TIERRA DE NADIE 2
 http://spainiptv.selfip.info:8000/vasco/vasco/81546
-#EXTINF:-1,TIERRA DE NADIE GALA 3
+#EXTINF:-1,TIERRA DE NADIE 3
+http://spainiptv.selfip.info:8000/vasco/vasco/81663
+#EXTINF:-1,SUPERVIVIENTES GALA 1
+http://spainiptv.selfip.info:8000/vasco/vasco/81455
+#EXTINF:-1,SUPERVIVIENTES GALA 2
+http://spainiptv.selfip.info:8000/vasco/vasco/81471
+#EXTINF:-1,SUPERVIVIENTES GALA 3
 http://spainiptv.selfip.info:8000/vasco/vasco/81622
 #EXTINF:-1,La voz
 http://spainiptv.selfip.info:8000/vasco/vasco/80647
@@ -37,10 +51,6 @@ http://spainiptv.selfip.info:8000/vasco/vasco/80647
 http://spainiptv.selfip.info:8000/vasco/vasco/80183
 #EXTINF:-1,FAMA24H ASD
 http://spainiptv.selfip.info:8000/vasco/vasco/80998
-#EXTINF:-1,Supervivientes gala1
-http://spainiptv.selfip.info:8000/vasco/vasco/81455
-#EXTINF:-1,Supervivientes gala2
-http://spainiptv.selfip.info:8000/vasco/vasco/81471
 #EXTINF:-1,Got Talent
 http://spainiptv.selfip.info:8000/vasco/vasco/80750
 #EXTINF:-1,SALVAME OKUPA
@@ -1407,7 +1417,7 @@ http://spainiptv.selfip.info:8000/movie/vasco/vasco/81434.mp4
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/80922.mp4
 #EXTINF:-1,Aquaman 1920
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/80836.mp4
-#EXTINF:-1,Bumblebee 1920 
+#EXTINF:-1,Bumblebee
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/80837.mp4
 #EXTINF:-1,Spiderman Universo
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/80833.mp4
@@ -14931,8 +14941,6 @@ http://spainiptv.selfip.info:8000/movie/vasco/vasco/81120.mp4
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81121.mp4
 #EXTINF:-1,Yuli
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81122.mp4
-#EXTINF:-1,Glass (Cristal)
-http://spainiptv.selfip.info:8000/movie/vasco/vasco/81425.mp4
 #EXTINF:-1,A la S0ombra de Kennedy
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81426.mp4
 #EXTINF:-1,Alguien Especial
@@ -15013,12 +15021,8 @@ http://spainiptv.selfip.info:8000/movie/vasco/vasco/81494.mkv
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81495.mkv
 #EXTINF:-1,Hostiles 4K
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81496.mkv
-#EXTINF:-1,Aquaman [BRS]
-http://spainiptv.selfip.info:8000/movie/vasco/vasco/81498.mp4
 #EXTINF:-1,Bajo Cero
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81500.mp4
-#EXTINF:-1,Bumblebee
-http://spainiptv.selfip.info:8000/movie/vasco/vasco/81501.mp4
 #EXTINF:-1,Capitan Marvel
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81502.mp4
 #EXTINF:-1,Crazy Rich Asians
@@ -15027,8 +15031,6 @@ http://spainiptv.selfip.info:8000/movie/vasco/vasco/81503.mp4
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81504.mp4
 #EXTINF:-1,Es por tu bien
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81505.mp4
-#EXTINF:-1,Glass
-http://spainiptv.selfip.info:8000/movie/vasco/vasco/81506.mp4
 #EXTINF:-1,hellboy
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81515.mp4
 #EXTINF:-1,La Mula
@@ -15139,6 +15141,36 @@ http://spainiptv.selfip.info:8000/movie/vasco/vasco/81640.mkv
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81641.mkv
 #EXTINF:-1,El señor de la guerra 4K
 http://spainiptv.selfip.info:8000/movie/vasco/vasco/81642.mkv
+#EXTINF:-1,Amigas con Solera
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81651.mp4
+#EXTINF:-1,Arizona
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81652.mp4
+#EXTINF:-1,Gente que Viene y Bah
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81653.mp4
+#EXTINF:-1,Glass
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81654.mp4
+#EXTINF:-1,White Boy Rick
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81655.mp4
+#EXTINF:-1,PORNO ESPAÑOL
+http://spainiptv.selfip.info:8000/vasco/vasco/81662
+#EXTINF:-1,Avril y el mundo Alterado
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81664.mp4
+#EXTINF:-1,Blue Iguana
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81665.mp4
+#EXTINF:-1,Border
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81666.mp4
+#EXTINF:-1,Buffalo Boys
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81667.mp4
+#EXTINF:-1,El Legado Absoluto
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81668.mp4
+#EXTINF:-1,La gran aventura de los Lunnis y el libro mágico
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81669.mp4
+#EXTINF:-1,Malibu Rescue
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81670.mp4
+#EXTINF:-1,Mutafukax
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81671.mp4
+#EXTINF:-1,Silk Road
+http://spainiptv.selfip.info:8000/movie/vasco/vasco/81672.mp4
 #EXTINF:-1,Vis a vis S01 E01
 http://spainiptv.selfip.info:8000/series/vasco/vasco/79601.mp4
 #EXTINF:-1,Vis a vis S01 E02
@@ -15617,6 +15649,8 @@ http://spainiptv.selfip.info:8000/series/vasco/vasco/81435.mp4
 http://spainiptv.selfip.info:8000/series/vasco/vasco/81543.mp4
 #EXTINF:-1,Juego de Tronos S08 E04
 http://spainiptv.selfip.info:8000/series/vasco/vasco/81544.mp4
+#EXTINF:-1,Juego de Tronos S08 E05
+http://spainiptv.selfip.info:8000/series/vasco/vasco/81656.mp4
 #EXTINF:-1,Estoy Vivo S01 E01
 http://spainiptv.selfip.info:8000/series/vasco/vasco/79829.mp4
 #EXTINF:-1,Estoy Vivo S01 E02
@@ -16096,9 +16130,9 @@ http://spainiptv.selfip.info:8000/series/vasco/vasco/79997.mp4
 #EXTINF:-1,La que se avecina S07 E13
 http://spainiptv.selfip.info:8000/series/vasco/vasco/79998.mp4
 #EXTINF:-1,La que se avecina S09 E01
-http://spainiptv.selfip.info:8000/series/vasco/vasco/80000.mp4
-#EXTINF:-1,La que se avecina S09 E02
 http://spainiptv.selfip.info:8000/series/vasco/vasco/79999.mp4
+#EXTINF:-1,La que se avecina S09 E02
+http://spainiptv.selfip.info:8000/series/vasco/vasco/80000.mp4
 #EXTINF:-1,La que se avecina S09 E03
 http://spainiptv.selfip.info:8000/series/vasco/vasco/80001.mp4
 #EXTINF:-1,La que se avecina S09 E04
@@ -16169,6 +16203,8 @@ http://spainiptv.selfip.info:8000/series/vasco/vasco/81490.mp4
 http://spainiptv.selfip.info:8000/series/vasco/vasco/81491.mp4
 #EXTINF:-1,La que se avecina S11 E03
 http://spainiptv.selfip.info:8000/series/vasco/vasco/81562.mp4
+#EXTINF:-1,La que se avecina S11 E04
+http://spainiptv.selfip.info:8000/series/vasco/vasco/81674.mp4
 #EXTINF:-1,Arde Madrid S01 E01
 http://spainiptv.selfip.info:8000/series/vasco/vasco/80103.mp4
 #EXTINF:-1,Arde Madrid S01 E02
@@ -16203,6 +16239,8 @@ http://spainiptv.selfip.info:8000/series/vasco/vasco/80618.mp4
 http://spainiptv.selfip.info:8000/series/vasco/vasco/80619.mp4
 #EXTINF:-1,Brigada costa del sol S01 E01
 http://spainiptv.selfip.info:8000/series/vasco/vasco/81561.mp4
+#EXTINF:-1,Brigada costa del sol S01 E02
+http://spainiptv.selfip.info:8000/series/vasco/vasco/81660.mp4
 #EXTINF:-1,Allí abajo S01 E01
 http://spainiptv.selfip.info:8000/series/vasco/vasco/81563.mp4
 #EXTINF:-1,Allí abajo S01 E02
