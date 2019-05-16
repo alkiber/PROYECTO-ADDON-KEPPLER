@@ -23,15 +23,6 @@
 
 
 
-item>
-<title>[COLOR blue]SUKO IPTV VERANO 19[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/SUKO%20IPTV%20VERANO%2019.xml</externallink>
-
-
-
 
 
 <item>
@@ -40,5 +31,19 @@ item>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/HACKER%20KOBRA.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR SUKO IPTV VERANO 19[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/HACKER%20KOBRA.xml</externallink>
+</item>
+
 
 
