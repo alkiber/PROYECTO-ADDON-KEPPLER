@@ -1,48 +1,12 @@
 #EXTM3U
+#EXTINF:-1,OJO CON LA COMPRA
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81732
+#EXTINF:-1,PLEX NUEVO
+http://spainiptv.selfip.info:8000/castillo2/castillo2/80827
+#EXTINF:-1,NUEVA APLICACION SMARTV
+http://spainiptv.selfip.info:8000/castillo2/castillo2/80796
 #EXTINF:-1,Mtmad
 http://spainiptv.selfip.info:8000/castillo2/castillo2/81673
-#EXTINF:-1,CONEXION HONDURAS 1
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81481
-#EXTINF:-1,CONEXION HONDURAS 2
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81534
-#EXTINF:-1,CONEXION HONDURAS 3
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81657
-#EXTINF:-1,SUPERVIVIENTES DIARIO 1
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81479
-#EXTINF:-1,SUPERVIVIENTES DIARIO 2
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81480
-#EXTINF:-1,SUPERVIVIENTES DIARIO 3
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81488
-#EXTINF:-1,SUPERVIVIENTES DIARIO 4
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81497
-#EXTINF:-1,SUPERVIVIENTES DIARIO 6
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81529
-#EXTINF:-1,SUPERVIVIENTES DIARIO 7
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81559
-#EXTINF:-1,SUPERVIVIENTES DIARIO 8
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81560
-#EXTINF:-1,SUPERVIVIENTES DIARIO 9
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81628
-#EXTINF:-1,SUPERVIVIENTES DIARIO 10
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81629
-#EXTINF:-1,SUPERVIVIENTES DIARIO 11
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81658
-#EXTINF:-1,SUPERVIVIENTES DIARIO 12
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81661
-#EXTINF:-1,TIERRA DE NADIE 1
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81489
-#EXTINF:-1,TIERRA DE NADIE 2
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81546
-#EXTINF:-1,TIERRA DE NADIE 3
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81663
-#EXTINF:-1,SUPERVIVIENTES GALA 1
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81455
-#EXTINF:-1,SUPERVIVIENTES GALA 2
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81471
-#EXTINF:-1,SUPERVIVIENTES GALA 3
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81622
-#EXTINF:-1,SUPERVIVIENTES GALA 4
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81678
 #EXTINF:-1,La voz
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80647
 #EXTINF:-1,Movistar Fama 24H HD
@@ -55,6 +19,8 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/80750
 http://spainiptv.selfip.info:8000/castillo2/castillo2/79859
 #EXTINF:-1,SALVAME OKUPA 1
 http://spainiptv.selfip.info:8000/castillo2/castillo2/78059
+#EXTINF:-1,SUPERVIVIENTES GALA 6
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81786
 #EXTINF:-1,LA 1 ASD
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80949
 #EXTINF:-1,LA1 AHD
@@ -289,7 +255,7 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/61976
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80965
 #EXTINF:-1,M ACCION AHD
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80840
-#EXTINF:-1,M.ACCIONHDD
+#EXTINF:-1,M.ACCION HDD
 http://spainiptv.selfip.info:8000/castillo2/castillo2/77452
 #EXTINF:-1,SP: Movistar Accion
 http://spainiptv.selfip.info:8000/castillo2/castillo2/53471
@@ -769,6 +735,10 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/80875
 http://spainiptv.selfip.info:8000/castillo2/castillo2/77583
 #EXTINF:-1,MovistarDeportes3HD
 http://spainiptv.selfip.info:8000/castillo2/castillo2/77593
+#EXTINF:-1,M DEPORTES 3 FHD
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81762
+#EXTINF:-1,M DEPORTES 4 FHD
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81763
 #EXTINF:-1,Movistar Deportes 5
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80823
 #EXTINF:-1,SP: #Vamos
@@ -811,6 +781,8 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/53410
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80855
 #EXTINF:-1,ES: Movistar F1 FHD
 http://spainiptv.selfip.info:8000/castillo2/castillo2/61975
+#EXTINF:-1,GP de Francia de Moto MOTO GP 2019
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81748
 #EXTINF:-1,Gran Premio de España de Motociclismo 2019
 http://spainiptv.selfip.info:8000/castillo2/castillo2/81545
 #EXTINF:-1,Gran Premio de Argentina de Motociclismo
@@ -821,7 +793,7 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/81074
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80779
 #EXTINF:-1,SP: Movistar Moto GP
 http://spainiptv.selfip.info:8000/castillo2/castillo2/53417
-#EXTINF:-1,DAZN HDDD
+#EXTINF:-1,DAZN HDDD y FOOTTERS
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80835
 #EXTINF:-1,DAZN 1 EVENTOS
 http://spainiptv.selfip.info:8000/castillo2/castillo2/80620
@@ -832,9 +804,13 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/80774
 #EXTINF:-1,DAZN 4 HD PC
 http://spainiptv.selfip.info:8000/castillo2/castillo2/81518
 #EXTINF:-1,DAZN 5 HD
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81727
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81775
 #EXTINF:-1,DAZN 6 HDD
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81728
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81776
+#EXTINF:-1,DAZN 7HD MULTIVIDEO
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81777
+#EXTINF:-1,FOOTTERS
+http://spainiptv.selfip.info:8000/castillo2/castillo2/81752
 #EXTINF:-1,Movistar Moto GP FHD
 http://spainiptv.selfip.info:8000/castillo2/castillo2/77449
 #EXTINF:-1,ES: Movistar  Deportes 2 FHD
@@ -1115,8 +1091,6 @@ http://spainiptv.selfip.info:8000/castillo2/castillo2/81204
 http://spainiptv.selfip.info:8000/castillo2/castillo2/81272
 #EXTINF:-1,Canal 4 Tenerife
 http://spainiptv.selfip.info:8000/castillo2/castillo2/81289
-#EXTINF:-1,Canal 45 TV
-http://spainiptv.selfip.info:8000/castillo2/castillo2/81330
 #EXTINF:-1,Canal 56
 http://spainiptv.selfip.info:8000/castillo2/castillo2/81164
 #EXTINF:-1,Canal Andalucia Cocina
@@ -2199,8 +2173,6 @@ http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/78419.avi
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/78420.avi
 #EXTINF:-1,Alibi.com agencia de enganios 
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/78421.mp4
-#EXTINF:-1,Alien Covenant 
-http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/78422.mp4
 #EXTINF:-1,Alien VS Predator
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/78423.avi
 #EXTINF:-1,Aliens VS Predator 2
@@ -15037,8 +15009,6 @@ http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81504.mp4
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81505.mp4
 #EXTINF:-1,hellboy
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81515.mp4
-#EXTINF:-1,La Mula
-http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81507.mp4
 #EXTINF:-1,La Protectora
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81508.mp4
 #EXTINF:-1,Malos momentos en el Hotel Royale
@@ -15179,6 +15149,68 @@ http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81672.mp4
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81675.mp4
 #EXTINF:-1,Sobre Rudas
 http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81676.mp4
+#EXTINF:-1,Decision Extrema
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81730.mp4
+#EXTINF:-1,Ploey
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81731.mp4
+#EXTINF:-1,El blues de Beale Street
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81735.mp4
+#EXTINF:-1,El Buen Sam
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81734.mp4
+#EXTINF:-1,La Mula
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81736.mp4
+#EXTINF:-1,Corrupccion
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81738.mp4
+#EXTINF:-1,Morir para Contar 
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81739.mp4
+#EXTINF:-1,See You Yesterday
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81740.mp4
+#EXTINF:-1,Slaughterhouse Rulez 
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81741.mp4
+#EXTINF:-1,Backseat Fighter
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81745.mp4
+#EXTINF:-1,Have Give 
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81746.mp4
+#EXTINF:-1,Nacido en el Silencio
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81747.mp4
+#EXTINF:-1,Casa Jack
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81750.mp4
+#EXTINF:-1,The Old Man
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81751.mp4
+#EXTINF:-1,El Gran Baño
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81753.mp4
+#EXTINF:-1,Furie
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81754.mp4
+#EXTINF:-1,Green Book
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81755.mp4
+#EXTINF:-1,Uno mas de la Familia
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81756.mp4
+#EXTINF:-1,Campamento Alienigena
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81757.mp4
+#EXTINF:-1,The Perfection
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81758.mp4
+#EXTINF:-1,Asterix El secreto de la pocion magica 4K
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81759.mkv
+#EXTINF:-1,Maria reina de Escocia 4K
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81760.mkv
+#EXTINF:-1,Mula 4K
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81761.mkv
+#EXTINF:-1,Alien Covenant
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81778.mp4
+#EXTINF:-1,American Animals
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81779.mp4
+#EXTINF:-1,Crimenes Oscuros
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81780.mp4
+#EXTINF:-1,Dios no esta Muerto 3
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81781.mp4
+#EXTINF:-1,En que Piensan los Hombres
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81782.mp4
+#EXTINF:-1,Kim Posible
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81783.mp4
+#EXTINF:-1,La Locura de una Madre
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81784.mp4
+#EXTINF:-1,La Noche Devora al Mundo 
+http://spainiptv.selfip.info:8000/movie/castillo2/castillo2/81785.mp4
 #EXTINF:-1,Vis a vis S01 E01
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/79601.mp4
 #EXTINF:-1,Vis a vis S01 E02
@@ -15659,6 +15691,10 @@ http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81543.mp4
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81544.mp4
 #EXTINF:-1,Juego de Tronos S08 E05
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81656.mp4
+#EXTINF:-1,Juego de Tronos S08 E06
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81737.mp4
+#EXTINF:-1,Juego de Tronos S08 E07
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81767.mp4
 #EXTINF:-1,Estoy Vivo S01 E01
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/79829.mp4
 #EXTINF:-1,Estoy Vivo S01 E02
@@ -16213,6 +16249,10 @@ http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81491.mp4
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81562.mp4
 #EXTINF:-1,La que se avecina S11 E04
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81674.mp4
+#EXTINF:-1,La que se avecina S11 E05
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81749.mp4
+#EXTINF:-1,La que se avecina S11 E06
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81768.mp4
 #EXTINF:-1,Arde Madrid S01 E01
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/80103.mp4
 #EXTINF:-1,Arde Madrid S01 E02
@@ -16249,6 +16289,10 @@ http://spainiptv.selfip.info:8000/series/castillo2/castillo2/80619.mp4
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81561.mp4
 #EXTINF:-1,Brigada costa del sol S01 E02
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81660.mp4
+#EXTINF:-1,Brigada costa del sol S01 E03
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81744.mp4
+#EXTINF:-1,Brigada costa del sol S01 E04
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81766.mp4
 #EXTINF:-1,Allí abajo S01 E01
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81563.mp4
 #EXTINF:-1,Allí abajo S01 E02
@@ -16383,3 +16427,15 @@ http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81648.mp4
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81649.mp4
 #EXTINF:-1,Instinto S01 E08
 http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81650.mp4
+#EXTINF:-1,El infiltrado S01 E01
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81769.mp4
+#EXTINF:-1,El infiltrado S01 E02
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81770.mp4
+#EXTINF:-1,El infiltrado S01 E03
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81771.mp4
+#EXTINF:-1,El infiltrado S01 E04
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81772.mp4
+#EXTINF:-1,El infiltrado S01 E05
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81773.mp4
+#EXTINF:-1,El infiltrado S01 E06
+http://spainiptv.selfip.info:8000/series/castillo2/castillo2/81774.mp4
