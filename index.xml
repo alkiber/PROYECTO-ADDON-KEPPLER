@@ -11,26 +11,8 @@
  
  
  
- <item>
-<title>[COLOR blue]GH VIP-7 24 HORAS DIRECTO [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/GH%20VIP-7%2024%20HORAS%20DIRECTO.xml</externallink>
-</item>
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 <item>
 <title>[COLOR red]IPTV MOVISTAR[/COLOR] [COLOR white]AMA&JOSE 2019[/COLOR]</title>
 <thumbnail>https://i.imgur.com/HKZwp1C.png</thumbnail>
@@ -38,6 +20,19 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/IPTV%20MOVISTAR.xml</externallink>
 </item>
+
+
+
+
+
+ <item>
+<title>[COLOR blue]GH VIP-7 24 HORAS DIRECTO [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alkiber/PROYECTO-ADDON-KEPPLER/master/GH%20VIP-7%2024%20HORAS%20DIRECTO.xml</externallink>
+</item>
+
 
 
 
