@@ -1,683 +1,203 @@
 #EXTM3U
-#EXTINF:-1,TELECINCO HD
-http://movspain.com:25461/vitorio1/vitorio1/9161
-#EXTINF:-1,24 HORAS
-http://movspain.com:25461/vitorio1/vitorio1/1042
-#EXTINF:-1,LA 1 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9036
-#EXTINF:-1,LA 1
-http://movspain.com:25461/vitorio1/vitorio1/110
-#EXTINF:-1,LA 1 HD
-http://movspain.com:25461/vitorio1/vitorio1/9158
-#EXTINF:-1,LA 1 FHD
-http://movspain.com:25461/vitorio1/vitorio1/489
-#EXTINF:-1,LA 2 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9037
-#EXTINF:-1,LA 2
-http://movspain.com:25461/vitorio1/vitorio1/109
-#EXTINF:-1,La 2 FHD
-http://movspain.com:25461/vitorio1/vitorio1/7540
-#EXTINF:-1,ANTENA 3 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9065
-#EXTINF:-1,ANTENA 3
-http://movspain.com:25461/vitorio1/vitorio1/111
-#EXTINF:-1,ANTENA 3 HD
-http://movspain.com:25461/vitorio1/vitorio1/9159
-#EXTINF:-1,ANTENA 3 FHD
-http://movspain.com:25461/vitorio1/vitorio1/1209
-#EXTINF:-1,CUATRO PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9066
-#EXTINF:-1,CUATRO
-http://movspain.com:25461/vitorio1/vitorio1/88
-#EXTINF:-1,CUATRO HD
-http://movspain.com:25461/vitorio1/vitorio1/9160
-#EXTINF:-1,CUATRO FHD
-http://movspain.com:25461/vitorio1/vitorio1/497
-#EXTINF:-1,TELECINCO PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9034
-#EXTINF:-1,TELECINCO
-http://movspain.com:25461/vitorio1/vitorio1/496
-#EXTINF:-1,TELECINCO HD
-http://movspain.com:25461/vitorio1/vitorio1/9161
-#EXTINF:-1,TELECINCO FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/79
-#EXTINF:-1,LA SEXTA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9067
-#EXTINF:-1,LA SEXTA
-http://movspain.com:25461/vitorio1/vitorio1/81
-#EXTINF:-1,LA SEXTA HD
-http://movspain.com:25461/vitorio1/vitorio1/9162
-#EXTINF:-1,LA SEXTA  FHD
-http://movspain.com:25461/vitorio1/vitorio1/1016
-#EXTINF:-1,***** CINE *****
-http://movspain.com:25461/vitorio1/vitorio1/9183
-#EXTINF:-1,MOVISTAR #0 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9084
-#EXTINF:-1,MOVISTAR  0#
-http://movspain.com:25461/vitorio1/vitorio1/1
-#EXTINF:-1,MOVISTAR 0# HD
-http://movspain.com:25461/vitorio1/vitorio1/6814
-#EXTINF:-1,MOVISTAR 0# FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1172
-#EXTINF:-1,MOVISTAR ESTRENOS PARA MOVILE
-http://movspain.com:25461/vitorio1/vitorio1/9079
-#EXTINF:-1,MOVISTAR ESTRENOS
-http://movspain.com:25461/vitorio1/vitorio1/17
-#EXTINF:-1,MOVISTAR ESTRENOS HD
-http://movspain.com:25461/vitorio1/vitorio1/8740
-#EXTINF:-1,MOVISTAR ESTRENOS FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/482
-#EXTINF:-1,MOVISTAR ACCION PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9074
-#EXTINF:-1,MOVISTAR  ACCION
-http://movspain.com:25461/vitorio1/vitorio1/21
-#EXTINF:-1,MOVISTAR ACCION HD
-http://movspain.com:25461/vitorio1/vitorio1/8741
-#EXTINF:-1,MOVISTAR ACCION FHD
-http://movspain.com:25461/vitorio1/vitorio1/1180
-#EXTINF:-1,MOVISTAR COMEDIA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9047
-#EXTINF:-1,MOVISTAR COMEDIA
-http://movspain.com:25461/vitorio1/vitorio1/22
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://movspain.com:25461/vitorio1/vitorio1/9152
-#EXTINF:-1,MOVISTAR COMEDIA FHD
-http://movspain.com:25461/vitorio1/vitorio1/1181
-#EXTINF:-1,MOVISTAR DRAMA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9103
-#EXTINF:-1,MOVISTAR DRAMA
-http://movspain.com:25461/vitorio1/vitorio1/14
-#EXTINF:-1,MOVISTAR DRAMA HD
-http://movspain.com:25461/vitorio1/vitorio1/9174
-#EXTINF:-1,MOVISTAR DRAMA FHD
-http://movspain.com:25461/vitorio1/vitorio1/1182
-#EXTINF:-1,MOVISTAR DCINE  Ñ PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13463
-#EXTINF:-1,MOVISTAR DCINE  Ñ
-http://movspain.com:25461/vitorio1/vitorio1/48
-#EXTINF:-1,MOVISTAR MOVISTAR CINEDOC&ROLL PARA MOVIL
-http://movspain.com:25461/vitorio1/vitorio1/9040
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL
-http://movspain.com:25461/vitorio1/vitorio1/13
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD
-http://movspain.com:25461/vitorio1/vitorio1/9176
-#EXTINF:-1,MOVISTAR CINEDOC&ROLL FHD
-http://movspain.com:25461/vitorio1/vitorio1/1184
-#EXTINF:-1,HOLLYWOOD PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9083
-#EXTINF:-1,HOLLYWOOD
-http://movspain.com:25461/vitorio1/vitorio1/23
-#EXTINF:-1,HOLLYWOOD HD
-http://movspain.com:25461/vitorio1/vitorio1/9168
+#EXTINF:-1,BARCA TV SD 
+http://ictv19.xyz:8000/aaron08/aaron08/23175
+#EXTINF:-1,ESPAÑA - #0 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/233
+#EXTINF:-1,ESPAÑA - 24H
+http://ictv19.xyz:8000/aaron08/aaron08/545
+#EXTINF:-1,ESPAÑA - AMC FHD
+http://ictv19.xyz:8000/aaron08/aaron08/575
+#EXTINF:-1,ESPAÑA - ANTENA 3 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/219
+#EXTINF:-1,ESPAÑA - ANTENA 3 SD
+http://ictv19.xyz:8000/aaron08/aaron08/220
+#EXTINF:-1,ESPAÑA - AXN FHD
+http://ictv19.xyz:8000/aaron08/aaron08/419
+#EXTINF:-1,ESPAÑA - AXN SD
+http://ictv19.xyz:8000/aaron08/aaron08/259
+#EXTINF:-1,ESPAÑA - AXN WHITE FHD
+http://ictv19.xyz:8000/aaron08/aaron08/261
+#EXTINF:-1,ESPAÑA - CALLE 13 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/324
+#EXTINF:-1,ESPAÑA - CANAL COCINA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/291
+#EXTINF:-1,ESPAÑA - CANAL SUR FHD
+http://ictv19.xyz:8000/aaron08/aaron08/226
+#EXTINF:-1,ESPAÑA - CAZA Y PESCA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/819
+#EXTINF:-1,ESPAÑA - COMEDY CENTRAL FHD
+http://ictv19.xyz:8000/aaron08/aaron08/1012
+#EXTINF:-1,ESPAÑA - COSMO FHD
+http://ictv19.xyz:8000/aaron08/aaron08/272
+#EXTINF:-1,ESPAÑA - CRIMEN + INVESTIGACION SD
+http://ictv19.xyz:8000/aaron08/aaron08/23195
+#EXTINF:-1,ESPAÑA - CUATRO FHD
+http://ictv19.xyz:8000/aaron08/aaron08/221
+#EXTINF:-1,ESPAÑA - CUATRO HD
+http://ictv19.xyz:8000/aaron08/aaron08/22452
+#EXTINF:-1,ESPAÑA - DECASA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23196
+#EXTINF:-1,ESPAÑA - DISCOVERY CHANNEL SD
+http://ictv19.xyz:8000/aaron08/aaron08/294
+#EXTINF:-1,ESPAÑA - DISNEY CHANNEL FHD
+http://ictv19.xyz:8000/aaron08/aaron08/308
+#EXTINF:-1,ESPAÑA - DISNEY JUNIOR SD
+http://ictv19.xyz:8000/aaron08/aaron08/310
+#EXTINF:-1,ESPAÑA - DISNEY XD SD
+http://ictv19.xyz:8000/aaron08/aaron08/309
+#EXTINF:-1,ESPAÑA - DIVINITY SD
+http://ictv19.xyz:8000/aaron08/aaron08/231
+#EXTINF:-1,ESPAÑA - ENERGY SD
+http://ictv19.xyz:8000/aaron08/aaron08/321
+#EXTINF:-1,ESPAÑA - FOX LIFE FHD
+http://ictv19.xyz:8000/aaron08/aaron08/984
+#EXTINF:-1,ESPAÑA - HISTORIA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/564
+#EXTINF:-1,ESPAÑA - HISTORIA SD
+http://ictv19.xyz:8000/aaron08/aaron08/296
+#EXTINF:-1,ESPAÑA - LA 1 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/341
+#EXTINF:-1,ESPAÑA - LA 1 SD
+http://ictv19.xyz:8000/aaron08/aaron08/217
+#EXTINF:-1,ESPAÑA - LA 2 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/218
+#EXTINF:-1,ESPAÑA - LA 2 SD
+http://ictv19.xyz:8000/aaron08/aaron08/22453
+#EXTINF:-1,ESPAÑA - LA SEXTA
+http://ictv19.xyz:8000/aaron08/aaron08/22454
+#EXTINF:-1,ESPAÑA - LA SEXTA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/1429
+#EXTINF:-1,ESPAÑA - LA SEXTA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23178
+#EXTINF:-1,ESPAÑA - MEGA SD
+http://ictv19.xyz:8000/aaron08/aaron08/227
+#EXTINF:-1,ESPAÑA - MOVISTAR ACCION FHD
+http://ictv19.xyz:8000/aaron08/aaron08/1527
+#EXTINF:-1,ESPAÑA - MOVISTAR ACCION HD
+http://ictv19.xyz:8000/aaron08/aaron08/235
+#EXTINF:-1,ESPAÑA - MOVISTAR COMEDIA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/237
+#EXTINF:-1,ESPAÑA - MOVISTAR COMEDIA SD
+http://ictv19.xyz:8000/aaron08/aaron08/1526
+#EXTINF:-1,ESPAÑA - MOVISTAR DCINE  Ñ SD
+http://ictv19.xyz:8000/aaron08/aaron08/23183
+#EXTINF:-1,ESPAÑA - MOVISTAR ESTRENOS FHD
+http://ictv19.xyz:8000/aaron08/aaron08/1523
+#EXTINF:-1,ESPAÑA - MOVISTAR ESTRENOS SD
+http://ictv19.xyz:8000/aaron08/aaron08/242
+#EXTINF:-1,ESPAÑA - MOVISTAR F1 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/22455
+#EXTINF:-1,ESPAÑA - MOVISTAR F1 SD
+http://ictv19.xyz:8000/aaron08/aaron08/494
+#EXTINF:-1,ESPAÑA - MOVISTAR SERIEMANIA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/248
+#EXTINF:-1,ESPAÑA - MOVISTAR SERIESMANIA SD
+http://ictv19.xyz:8000/aaron08/aaron08/246
+#EXTINF:-1,ESPAÑA - NATGEO WILD FHD
+http://ictv19.xyz:8000/aaron08/aaron08/30924
+#EXTINF:-1,ESPAÑA - NATIONAL GEOGRAPHIC FHD
+http://ictv19.xyz:8000/aaron08/aaron08/30922
+#EXTINF:-1,ESPAÑA - NEOX SD
+http://ictv19.xyz:8000/aaron08/aaron08/228
+#EXTINF:-1,ESPAÑA - NOVA SD
+http://ictv19.xyz:8000/aaron08/aaron08/1431
+#EXTINF:-1,ESPAÑA - ODISEA SD
+http://ictv19.xyz:8000/aaron08/aaron08/297
+#EXTINF:-1,ESPAÑA - PANDA SD
+http://ictv19.xyz:8000/aaron08/aaron08/1004
+#EXTINF:-1,ESPAÑA - PARAMOUNT SD
+http://ictv19.xyz:8000/aaron08/aaron08/249
+#EXTINF:-1,ESPAÑA - REAL MADRID TV SD
+http://ictv19.xyz:8000/aaron08/aaron08/22456
+#EXTINF:-1,ESPAÑA - RT EN ESPANOL HD
+http://ictv19.xyz:8000/aaron08/aaron08/22457
+#EXTINF:-1,ESPAÑA - SYFY FHD
+http://ictv19.xyz:8000/aaron08/aaron08/1541
+#EXTINF:-1,ESPAÑA - TAQUILLA 3 HD
+http://ictv19.xyz:8000/aaron08/aaron08/23190
+#EXTINF:-1,ESPAÑA - TCM FHD
+http://ictv19.xyz:8000/aaron08/aaron08/1380
+#EXTINF:-1,ESPAÑA - TELECINCO FHD
+http://ictv19.xyz:8000/aaron08/aaron08/314
+#EXTINF:-1,ESPAÑA - TELECINCO SD
+http://ictv19.xyz:8000/aaron08/aaron08/224
+#EXTINF:-1,ESPAÑA - TNT FHD
+http://ictv19.xyz:8000/aaron08/aaron08/996
+#EXTINF:-1,ESPAÑA - TNT HD
+http://ictv19.xyz:8000/aaron08/aaron08/257
+#EXTINF:-1,ESPAÑA - TRECE SD
+http://ictv19.xyz:8000/aaron08/aaron08/29007
+#EXTINF:-1,ESPAÑA - TVE SD
+http://ictv19.xyz:8000/aaron08/aaron08/22458
+#EXTINF:-1,ESPAÑA - VIAJAR FHD
+http://ictv19.xyz:8000/aaron08/aaron08/117
+#EXTINF:-1,ESPAÑA - XTREM FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23187
+#EXTINF:-1,ESPAÑA - XTREM SD
+http://ictv19.xyz:8000/aaron08/aaron08/23186
+#EXTINF:-1,ESPAÑA -: #0 FHD
+http://ictv19.xyz:8000/aaron08/aaron08/325
+#EXTINF:-1,EUROSPORT 2 SD
+http://ictv19.xyz:8000/aaron08/aaron08/29150
+#EXTINF:-1,EUROSPORT FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23174
+#EXTINF:-1,EUROSPORT SD
+http://ictv19.xyz:8000/aaron08/aaron08/23173
+#EXTINF:-1,GOLTV SD 
+http://ictv19.xyz:8000/aaron08/aaron08/6001
 #EXTINF:-1,HOLLYWOOD FHD
-http://movspain.com:25461/vitorio1/vitorio1/1195
-#EXTINF:-1,TCM PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9035
-#EXTINF:-1,TCM
-http://movspain.com:25461/vitorio1/vitorio1/45
-#EXTINF:-1,TCM HD
-http://movspain.com:25461/vitorio1/vitorio1/9173
-#EXTINF:-1,TCM FHD
-http://movspain.com:25461/vitorio1/vitorio1/652
-#EXTINF:-1,SUNDANCE PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13464
-#EXTINF:-1,SUNDANCE
-http://movspain.com:25461/vitorio1/vitorio1/1305
-#EXTINF:-1,SUNDANCE HD
-http://movspain.com:25461/vitorio1/vitorio1/9190
-#EXTINF:-1,SUNDANCE FHD
-http://movspain.com:25461/vitorio1/vitorio1/8735
-#EXTINF:-1,DARK PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9099
-#EXTINF:-1,DARK
-http://movspain.com:25461/vitorio1/vitorio1/628
-#EXTINF:-1,XTREM PAR MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13466
-#EXTINF:-1,XTREM SD
-http://movspain.com:25461/vitorio1/vitorio1/13465
-#EXTINF:-1,XTREM HD
-http://movspain.com:25461/vitorio1/vitorio1/9175
-#EXTINF:-1,XTRM FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1191
-#EXTINF:-1,SOMOS PARA MOVIL
-http://movspain.com:25461/vitorio1/vitorio1/13467
-#EXTINF:-1,SOMOS
-http://movspain.com:25461/vitorio1/vitorio1/7876
-#EXTINF:-1,PARAMOUNT CHANNEL PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13468
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://movspain.com:25461/vitorio1/vitorio1/86
-#EXTINF:-1,TAQUILLA 1 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13469
-#EXTINF:-1,TAQUILLA 1
-http://movspain.com:25461/vitorio1/vitorio1/8726
-#EXTINF:-1,TAQUILLA2 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13470
-#EXTINF:-1,TAQUILLA 2
-http://movspain.com:25461/vitorio1/vitorio1/8727
-#EXTINF:-1,TAQUILLA 3 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13471
-#EXTINF:-1,TAQUILLA 3
-http://movspain.com:25461/vitorio1/vitorio1/8728
-#EXTINF:-1,TAQUILLA 4 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13472
-#EXTINF:-1,TAQUILLA 4
-http://movspain.com:25461/vitorio1/vitorio1/8730
-#EXTINF:-1,TAQUILLA 5 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/13473
-#EXTINF:-1,TAQUILLA 5
-http://movspain.com:25461/vitorio1/vitorio1/8731
-#EXTINF:-1,TAQUILLA 6 PARA MOVIL
-http://movspain.com:25461/vitorio1/vitorio1/13474
-#EXTINF:-1,TAQUILLA 6
-http://movspain.com:25461/vitorio1/vitorio1/8733
-#EXTINF:-1,********** Series *********
-http://movspain.com:25461/vitorio1/vitorio1/7245
-#EXTINF:-1,MOVISTR SERIES PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9077
-#EXTINF:-1,MOVISTAR SERIES
-http://movspain.com:25461/vitorio1/vitorio1/32
-#EXTINF:-1,MOVISTAR SERIES HD
-http://movspain.com:25461/vitorio1/vitorio1/9178
-#EXTINF:-1,MOVISTAR SERIES FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1185
-#EXTINF:-1,ES:MOVISTAR SERIESMANIA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9076
-#EXTINF:-1,MOVISTAR SERIESMANIA
-http://movspain.com:25461/vitorio1/vitorio1/33
-#EXTINF:-1,MOVISTAR SERIESMANIA HD
-http://movspain.com:25461/vitorio1/vitorio1/9177
-#EXTINF:-1,MOVISTAR SERIESMANIA FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1183
-#EXTINF:-1,CALLE 13 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9110
-#EXTINF:-1,CALLE 13
-http://movspain.com:25461/vitorio1/vitorio1/24
-#EXTINF:-1,CALLE 13 HD
-http://movspain.com:25461/vitorio1/vitorio1/9169
-#EXTINF:-1,CALLE 13 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1210
-#EXTINF:-1,FOX PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9069
-#EXTINF:-1,FOX
-http://movspain.com:25461/vitorio1/vitorio1/28
-#EXTINF:-1,FOX HD
-http://movspain.com:25461/vitorio1/vitorio1/9165
-#EXTINF:-1,FOX FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1186
-#EXTINF:-1,FOX LIFE PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9081
-#EXTINF:-1,FOX LIFE
-http://movspain.com:25461/vitorio1/vitorio1/20
-#EXTINF:-1,FOX LIVE HD
-http://movspain.com:25461/vitorio1/vitorio1/9166
-#EXTINF:-1,FOX LIFE FHD
-http://movspain.com:25461/vitorio1/vitorio1/1187
-#EXTINF:-1,AXN PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9068
-#EXTINF:-1,AXN
-http://movspain.com:25461/vitorio1/vitorio1/18
-#EXTINF:-1,AXN HD
-http://movspain.com:25461/vitorio1/vitorio1/9163
-#EXTINF:-1,AXN FULL HD
-http://movspain.com:25461/vitorio1/vitorio1/1189
-#EXTINF:-1,AXN WAHIT PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9080
-#EXTINF:-1,AXN  WHITE
-http://movspain.com:25461/vitorio1/vitorio1/19
-#EXTINF:-1,AXN WAHITE HD
-http://movspain.com:25461/vitorio1/vitorio1/9164
-#EXTINF:-1,AXN  WHITE FHD
-http://movspain.com:25461/vitorio1/vitorio1/1190
-#EXTINF:-1,AMC PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9070
-#EXTINF:-1,AMC
-http://movspain.com:25461/vitorio1/vitorio1/29
-#EXTINF:-1,AMC FHD
-http://movspain.com:25461/vitorio1/vitorio1/1188
-#EXTINF:-1,TNT PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9082
-#EXTINF:-1,TNT
-http://movspain.com:25461/vitorio1/vitorio1/30
-#EXTINF:-1,TNT HD
-http://movspain.com:25461/vitorio1/vitorio1/9167
-#EXTINF:-1,TNT FHD
-http://movspain.com:25461/vitorio1/vitorio1/1194
-#EXTINF:-1,SYFY PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9105
-#EXTINF:-1,SYFY
-http://movspain.com:25461/vitorio1/vitorio1/15
-#EXTINF:-1,SYFY HD
-http://movspain.com:25461/vitorio1/vitorio1/9170
-#EXTINF:-1,SYFY FHD
-http://movspain.com:25461/vitorio1/vitorio1/638
-#EXTINF:-1,COSMOS
-http://movspain.com:25461/vitorio1/vitorio1/629
-#EXTINF:-1,COSMOS HD
-http://movspain.com:25461/vitorio1/vitorio1/9171
-#EXTINF:-1,COSMOPOLITAN  FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/2
-#EXTINF:-1,COMEDY CENTRAL PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9057
-#EXTINF:-1,COMEDY  CENTRAL
-http://movspain.com:25461/vitorio1/vitorio1/26
-#EXTINF:-1,COMEDY CENTRAL HD
-http://movspain.com:25461/vitorio1/vitorio1/9172
-#EXTINF:-1,COMEDY CENTRAL FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/5502
-#EXTINF:-1,ES:MTV PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9096
-#EXTINF:-1,MTV
-http://movspain.com:25461/vitorio1/vitorio1/7
-#EXTINF:-1,FDF
-http://movspain.com:25461/vitorio1/vitorio1/46
-#EXTINF:-1,ES:DKISS PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9095
-#EXTINF:-1,DKISS
-http://movspain.com:25461/vitorio1/vitorio1/1192
-#EXTINF:-1,A3SERIES
-http://movspain.com:25461/vitorio1/vitorio1/82
-#EXTINF:-1,***** ESTILO DE VIDA *****
-http://movspain.com:25461/vitorio1/vitorio1/9184
-#EXTINF:-1,MEGA
-http://movspain.com:25461/vitorio1/vitorio1/43
-#EXTINF:-1,ENERGY PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9094
-#EXTINF:-1,ENERGY
-http://movspain.com:25461/vitorio1/vitorio1/72
-#EXTINF:-1,DIVINITY PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9108
-#EXTINF:-1,DIVINITY
-http://movspain.com:25461/vitorio1/vitorio1/80
-#EXTINF:-1,CI PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9051
-#EXTINF:-1,CRIMEN  + INVESTIGACION
-http://movspain.com:25461/vitorio1/vitorio1/40
-#EXTINF:-1,DECASA
-http://movspain.com:25461/vitorio1/vitorio1/449
-#EXTINF:-1,DECASA HD
-http://movspain.com:25461/vitorio1/vitorio1/9704
-#EXTINF:-1,DECASA FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/9703
-#EXTINF:-1,COCINA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9114
-#EXTINF:-1,CANAL COCINA
-http://movspain.com:25461/vitorio1/vitorio1/117
-#EXTINF:-1,CANAL COCINA HD
-http://movspain.com:25461/vitorio1/vitorio1/9191
-#EXTINF:-1,CANAL COCINA FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/8734
-#EXTINF:-1,BE MAD PARA MOVIL
-http://movspain.com:25461/vitorio1/vitorio1/9101
-#EXTINF:-1,BE MAD
-http://movspain.com:25461/vitorio1/vitorio1/9100
-#EXTINF:-1,BE MAD HD
-http://movspain.com:25461/vitorio1/vitorio1/9192
-#EXTINF:-1,BE MAD FHD
-http://movspain.com:25461/vitorio1/vitorio1/546
-#EXTINF:-1,NEOX ES PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9098
-#EXTINF:-1,NEOX
-http://movspain.com:25461/vitorio1/vitorio1/41
-#EXTINF:-1,NOVA
-http://movspain.com:25461/vitorio1/vitorio1/42
-#EXTINF:-1,***** INFANTIL *****
-http://movspain.com:25461/vitorio1/vitorio1/9185
-#EXTINF:-1,MOVISTAR DISNEY PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9090
-#EXTINF:-1,MOVISTAR DISNEY
-http://movspain.com:25461/vitorio1/vitorio1/2774
-#EXTINF:-1,ES:DISNEY XD PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9048
-#EXTINF:-1,DISNEY  XD
-http://movspain.com:25461/vitorio1/vitorio1/44
-#EXTINF:-1,DISNEY JR
-http://movspain.com:25461/vitorio1/vitorio1/8
-#EXTINF:-1,ES:DISNEY CHANNEL PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9042
-#EXTINF:-1,DISNEY CHANNEL
-http://movspain.com:25461/vitorio1/vitorio1/6
-#EXTINF:-1,DISNEY CHANNEL HD
-http://movspain.com:25461/vitorio1/vitorio1/9179
-#EXTINF:-1,DISNEY CHANNEL FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/661
-#EXTINF:-1,CLAN
-http://movspain.com:25461/vitorio1/vitorio1/4
-#EXTINF:-1,CLAN HD
-http://movspain.com:25461/vitorio1/vitorio1/9180
-#EXTINF:-1,CLAN FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/7874
-#EXTINF:-1,ES:BOING PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9054
-#EXTINF:-1,BOING
-http://movspain.com:25461/vitorio1/vitorio1/36
-#EXTINF:-1,CANAL PANDA
-http://movspain.com:25461/vitorio1/vitorio1/55
-#EXTINF:-1,BABY  TV
-http://movspain.com:25461/vitorio1/vitorio1/5
-#EXTINF:-1,NICKELOODEON PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9113
-#EXTINF:-1,NICKELODEON
-http://movspain.com:25461/vitorio1/vitorio1/70
-#EXTINF:-1,NICKELODEON HD
-http://movspain.com:25461/vitorio1/vitorio1/9181
-#EXTINF:-1,NICKELODEON FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/627
-#EXTINF:-1,NICK JR
-http://movspain.com:25461/vitorio1/vitorio1/481
-#EXTINF:-1,***** DOCUMENTALES *****
-http://movspain.com:25461/vitorio1/vitorio1/9186
-#EXTINF:-1,ES:HISTORIA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9091
-#EXTINF:-1,HISTORIA
-http://movspain.com:25461/vitorio1/vitorio1/52
-#EXTINF:-1,HISTORIA HD
-http://movspain.com:25461/vitorio1/vitorio1/9193
-#EXTINF:-1,HISTORIA FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/7873
-#EXTINF:-1,ES:DISCOVERY CHANNEL PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9102
-#EXTINF:-1,DISCOVERY  CHANNEL
-http://movspain.com:25461/vitorio1/vitorio1/9
-#EXTINF:-1,ODISEA PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9106
-#EXTINF:-1,ODISEA
-http://movspain.com:25461/vitorio1/vitorio1/31
-#EXTINF:-1,ODISEA FHD
-http://movspain.com:25461/vitorio1/vitorio1/18107
-#EXTINF:-1,ES:NAT GEO PARA MOVILE
-http://movspain.com:25461/vitorio1/vitorio1/9093
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://movspain.com:25461/vitorio1/vitorio1/37
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://movspain.com:25461/vitorio1/vitorio1/9194
-#EXTINF:-1,NATIONAL GEOGRAPHIC FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/6694
-#EXTINF:-1,ES:NAT GEO WILD PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9104
-#EXTINF:-1,NATIONAL GEOGRAFIC WILD
-http://movspain.com:25461/vitorio1/vitorio1/34
-#EXTINF:-1,NATIONAL GEOGRAFIC WILD HD
-http://movspain.com:25461/vitorio1/vitorio1/9195
-#EXTINF:-1,NATIONAL GEOGRAFIC WILD FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/651
-#EXTINF:-1,ES:DMAX PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9107
-#EXTINF:-1,DMAX
-http://movspain.com:25461/vitorio1/vitorio1/1171
-#EXTINF:-1,TEN PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9041
-#EXTINF:-1,TEN
-http://movspain.com:25461/vitorio1/vitorio1/1014
-#EXTINF:-1,BLAZE PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9109
-#EXTINF:-1,BLAZE
-http://movspain.com:25461/vitorio1/vitorio1/7539
-#EXTINF:-1,Viajar
-http://movspain.com:25461/vitorio1/vitorio1/56
-#EXTINF:-1,VIAJAR HD
-http://movspain.com:25461/vitorio1/vitorio1/9196
-#EXTINF:-1,VIAJAR FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/632
-#EXTINF:-1,ES:CAZA Y PESC PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9111
-#EXTINF:-1,CAZA  Y PESCA
-http://movspain.com:25461/vitorio1/vitorio1/11
-#EXTINF:-1,CAZA Y PESCA HD
-http://movspain.com:25461/vitorio1/vitorio1/9197
-#EXTINF:-1,CAZA Y PESCA FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/499
-#EXTINF:-1,Iberalia
-http://movspain.com:25461/vitorio1/vitorio1/1108
-#EXTINF:-1,***** DEPORTES *****
-http://movspain.com:25461/vitorio1/vitorio1/179
-#EXTINF:-1,DAZN PREMIER
-http://movspain.com:25461/vitorio1/vitorio1/18097
-#EXTINF:-1,DAZN SD
-http://movspain.com:25461/vitorio1/vitorio1/16326
-#EXTINF:-1,DAZN HD
-http://movspain.com:25461/vitorio1/vitorio1/16325
-#EXTINF:-1,DAZN - MOTOGP FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/15918
-#EXTINF:-1,MOVISTAR VAMOS PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9050
-#EXTINF:-1,MOVISTAR #VAMOS
-http://movspain.com:25461/vitorio1/vitorio1/39
-#EXTINF:-1,MOVISTAR VAMOS HD
-http://movspain.com:25461/vitorio1/vitorio1/8736
-#EXTINF:-1,MOVISTAR VAMOS FHD
-http://movspain.com:25461/vitorio1/vitorio1/1173
-#EXTINF:-1,# VAMOS BAR 1
-http://movspain.com:25461/vitorio1/vitorio1/18104
-#EXTINF:-1,# VAMOS BAR 2
-http://movspain.com:25461/vitorio1/vitorio1/18105
-#EXTINF:-1,LIGA TV PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9055
-#EXTINF:-1,LIGA TV BAR
-http://movspain.com:25461/vitorio1/vitorio1/7204
+http://ictv19.xyz:8000/aaron08/aaron08/1529
+#EXTINF:-1,HOLLYWOOD SD
+http://ictv19.xyz:8000/aaron08/aaron08/251
 #EXTINF:-1,LIGA TV BAR HD
-http://movspain.com:25461/vitorio1/vitorio1/8738
+http://ictv19.xyz:8000/aaron08/aaron08/23168
 #EXTINF:-1,LIGATV BAR FHD
-http://movspain.com:25461/vitorio1/vitorio1/1003
-#EXTINF:-1,LIGA TV BAR 2
-http://movspain.com:25461/vitorio1/vitorio1/17920
-#EXTINF:-1,LIGA TV 1 BAR
-http://movspain.com:25461/vitorio1/vitorio1/9086
-#EXTINF:-1,LIGA TV BAR 3
-http://movspain.com:25461/vitorio1/vitorio1/9088
-#EXTINF:-1,LIGA TV BAR 4
-http://movspain.com:25461/vitorio1/vitorio1/18101
-#EXTINF:-1,MOVISTAR LA LIGA
-http://movspain.com:25461/vitorio1/vitorio1/18102
-#EXTINF:-1,MOVISTAR LALIGA HD
-http://movspain.com:25461/vitorio1/vitorio1/14719
-#EXTINF:-1,MOVISTAR LA LIGA FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/15916
-#EXTINF:-1,MOVISTAR LALIGA 1
-http://movspain.com:25461/vitorio1/vitorio1/245
-#EXTINF:-1,MOVISTAR LA LIGA 1 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/5500
-#EXTINF:-1,MOVISTAR  LALIGA 2
-http://movspain.com:25461/vitorio1/vitorio1/246
-#EXTINF:-1,MOVISTAR LA LIGA 2 FHD
-http://movspain.com:25461/vitorio1/vitorio1/5501
-#EXTINF:-1,MOVISTAR  LA LIGA 3
-http://movspain.com:25461/vitorio1/vitorio1/247
-#EXTINF:-1,MOVISTAR LA LIGA 3 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/18100
-#EXTINF:-1,MOVISTAR LA LIGA 4
-http://movspain.com:25461/vitorio1/vitorio1/248
-#EXTINF:-1,MOVISTAR LA LIGA 5
-http://movspain.com:25461/vitorio1/vitorio1/249
-#EXTINF:-1,MOVISTAR LA LIGA 6
-http://movspain.com:25461/vitorio1/vitorio1/250
-#EXTINF:-1,MOVISTAR LA LIGA 7
-http://movspain.com:25461/vitorio1/vitorio1/251
-#EXTINF:-1,MOVISTAR LA LIGA 8
-http://movspain.com:25461/vitorio1/vitorio1/1309
-#EXTINF:-1,MOVISTAR LA LIGA 9
-http://movspain.com:25461/vitorio1/vitorio1/18098
-#EXTINF:-1,MOVISTAR LA LIGA 10
-http://movspain.com:25461/vitorio1/vitorio1/18099
-#EXTINF:-1,LIGA DE CAMPEONES PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9115
-#EXTINF:-1,LIGA DE CAMPEONES HD
-http://movspain.com:25461/vitorio1/vitorio1/17837
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES FHD
-http://movspain.com:25461/vitorio1/vitorio1/1303
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 1
-http://movspain.com:25461/vitorio1/vitorio1/252
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 1 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/267
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
-http://movspain.com:25461/vitorio1/vitorio1/253
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 2 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/5499
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 3  España
-http://movspain.com:25461/vitorio1/vitorio1/254
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4
-http://movspain.com:25461/vitorio1/vitorio1/255
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES
-http://movspain.com:25461/vitorio1/vitorio1/256
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 5
-http://movspain.com:25461/vitorio1/vitorio1/18821
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 6
-http://movspain.com:25461/vitorio1/vitorio1/257
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 7
-http://movspain.com:25461/vitorio1/vitorio1/258
-#EXTINF:-1,MOVISTAR LIGA CAMPEONES 8
-http://movspain.com:25461/vitorio1/vitorio1/18820
-#EXTINF:-1,MOVISTAR DEPORTE PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9052
-#EXTINF:-1,MOVISTAR  DEPORTE
-http://movspain.com:25461/vitorio1/vitorio1/77
-#EXTINF:-1,MOVISTAR DEPORTE HD
-http://movspain.com:25461/vitorio1/vitorio1/487
-#EXTINF:-1,MOVISTAR DEPORTE FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/1177
-#EXTINF:-1,MULTIDEPORTE
-http://movspain.com:25461/vitorio1/vitorio1/2911
-#EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/14721
-#EXTINF:-1,MOVISTAR DEPORTE 1
-http://movspain.com:25461/vitorio1/vitorio1/262
-#EXTINF:-1,MOVISTAR DEPORTE 2
-http://movspain.com:25461/vitorio1/vitorio1/263
-#EXTINF:-1,MOVISTAR DEPORTE 3
-http://movspain.com:25461/vitorio1/vitorio1/264
-#EXTINF:-1,MOVISTAR DEPORTE 4
-http://movspain.com:25461/vitorio1/vitorio1/265
-#EXTINF:-1,MOVISTAR DEPORTE 5
-http://movspain.com:25461/vitorio1/vitorio1/266
-#EXTINF:-1,MOVISTAR DEPORTE 6
-http://movspain.com:25461/vitorio1/vitorio1/18822
-#EXTINF:-1,MOVISTAR DEPORTE 7
-http://movspain.com:25461/vitorio1/vitorio1/14722
-#EXTINF:-1,MOVISTAR DEPORTE 8
-http://movspain.com:25461/vitorio1/vitorio1/14723
-#EXTINF:-1,EUROSPORT PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9112
-#EXTINF:-1,EUROSPORT
-http://movspain.com:25461/vitorio1/vitorio1/83
-#EXTINF:-1,EUROSPORT HD
-http://movspain.com:25461/vitorio1/vitorio1/9198
-#EXTINF:-1,EUROSPORT FULL HD
-http://movspain.com:25461/vitorio1/vitorio1/936
-#EXTINF:-1,EUROSPORT 2 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9071
-#EXTINF:-1,Eurosport  2
-http://movspain.com:25461/vitorio1/vitorio1/47
-#EXTINF:-1,MOVISTAR FORMULA 1 PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9073
-#EXTINF:-1,MOVISTAR  F1
-http://movspain.com:25461/vitorio1/vitorio1/53
-#EXTINF:-1,MOVISTAR F1 HD
-http://movspain.com:25461/vitorio1/vitorio1/1050
-#EXTINF:-1,MOVISTAR F1 FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/630
-#EXTINF:-1,ES:MOVISTAR GOLF PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9092
-#EXTINF:-1,MOVISTAR  GOLF
-http://movspain.com:25461/vitorio1/vitorio1/16
-#EXTINF:-1,MOVISTAR GOLF HD
-http://movspain.com:25461/vitorio1/vitorio1/9200
+http://ictv19.xyz:8000/aaron08/aaron08/23165
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23185
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL SD
+http://ictv19.xyz:8000/aaron08/aaron08/23184
+#EXTINF:-1,MOVISTAR DEPORTE FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23172
+#EXTINF:-1,MOVISTAR DEPORTE SD
+http://ictv19.xyz:8000/aaron08/aaron08/23171
+#EXTINF:-1,MOVISTAR DRAMA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23182
+#EXTINF:-1,MOVISTAR DRAMA SD
+http://ictv19.xyz:8000/aaron08/aaron08/23158
+#EXTINF:-1,MOVISTAR DRAMA SD
+http://ictv19.xyz:8000/aaron08/aaron08/23181
 #EXTINF:-1,MOVISTAR GOLF FHD
-http://movspain.com:25461/vitorio1/vitorio1/1176
-#EXTINF:-1,BARCATV PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9038
-#EXTINF:-1,BARCA TV
-http://movspain.com:25461/vitorio1/vitorio1/25
-#EXTINF:-1,ES:REAL MADRID TV
-http://movspain.com:25461/vitorio1/vitorio1/545
-#EXTINF:-1,GOLTV PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9089
-#EXTINF:-1,GOL TV
-http://movspain.com:25461/vitorio1/vitorio1/76
-#EXTINF:-1,GOL TV FHD
-http://movspain.com:25461/vitorio1/vitorio1/18106
-#EXTINF:-1,TELEDEPORTE PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9097
-#EXTINF:-1,TELEDEPORTE
-http://movspain.com:25461/vitorio1/vitorio1/451
-#EXTINF:-1,TELEDEPORTE FULL HD
-http://movspain.com:25461/vitorio1/vitorio1/7878
-#EXTINF:-1,MOVISTAR TORO PARA MOVILES
-http://movspain.com:25461/vitorio1/vitorio1/9046
-#EXTINF:-1,MOVISTAR  TOROS
-http://movspain.com:25461/vitorio1/vitorio1/35
-#EXTINF:-1,MOVISTAR TOROS HD
-http://movspain.com:25461/vitorio1/vitorio1/9199
-#EXTINF:-1,MOVISTAR TOROS FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/582
-#EXTINF:-1,ESPORT 3
-http://movspain.com:25461/vitorio1/vitorio1/7879
-#EXTINF:-1,TV 13
-http://movspain.com:25461/vitorio1/vitorio1/2771
-#EXTINF:-1,HIT TV
-http://movspain.com:25461/vitorio1/vitorio1/7882
-#EXTINF:-1,8Tv
-http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8
-#EXTINF:-1,ANDALUCIA TV
-http://movspain.com:25461/vitorio1/vitorio1/1041
-#EXTINF:-1,ARAGON TV
-http://movspain.com:25461/vitorio1/vitorio1/1045
-#EXTINF:-1,SOL Music
-http://movspain.com:25461/vitorio1/vitorio1/1193
-#EXTINF:-1,MEZZO LIVE
-http://movspain.com:25461/vitorio1/vitorio1/1111
-#EXTINF:-1,MEZZO LIVE FULL HD
-http://movspain.com:25461/vitorio1/vitorio1/5497
-#EXTINF:-1,***** AUTONÓMICOS *****
-http://movspain.com:25461/vitorio1/vitorio1/9188
-#EXTINF:-1,13 TV
-http://movspain.com:25461/vitorio1/vitorio1/7870
-#EXTINF:-1,7RM FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/7877
-#EXTINF:-1,CANAL SUR
-http://movspain.com:25461/vitorio1/vitorio1/9702
-#EXTINF:-1,CANAL SUR FHD
-http://movspain.com:25461/vitorio1/vitorio1/7869
-#EXTINF:-1,CMM FULLHD
-http://movspain.com:25461/vitorio1/vitorio1/7871
-#EXTINF:-1,ETB 1
-http://movspain.com:25461/vitorio1/vitorio1/7867
-#EXTINF:-1,EXTREMADURA TV
-http://movspain.com:25461/vitorio1/vitorio1/7881
-#EXTINF:-1,LA OTRA
-http://movspain.com:25461/vitorio1/vitorio1/7868
-#EXTINF:-1,INTERECONOMIA
-http://movspain.com:25461/vitorio1/vitorio1/7872
-#EXTINF:-1,TELEMADRID FHD
-http://movspain.com:25461/vitorio1/vitorio1/7866
-#EXTINF:-1,CANAL ORBE21
-http://movspain.com:25461/vitorio1/vitorio1/1311
-#EXTINF:-1,FOX NEWS
-http://movspain.com:25461/vitorio1/vitorio1/8246
-#EXTINF:-1,324
-http://movspain.com:25461/vitorio1/vitorio1/13492
-#EXTINF:-1,324 Exclusiu
-https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8
-#EXTINF:-1,TV3
-http://movspain.com:25461/vitorio1/vitorio1/13491
-#EXTINF:-1,TV3 Càmeres
-http://movspain.com:25461/vitorio1/vitorio1/13495
-#EXTINF:-1,33
-http://movspain.com:25461/vitorio1/vitorio1/13496
-#EXTINF:-1,Lebrija TV
-http://movspain.com:25461/vitorio1/vitorio1/13478
-#EXTINF:-1,Teleonuba
-http://movspain.com:25461/vitorio1/vitorio1/13479
-#EXTINF:-1,InterAlmería TV
-http://movspain.com:25461/vitorio1/vitorio1/13481
-#EXTINF:-1,PTV Málaga
-http://movspain.com:25461/vitorio1/vitorio1/13482
-#EXTINF:-1,Cadena Elite
-http://movspain.com:25461/vitorio1/vitorio1/13485
-#EXTINF:-1,Condavisión
-http://movspain.com:25461/vitorio1/vitorio1/13487
-#EXTINF:-1,Alternativa TV
-http://movspain.com:25461/vitorio1/vitorio1/13488
-#EXTINF:-1,Bon Dia TV
-http://movspain.com:25461/vitorio1/vitorio1/13493
-#EXTINF:-1,CLASSICA
-http://movspain.com:25461/vitorio1/vitorio1/8245
+http://ictv19.xyz:8000/aaron08/aaron08/688
+#EXTINF:-1,MOVISTAR GOLF SD
+http://ictv19.xyz:8000/aaron08/aaron08/9366
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+http://ictv19.xyz:8000/aaron08/aaron08/5999
+#EXTINF:-1,MOVISTAR LA LIGA SD
+http://ictv19.xyz:8000/aaron08/aaron08/3752
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23169
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES SD
+http://ictv19.xyz:8000/aaron08/aaron08/23170
+#EXTINF:-1,MOVISTAR SERIES SD
+http://ictv19.xyz:8000/aaron08/aaron08/1524
+#EXTINF:-1,MOVISTAR SERIESF HD
+http://ictv19.xyz:8000/aaron08/aaron08/244
+#EXTINF:-1,MOVISTAR TOROS FHD
+http://ictv19.xyz:8000/aaron08/aaron08/812
+#EXTINF:-1,MOVISTAR TOROS SD
+http://ictv19.xyz:8000/aaron08/aaron08/366
+#EXTINF:-1,MOVISTAR VAMOS FHD
+http://ictv19.xyz:8000/aaron08/aaron08/23167
+#EXTINF:-1,MOVISTAR VAMOS SD
+http://ictv19.xyz:8000/aaron08/aaron08/23166
+#EXTINF:-1,TELEDEPORTE FHD
+http://ictv19.xyz:8000/aaron08/aaron08/286
+#EXTINF:-1,TELEDEPORTES SD
+http://ictv19.xyz:8000/aaron08/aaron08/23176
+#EXTINF:-1,ESPAÑA - TAQUILLA 2 HD 
+http://ictv19.xyz:8000/aaron08/aaron08/23189
+#EXTINF:-1,UFC FIGHT HD
+http://ictv19.xyz:8000/aaron08/aaron08/22150
+#EXTINF:-1,Madonna Rebel Heart Tour (2016)
+http://ictv19.xyz:8000/movie/aaron08/aaron08/9899.mkv
