@@ -1,363 +1,477 @@
 #EXTM3U
-#EXTINF:-1,------▼|ES|-CHAINES.ESPAGNOLE-|ES|▼------
-http://king365-tv.com:2103/10786/10786/368
-#EXTINF:-1,|ES|TVE_LA_1_HD
-http://king365-tv.com:2103/10786/10786/433
-#EXTINF:-1,|ES|LA_1_FHD
-http://king365-tv.com:2103/10786/10786/2152
-#EXTINF:-1,|ES|TVE_LA_2_HD
-http://king365-tv.com:2103/10786/10786/435
-#EXTINF:-1,|ES|ANTENNA_3 HD
-http://king365-tv.com:2103/10786/10786/617
-#EXTINF:-1,|ES|ANTENNA_3_FHD
-http://king365-tv.com:2103/10786/10786/2150
-#EXTINF:-1,|ES|CUATRO_HD
-http://king365-tv.com:2103/10786/10786/581
-#EXTINF:-1,|ES|CUATRO_FHD
-http://king365-tv.com:2103/10786/10786/2151
-#EXTINF:-1,|ES|TELECINCO_HD
-http://king365-tv.com:2103/10786/10786/434
-#EXTINF:-1,|ES|TELECINCO_FHD
-http://king365-tv.com:2103/10786/10786/2149
-#EXTINF:-1,|ES|LA_SEXTA_HD
-http://king365-tv.com:2103/10786/10786/432
-#EXTINF:-1,|ES|LA_SEXTA_FHD
-http://king365-tv.com:2103/10786/10786/2148
-#EXTINF:-1,|ES|24_HORAS
-http://king365-tv.com:2103/10786/10786/2123
-#EXTINF:-1,|ES| TVEi
-http://king365-tv.com:2103/10786/10786/1901
-#EXTINF:-1,|ES|TELENOVELAS_HD
-http://king365-tv.com:2103/10786/10786/2121
-#EXTINF:-1,|ES|13_TV
-http://king365-tv.com:2103/10786/10786/6056
-#EXTINF:-1,|ES|ARAGON_TV
-http://king365-tv.com:2103/10786/10786/6055
-#EXTINF:-1,|ES|CARACOL
-http://king365-tv.com:2103/10786/10786/3145
-#EXTINF:-1,|ES|NEOX
-http://king365-tv.com:2103/10786/10786/625
-#EXTINF:-1,|ES|DIVINITY
-http://king365-tv.com:2103/10786/10786/965
-#EXTINF:-1,|ES|ENERGY
-http://king365-tv.com:2103/10786/10786/846
-#EXTINF:-1,|ES|FACTORIA_DE_FICCION
-http://king365-tv.com:2103/10786/10786/847
-#EXTINF:-1,|ES|NOVA_HD
-http://king365-tv.com:2103/10786/10786/722
-#EXTINF:-1,|ES|TV_GALICIA
-http://king365-tv.com:2103/10786/10786/618
-#EXTINF:-1,|ES|CANAL_SUR_ANDALUCIA
-http://king365-tv.com:2103/10786/10786/715
-#EXTINF:-1,|ES|PARAMOUNT_CHANNEL
-http://king365-tv.com:2103/10786/10786/634
-#EXTINF:-1,|ES|BE_MAD
-http://king365-tv.com:2103/10786/10786/7007
-#EXTINF:-1,|ES|ANDORRA
-http://king365-tv.com:2103/10786/10786/7010
-#EXTINF:-1,|ES|BLAZE
-http://king365-tv.com:2103/10786/10786/7008
-#EXTINF:-1,|ES|BOM
-http://king365-tv.com:2103/10786/10786/7006
-#EXTINF:-1,|ES|CANAL ORBI 21
-http://king365-tv.com:2103/10786/10786/7005
-#EXTINF:-1,|ES|CLASICO TV
-http://king365-tv.com:2103/10786/10786/7002
-#EXTINF:-1,|ES|COLOMBIA_CANAL_CAPITAL_HD_PRUEVA
-http://king365-tv.com:2103/10786/10786/7000
-#EXTINF:-1,|ES|COLOMBIA_TELEENVIGADO_PRUEVA
-http://king365-tv.com:2103/10786/10786/6998
-#EXTINF:-1,|ES|7RM_FHD
-http://king365-tv.com:2103/10786/10786/7011
-#EXTINF:-1,|ES|CASTILLA LAMANCHA
-http://king365-tv.com:2103/10786/10786/7004
-#EXTINF:-1,|ES|CLAN TV
-http://king365-tv.com:2103/10786/10786/7003
-#EXTINF:-1,|ES|DKISS
-http://king365-tv.com:2103/10786/10786/6996
-#EXTINF:-1,|ES|DMAX
-http://king365-tv.com:2103/10786/10786/6995
-#EXTINF:-1,|ES|ETB
-http://king365-tv.com:2103/10786/10786/6994
-#EXTINF:-1,|ES|MURCIA
-http://king365-tv.com:2103/10786/10786/6992
-#EXTINF:-1,|ES|POPULAR TV
-http://king365-tv.com:2103/10786/10786/6991
-#EXTINF:-1,|ES|RITMOSON
-http://king365-tv.com:2103/10786/10786/6990
-#EXTINF:-1,|ES|RTVCE
-http://king365-tv.com:2103/10786/10786/6989
-#EXTINF:-1,|ES|SOL
-http://king365-tv.com:2103/10786/10786/6987
-#EXTINF:-1,|ES|SOMOS
-http://king365-tv.com:2103/10786/10786/6986
-#EXTINF:-1,|ES|TELE_ASTURIAS
-http://king365-tv.com:2103/10786/10786/6985
-#EXTINF:-1,|ES|TELE_NOVELAS
-http://king365-tv.com:2103/10786/10786/6984
-#EXTINF:-1,|ES|TELEHIT
-http://king365-tv.com:2103/10786/10786/6983
-#EXTINF:-1,|ES|TEN
-http://king365-tv.com:2103/10786/10786/6981
-#EXTINF:-1,|ES|TRECE
-http://king365-tv.com:2103/10786/10786/6980
-#EXTINF:-1,|ES|TVM
-http://king365-tv.com:2103/10786/10786/6979
-#EXTINF:-1,|ES|XTRM
-http://king365-tv.com:2103/10786/10786/6977
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄  CINE ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/3714
-#EXTINF:-1,|ES|AXN_HD
-http://king365-tv.com:2103/10786/10786/631
-#EXTINF:-1,|ES|AXN_FHD
-http://king365-tv.com:2103/10786/10786/2263
-#EXTINF:-1,|ES|AXN_WHITE_HD
-http://king365-tv.com:2103/10786/10786/632
-#EXTINF:-1,|ES|AXN_WHITE_FHD
-http://king365-tv.com:2103/10786/10786/2264
-#EXTINF:-1,|ES|FOX_HD
-http://king365-tv.com:2103/10786/10786/630
-#EXTINF:-1,|ES|FOX_FHD
-http://king365-tv.com:2103/10786/10786/2265
-#EXTINF:-1,|ES|FOX_LIFE_HD
-http://king365-tv.com:2103/10786/10786/629
-#EXTINF:-1,|ES|AMC_HD
-http://king365-tv.com:2103/10786/10786/810
-#EXTINF:-1,|ES|COSMO_HD
-http://king365-tv.com:2103/10786/10786/809
-#EXTINF:-1,|ES|COSMO_FHD
-http://king365-tv.com:2103/10786/10786/2205
-#EXTINF:-1,|ES|CALLE_13_HD
-http://king365-tv.com:2103/10786/10786/713
-#EXTINF:-1,|ES|SYFY_FHD
-http://king365-tv.com:2103/10786/10786/716
-#EXTINF:-1,|ES|#0_HD
-http://king365-tv.com:2103/10786/10786/662
-#EXTINF:-1,|ES|#0_FHD
-http://king365-tv.com:2103/10786/10786/7012
-#EXTINF:-1,|ES|MOVISTAR_COMEDIA_HD
-http://king365-tv.com:2103/10786/10786/628
-#EXTINF:-1,|ES|MOVISTAR_COMEDIA_FHD
-http://king365-tv.com:2103/10786/10786/2238
-#EXTINF:-1,|ES|MOVISTAR_CINE_Ñ
-http://king365-tv.com:2103/10786/10786/831
-#EXTINF:-1,|ES|MOVISTAR_DRAMA_HD
-http://king365-tv.com:2103/10786/10786/821
-#EXTINF:-1,|ES|MOVISTAR_DRAMA_FHD
-http://king365-tv.com:2103/10786/10786/2113
-#EXTINF:-1,|ES|MOVISTAR_SERIES_HD
-http://king365-tv.com:2103/10786/10786/807
-#EXTINF:-1,|ES|MOVISTAR_SERIES_FHD
-http://king365-tv.com:2103/10786/10786/2114
-#EXTINF:-1,|ES|MOVISTAR_CINEDOC&ROLL_HD
-http://king365-tv.com:2103/10786/10786/637
-#EXTINF:-1,|ES|MOVISTAR_CINEDOC&ROLL_FHD
-http://king365-tv.com:2103/10786/10786/2239
-#EXTINF:-1,|ES|MOVISTAR_SERIES_MANIA_HD
-http://king365-tv.com:2103/10786/10786/636
-#EXTINF:-1,|ES|MOVISTAR_ACCION_HD
-http://king365-tv.com:2103/10786/10786/364
-#EXTINF:-1,|ES|MOVISTAR_ACCION_FHD
-http://king365-tv.com:2103/10786/10786/2267
-#EXTINF:-1,|ES|MOVISTAR_ESTRENOS_HD
-http://king365-tv.com:2103/10786/10786/703
-#EXTINF:-1,|ES|MOVISTAR_ESTRENOS_FHD
-http://king365-tv.com:2103/10786/10786/2085
-#EXTINF:-1,|ES|TAQUILLA_1 HD
-http://king365-tv.com:2103/10786/10786/32298
-#EXTINF:-1,|ES|TAQUILLA_2 HD
-http://king365-tv.com:2103/10786/10786/32297
-#EXTINF:-1,|ES|TAQUILLA_3 HD
-http://king365-tv.com:2103/10786/10786/32295
-#EXTINF:-1,|ES|TAQUILLA_4 HD
-http://king365-tv.com:2103/10786/10786/32293
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄ ENTRETENIMIENTO ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/3718
-#EXTINF:-1,|ES|COMEDY_CENTRAL_HD
-http://king365-tv.com:2103/10786/10786/717
-#EXTINF:-1,|ES|COMEDY_CENTRAL_FHD
-http://king365-tv.com:2103/10786/10786/2204
-#EXTINF:-1,|ES|TCM_HD
-http://king365-tv.com:2103/10786/10786/702
-#EXTINF:-1,|ES|HOLLYWOOD_HD
-http://king365-tv.com:2103/10786/10786/635
-#EXTINF:-1,|ES|SUNDANCE_HD
-http://king365-tv.com:2103/10786/10786/852
-#EXTINF:-1,|ES|TNT_HD
-http://king365-tv.com:2103/10786/10786/714
-#EXTINF:-1,|ES|MEGA_HD
-http://king365-tv.com:2103/10786/10786/836
-#EXTINF:-1,|ES|A3SERIES_HD
-http://king365-tv.com:2103/10786/10786/964
-#EXTINF:-1,|ES|M_ESPORTS
-http://king365-tv.com:2103/10786/10786/6993
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄ DEPORTES ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/3716
-#EXTINF:-1,|ES|MOVISTAR_DEPORTES_1_HD
-http://king365-tv.com:2103/10786/10786/594
-#EXTINF:-1,|ES|MOVISTAR_DEPORTES_1_FHD
-http://king365-tv.com:2103/10786/10786/6054
-#EXTINF:-1,|ES|VAMOS_HD
-http://king365-tv.com:2103/10786/10786/593
-#EXTINF:-1,|ES|VAMOS_FHD
-http://king365-tv.com:2103/10786/10786/2266
-#EXTINF:-1,|ES|SPORT_3_CAT_HD
-http://king365-tv.com:2103/10786/10786/2120
-#EXTINF:-1,|ES|MOVISTAR_F1_HD
-http://king365-tv.com:2103/10786/10786/621
-#EXTINF:-1,|ES|MOVISTAR_F1_FHD
-http://king365-tv.com:2103/10786/10786/2574
-#EXTINF:-1,|ES|MOVISTAR _MOTOGP_HD
-http://king365-tv.com:2103/10786/10786/622
-#EXTINF:-1,|ES|MOVISTAR _MOTOGP_FHD
-http://king365-tv.com:2103/10786/10786/2575
-#EXTINF:-1,|ES|MOVISTAR+ LALIGA_1_HD
-http://king365-tv.com:2103/10786/10786/641
-#EXTINF:-1,|ES|MOVISTAR+ LALIGA_1_FHD
-http://king365-tv.com:2103/10786/10786/2115
-#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_SD
-http://king365-tv.com:2103/10786/10786/361
-#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_HD
-http://king365-tv.com:2103/10786/10786/14624
-#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_FHD
-http://king365-tv.com:2103/10786/10786/2083
-#EXTINF:-1,|ES|BeIN_LALIGA_SD
-http://king365-tv.com:2103/10786/10786/362
-#EXTINF:-1,|ES|MOVISTAR_LALIGA_HD
-http://king365-tv.com:2103/10786/10786/14973
-#EXTINF:-1,|ES|MOVISTAR_LALIGA_FHD
-http://king365-tv.com:2103/10786/10786/2082
-#EXTINF:-1,|ES|LALIGA_TV_BAR_FHD
-http://king365-tv.com:2103/10786/10786/2084
-#EXTINF:-1,|ES|BEIN_LA_LIGA_123_FHD
-http://king365-tv.com:2103/10786/10786/2155
-#EXTINF:-1,|ES|FOX_SPORT_1_LATINO
-http://king365-tv.com:2103/10786/10786/2110
-#EXTINF:-1,|ES|FOX_SPORT_2_LATINO
-http://king365-tv.com:2103/10786/10786/2111
-#EXTINF:-1,|ES|FOX_SPORT_3_LATINO
-http://king365-tv.com:2103/10786/10786/2112
-#EXTINF:-1,|ES|EUROSPORT_1_HD
-http://king365-tv.com:2103/10786/10786/640
-#EXTINF:-1,|ES|EUROSPORT_1_FHD
-http://king365-tv.com:2103/10786/10786/4346
-#EXTINF:-1,|ES|EUROSPORT_2_HD
-http://king365-tv.com:2103/10786/10786/695
-#EXTINF:-1,|ES|GOL_TV
-http://king365-tv.com:2103/10786/10786/858
-#EXTINF:-1,|ES|TELEDEPORTE_HD
-http://king365-tv.com:2103/10786/10786/863
-#EXTINF:-1,|ES|TELEDEPORTE_FHD
-http://king365-tv.com:2103/10786/10786/2122
-#EXTINF:-1,|ES|BARCA_TV
-http://king365-tv.com:2103/10786/10786/643
-#EXTINF:-1,|ES|REAL_MADRID_TV
-http://king365-tv.com:2103/10786/10786/620
-#EXTINF:-1,|ES|BETIS TV
-http://king365-tv.com:2103/10786/10786/7009
-#EXTINF:-1,|ES|M_GOLF_HD
-http://king365-tv.com:2103/10786/10786/660
-#EXTINF:-1,|ES|M_GOLF_FHD
-http://king365-tv.com:2103/10786/10786/2203
-#EXTINF:-1,|ES|CANAL+TOROS_HD
-http://king365-tv.com:2103/10786/10786/661
-#EXTINF:-1,|ES|CANAL+TOROS_FHD
-http://king365-tv.com:2103/10786/10786/6058
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄  SOLO PARTIDOS ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/4113
-#EXTINF:-1,|ES|M.PARTIDAZO_(Solo_partidos)_FHD
-http://king365-tv.com:2103/10786/10786/827
-#EXTINF:-1,|ES|BeIN_LALIGA_4K_UHD
-http://king365-tv.com:2103/10786/10786/7001
-#EXTINF:-1,|ES|M.PARTIDAZO_(Solo_partidos)_4K_UHD
-http://king365-tv.com:2103/10786/10786/15343
-#EXTINF:-1,|ES|MULTIDEPORTE_1
-http://king365-tv.com:2103/10786/10786/1620
-#EXTINF:-1,|ES|MULTIDEPORTE_2
-http://king365-tv.com:2103/10786/10786/1621
-#EXTINF:-1,|ES|MULTIDEPORTE_3
-http://king365-tv.com:2103/10786/10786/2811
-#EXTINF:-1,|ES|BEIN_MAX_1_(Solo partidos)
-http://king365-tv.com:2103/10786/10786/822
-#EXTINF:-1,|ES|BEIN_MAX_2_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/823
-#EXTINF:-1,|ES|BEIN_MAX_3_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/2229
-#EXTINF:-1,|ES|BEIN_MAX_4_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/2230
-#EXTINF:-1,|ES|MOVISTAR_LALIGA_FHD(Solo partidos)
-http://king365-tv.com:2103/10786/10786/6886
-#EXTINF:-1,|ES|LIGA_DE_CAMPEONES_1_FHD(Solo partidos)
-http://king365-tv.com:2103/10786/10786/6884
-#EXTINF:-1,|ES|LIGA_DE_CAMPEONES_2_FHD(Solo partidos)
-http://king365-tv.com:2103/10786/10786/6885
-#EXTINF:-1,|ES|MULTIFUT_1_HD_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/2282
-#EXTINF:-1,|ES|MULTIFUT_2_HD_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/2283
-#EXTINF:-1,|ES|MULTIFUT_3_HD_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/2284
-#EXTINF:-1,|ES|MULTIFUT_4_HD_(Solo_partidos)
-http://king365-tv.com:2103/10786/10786/2285
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄ DOCUMENTAL ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/3719
-#EXTINF:-1,|ES|IBERALIA_TV
-http://king365-tv.com:2103/10786/10786/723
-#EXTINF:-1,|ES|DISCOVERY_HD
-http://king365-tv.com:2103/10786/10786/642
-#EXTINF:-1,|ES|NAT_GEO_HD
-http://king365-tv.com:2103/10786/10786/597
-#EXTINF:-1,|ES|NAT_GEO_FHD
-http://king365-tv.com:2103/10786/10786/2154
-#EXTINF:-1,|ES|NAT_GEO_WILD_HD
-http://king365-tv.com:2103/10786/10786/820
-#EXTINF:-1,|ES|NAT_GEO_WILD_FHD
-http://king365-tv.com:2103/10786/10786/2153
-#EXTINF:-1,|ES|BLAZE_HD
-http://king365-tv.com:2103/10786/10786/811
-#EXTINF:-1,|ES|CRIMEN_e_INVESTIGACIóN
-http://king365-tv.com:2103/10786/10786/866
-#EXTINF:-1,|ES|ODISEA_HD
-http://king365-tv.com:2103/10786/10786/743
-#EXTINF:-1,|ES|CAZA_Y_PESCA_HD
-http://king365-tv.com:2103/10786/10786/626
-#EXTINF:-1,|ES|CAZA_Y_PESCA_FHD
-http://king365-tv.com:2103/10786/10786/2202
-#EXTINF:-1,|ES|CANAL_ESTRELLAS_HD
-http://king365-tv.com:2103/10786/10786/2281
-#EXTINF:-1,|ES|CANAL_COCINA_HD
-http://king365-tv.com:2103/10786/10786/742
-#EXTINF:-1,|ES|DECASA_HD
-http://king365-tv.com:2103/10786/10786/741
-#EXTINF:-1,|ES|VIAJAR_HD
-http://king365-tv.com:2103/10786/10786/739
-#EXTINF:-1,|ES|VIAJAR_FHD
-http://king365-tv.com:2103/10786/10786/2201
-#EXTINF:-1,|ES|HISTORIA_HD
-http://king365-tv.com:2103/10786/10786/712
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄  NIÑOS ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/3715
-#EXTINF:-1,|ES|MOVISTAR _DISNEY
-http://king365-tv.com:2103/10786/10786/6053
-#EXTINF:-1,|ES|BOING
-http://king365-tv.com:2103/10786/10786/719
-#EXTINF:-1,|ES|CANAL_PANDA_HD
-http://king365-tv.com:2103/10786/10786/718
-#EXTINF:-1,|ES|DISNEY_CHANNEL_HD
-http://king365-tv.com:2103/10786/10786/848
-#EXTINF:-1,|ES|DISNEY_XD_HD
-http://king365-tv.com:2103/10786/10786/720
-#EXTINF:-1,|ES|NICKELODEON_HD
-http://king365-tv.com:2103/10786/10786/828
-#EXTINF:-1,|ES|NICK_JUNIOR
-http://king365-tv.com:2103/10786/10786/853
-#EXTINF:-1,|ES|CLAN_TVE
-http://king365-tv.com:2103/10786/10786/721
-#EXTINF:-1,|ES|BABY_TV
-http://king365-tv.com:2103/10786/10786/623
-#EXTINF:-1,▀▄ ES ▀▄▀▄▀▄ MUSICA ▄▀▄▀▄▀
-http://king365-tv.com:2103/10786/10786/3717
-#EXTINF:-1,|ES|MTV_ESP
-http://king365-tv.com:2103/10786/10786/813
-#EXTINF:-1,|ES|VIRGIN TV
-http://king365-tv.com:2103/10786/10786/6978
+#EXTINF:-1,===== Spain =====
+http://client-best2019.club:8080/ben22/ben22/1197
+#EXTINF:-1,ES: LA 1 HD
+http://client-best2019.club:8080/ben22/ben22/3364
+#EXTINF:-1,ES: LA 2
+http://client-best2019.club:8080/ben22/ben22/622
+#EXTINF:-1,ES: ANTENA3 HD
+http://client-best2019.club:8080/ben22/ben22/3383
+#EXTINF:-1,ES: CUATRO FHD
+http://client-best2019.club:8080/ben22/ben22/3391
+#EXTINF:-1,ES: TELECINCO HD
+http://client-best2019.club:8080/ben22/ben22/3384
+#EXTINF:-1,ES: LA SEXTA FHD
+http://client-best2019.club:8080/ben22/ben22/3392
+#EXTINF:-1,ES: 7RM FHD
+http://client-best2019.club:8080/ben22/ben22/23076
+#EXTINF:-1,ES: 8TV Madrid
+http://client-best2019.club:8080/ben22/ben22/1090
+#EXTINF:-1,ES: # Vamos SD
+http://client-best2019.club:8080/ben22/ben22/34551
+#EXTINF:-1,ES: # Vamos
+http://client-best2019.club:8080/ben22/ben22/1085
+#EXTINF:-1,ES: # Vamos FHD
+http://client-best2019.club:8080/ben22/ben22/23061
+#EXTINF:-1,ES: # Vamos HD
+http://client-best2019.club:8080/ben22/ben22/3372
+#EXTINF:-1,ES: # Vamos BAR
+http://client-best2019.club:8080/ben22/ben22/34556
+#EXTINF:-1,ES: # Vamos BAR 1
+http://client-best2019.club:8080/ben22/ben22/34557
+#EXTINF:-1,ES: # Vamos BAR 2
+http://client-best2019.club:8080/ben22/ben22/34558
+#EXTINF:-1,ES: #0
+http://client-best2019.club:8080/ben22/ben22/635
+#EXTINF:-1,ES: #O HD
+http://client-best2019.club:8080/ben22/ben22/2401
+#EXTINF:-1,ES: #O HD FHD
+http://client-best2019.club:8080/ben22/ben22/23060
+#EXTINF:-1,ES: 24 HORAS
+http://client-best2019.club:8080/ben22/ben22/2630
+#EXTINF:-1,ES: 3/24
+http://client-best2019.club:8080/ben22/ben22/1441
+#EXTINF:-1,ES: 33
+http://client-best2019.club:8080/ben22/ben22/23077
+#EXTINF:-1,ES: A&E
+http://client-best2019.club:8080/ben22/ben22/2643
+#EXTINF:-1,ES: A3 Series
+http://client-best2019.club:8080/ben22/ben22/12630
+#EXTINF:-1,ES: A3Series HD
+http://client-best2019.club:8080/ben22/ben22/19208
+#EXTINF:-1,ES: AMC
+http://client-best2019.club:8080/ben22/ben22/2638
+#EXTINF:-1,ES: AMC FHD
+http://client-best2019.club:8080/ben22/ben22/23020
+#EXTINF:-1,ES: AMC HD
+http://client-best2019.club:8080/ben22/ben22/3371
+#EXTINF:-1,ES: Andalucia TV
+http://client-best2019.club:8080/ben22/ben22/1440
+#EXTINF:-1,ES: Antena3
+http://client-best2019.club:8080/ben22/ben22/1097
+#EXTINF:-1,ES: Aragon
+http://client-best2019.club:8080/ben22/ben22/8211
+#EXTINF:-1,ES: AXN FHD
+http://client-best2019.club:8080/ben22/ben22/23059
+#EXTINF:-1,ES: AXN HD
+http://client-best2019.club:8080/ben22/ben22/3385
+#EXTINF:-1,ES: Axn Spain
+http://client-best2019.club:8080/ben22/ben22/641
+#EXTINF:-1,ES: AXN White FHD
+http://client-best2019.club:8080/ben22/ben22/23058
+#EXTINF:-1,ES: AXN WHITE HD
+http://client-best2019.club:8080/ben22/ben22/3366
+#EXTINF:-1,ES: Axn White Spain
+http://client-best2019.club:8080/ben22/ben22/640
+#EXTINF:-1,ES: Baby TV
+http://client-best2019.club:8080/ben22/ben22/23074
+#EXTINF:-1,ES: Barca tv
+http://client-best2019.club:8080/ben22/ben22/639
+#EXTINF:-1,ES: Be MAD TV HD
+http://client-best2019.club:8080/ben22/ben22/19209
+#EXTINF:-1,ES: M. LaLiga FHD
+http://client-best2019.club:8080/ben22/ben22/23057
+#EXTINF:-1,ES: M. LaLiga HD
+http://client-best2019.club:8080/ben22/ben22/19207
+#EXTINF:-1,ES: M. LaLiga
+http://client-best2019.club:8080/ben22/ben22/2409
+#EXTINF:-1,ES: M. LaLiga SD
+http://client-best2019.club:8080/ben22/ben22/33150
+#EXTINF:-1,ES: M. LaLIga 1 (event only)
+http://client-best2019.club:8080/ben22/ben22/7181
+#EXTINF:-1,ES: M. LaLiga 1FHD (event only)
+http://client-best2019.club:8080/ben22/ben22/23105
+#EXTINF:-1,ES: M. LaLIga 2 (event only)
+http://client-best2019.club:8080/ben22/ben22/7182
+#EXTINF:-1,ES: M. LaLiga 2FHD (event only)
+http://client-best2019.club:8080/ben22/ben22/23104
+#EXTINF:-1,ES: M. LaLIga 3 (event only)
+http://client-best2019.club:8080/ben22/ben22/7183
+#EXTINF:-1,ES: M. LaLIga 3FHD (event only)
+http://client-best2019.club:8080/ben22/ben22/34550
+#EXTINF:-1,ES: M. LaLIga 4 (event only)
+http://client-best2019.club:8080/ben22/ben22/23103
+#EXTINF:-1,ES: M. LaLIga 5 (event only)
+http://client-best2019.club:8080/ben22/ben22/23102
+#EXTINF:-1,ES: M. LaLIga 6 (event only)
+http://client-best2019.club:8080/ben22/ben22/23101
+#EXTINF:-1,ES: M. LaLIga 7 (event only)
+http://client-best2019.club:8080/ben22/ben22/23100
+#EXTINF:-1,ES: M. LaLIga 8 (event only)
+http://client-best2019.club:8080/ben22/ben22/23099
+#EXTINF:-1,ES: BLAZE
+http://client-best2019.club:8080/ben22/ben22/23075
+#EXTINF:-1,ES: Boing
+http://client-best2019.club:8080/ben22/ben22/2211
+#EXTINF:-1,ES: Bom Cine HD
+http://client-best2019.club:8080/ben22/ben22/23073
+#EXTINF:-1,ES: C&I
+http://client-best2019.club:8080/ben22/ben22/8209
+#EXTINF:-1,ES: Cadena Elite
+http://client-best2019.club:8080/ben22/ben22/23072
+#EXTINF:-1,ES: Calle 13
+http://client-best2019.club:8080/ben22/ben22/1096
+#EXTINF:-1,ES: CALLE 13 FHD
+http://client-best2019.club:8080/ben22/ben22/23056
+#EXTINF:-1,ES: CALLE 13 HD
+http://client-best2019.club:8080/ben22/ben22/3368
+#EXTINF:-1,ES: Canal Coccina
+http://client-best2019.club:8080/ben22/ben22/1103
+#EXTINF:-1,ES: Canal Decasa
+http://client-best2019.club:8080/ben22/ben22/2632
+#EXTINF:-1,ES: Canal Sur FHD
+http://client-best2019.club:8080/ben22/ben22/23070
+#EXTINF:-1,ES: Caza y pesca
+http://client-best2019.club:8080/ben22/ben22/1102
+#EXTINF:-1,ES: CAZA Y PESCA FHD
+http://client-best2019.club:8080/ben22/ben22/23055
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://client-best2019.club:8080/ben22/ben22/8206
+#EXTINF:-1,ES: Clan Tve
+http://client-best2019.club:8080/ben22/ben22/1100
+#EXTINF:-1,ES: Classica
+http://client-best2019.club:8080/ben22/ben22/2637
+#EXTINF:-1,ES: CMM TV
+http://client-best2019.club:8080/ben22/ben22/23069
+#EXTINF:-1,ES: Comedy Central
+http://client-best2019.club:8080/ben22/ben22/2633
+#EXTINF:-1,ES: COMEDY CENTRAL FHD
+http://client-best2019.club:8080/ben22/ben22/23054
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://client-best2019.club:8080/ben22/ben22/3386
+#EXTINF:-1,ES: COSMO FHD
+http://client-best2019.club:8080/ben22/ben22/23053
+#EXTINF:-1,ES: COSMO HD
+http://client-best2019.club:8080/ben22/ben22/3387
+#EXTINF:-1,ES: Cuatro hd
+http://client-best2019.club:8080/ben22/ben22/627
+#EXTINF:-1,ES: Dcine
+http://client-best2019.club:8080/ben22/ben22/634
+#EXTINF:-1,ES: DISCOVERY CHANNEL FHD
+http://client-best2019.club:8080/ben22/ben22/23052
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://client-best2019.club:8080/ben22/ben22/3376
+#EXTINF:-1,ES: DISNEY CHANNEL FHD
+http://client-best2019.club:8080/ben22/ben22/23051
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://client-best2019.club:8080/ben22/ben22/3382
+#EXTINF:-1,ES: Disney Channel Spain
+http://client-best2019.club:8080/ben22/ben22/633
+#EXTINF:-1,ES: Disney Junior
+http://client-best2019.club:8080/ben22/ben22/12631
+#EXTINF:-1,ES: Disney XD
+http://client-best2019.club:8080/ben22/ben22/12632
+#EXTINF:-1,ES: DIVINITY
+http://client-best2019.club:8080/ben22/ben22/2218
+#EXTINF:-1,ES: DKiss
+http://client-best2019.club:8080/ben22/ben22/12633
+#EXTINF:-1,ES: Dmax
+http://client-best2019.club:8080/ben22/ben22/2641
+#EXTINF:-1,ES: DW
+http://client-best2019.club:8080/ben22/ben22/12634
+#EXTINF:-1,ES: Energy
+http://client-best2019.club:8080/ben22/ben22/1099
+#EXTINF:-1,ES: EUROSPORT 1FHD
+http://client-best2019.club:8080/ben22/ben22/23050
+#EXTINF:-1,ES: EUROSPORT 1HD
+http://client-best2019.club:8080/ben22/ben22/8204
+#EXTINF:-1,ES: EUROSPORT 2
+http://client-best2019.club:8080/ben22/ben22/8208
+#EXTINF:-1,ES: EUROSPORT 2FHD
+http://client-best2019.club:8080/ben22/ben22/23049
+#EXTINF:-1,ES: ExtraMadura TV
+http://client-best2019.club:8080/ben22/ben22/23067
+#EXTINF:-1,ES: FDF
+http://client-best2019.club:8080/ben22/ben22/1098
+#EXTINF:-1,ES: Fox
+http://client-best2019.club:8080/ben22/ben22/631
+#EXTINF:-1,ES: FOX FHD
+http://client-best2019.club:8080/ben22/ben22/23048
+#EXTINF:-1,ES: FOX HD
+http://client-best2019.club:8080/ben22/ben22/3367
+#EXTINF:-1,ES: FOX LIFE FHD
+http://client-best2019.club:8080/ben22/ben22/23047
+#EXTINF:-1,ES: FOX LIFE HD
+http://client-best2019.club:8080/ben22/ben22/6815
+#EXTINF:-1,ES: FOX News
+http://client-best2019.club:8080/ben22/ben22/23068
+#EXTINF:-1,ES: GOL T
+http://client-best2019.club:8080/ben22/ben22/1084
+#EXTINF:-1,ES: Historia
+http://client-best2019.club:8080/ben22/ben22/630
+#EXTINF:-1,ES: Historia FHD
+http://client-best2019.club:8080/ben22/ben22/23023
+#EXTINF:-1,ES: HIT TV
+http://client-best2019.club:8080/ben22/ben22/23066
+#EXTINF:-1,ES: Hollywood
+http://client-best2019.club:8080/ben22/ben22/629
+#EXTINF:-1,ES: HOLLYWOOD FHD
+http://client-best2019.club:8080/ben22/ben22/23046
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://client-best2019.club:8080/ben22/ben22/3369
+#EXTINF:-1,ES: Iberlia TV
+http://client-best2019.club:8080/ben22/ben22/2629
+#EXTINF:-1,ES: LA 1
+http://client-best2019.club:8080/ben22/ben22/623
+#EXTINF:-1,ES: La 2 SD
+http://client-best2019.club:8080/ben22/ben22/23025
+#EXTINF:-1,ES: La Liga BAR SD
+http://client-best2019.club:8080/ben22/ben22/34552
+#EXTINF:-1,ES: La Liga BAR FHD
+http://client-best2019.club:8080/ben22/ben22/23045
+#EXTINF:-1,ES: La Liga BAR HD
+http://client-best2019.club:8080/ben22/ben22/7180
+#EXTINF:-1,ES: La Liga BAR M1
+http://client-best2019.club:8080/ben22/ben22/23065
+#EXTINF:-1,ES: La Liga BAR M2
+http://client-best2019.club:8080/ben22/ben22/34553
+#EXTINF:-1,ES: La Liga BAR M3
+http://client-best2019.club:8080/ben22/ben22/34554
+#EXTINF:-1,ES: La Liga BAR M4
+http://client-best2019.club:8080/ben22/ben22/34555
+#EXTINF:-1,ES: INTERECONOMIA
+http://client-best2019.club:8080/ben22/ben22/12637
+#EXTINF:-1,ES: La Sexta hd
+http://client-best2019.club:8080/ben22/ben22/628
+#EXTINF:-1,ES: Melilla TV
+http://client-best2019.club:8080/ben22/ben22/12636
+#EXTINF:-1,ES: Levante TV
+http://client-best2019.club:8080/ben22/ben22/2640
+#EXTINF:-1,ES: M. Accion
+http://client-best2019.club:8080/ben22/ben22/638
+#EXTINF:-1,ES: M. Accion FHD
+http://client-best2019.club:8080/ben22/ben22/23042
+#EXTINF:-1,ES: M. Accion HD
+http://client-best2019.club:8080/ben22/ben22/2402
+#EXTINF:-1,ES: M. Drama
+http://client-best2019.club:8080/ben22/ben22/17207
+#EXTINF:-1,ES: M. Comedia
+http://client-best2019.club:8080/ben22/ben22/637
+#EXTINF:-1,ES: M. Comedia FHD
+http://client-best2019.club:8080/ben22/ben22/23043
+#EXTINF:-1,ES: M. Comedia HD
+http://client-best2019.club:8080/ben22/ben22/2403
+#EXTINF:-1,ES: M. Deportes FHD
+http://client-best2019.club:8080/ben22/ben22/23041
+#EXTINF:-1,ES: M. Deportes HD
+http://client-best2019.club:8080/ben22/ben22/2407
+#EXTINF:-1,ES: M. Deportes
+http://client-best2019.club:8080/ben22/ben22/636
+#EXTINF:-1,ES: M. Deportes 1
+http://client-best2019.club:8080/ben22/ben22/23094
+#EXTINF:-1,ES: M. Deportes 1 FHD
+http://client-best2019.club:8080/ben22/ben22/23032
+#EXTINF:-1,ES: M. Deportes 2
+http://client-best2019.club:8080/ben22/ben22/23093
+#EXTINF:-1,ES: M. Deportes 3
+http://client-best2019.club:8080/ben22/ben22/23092
+#EXTINF:-1,ES: M. Deportes 4
+http://client-best2019.club:8080/ben22/ben22/23091
+#EXTINF:-1,ES: M. Deportes 5
+http://client-best2019.club:8080/ben22/ben22/23090
+#EXTINF:-1,ES: M. Deportes 6
+http://client-best2019.club:8080/ben22/ben22/23089
+#EXTINF:-1,ES: M. Deportes 7
+http://client-best2019.club:8080/ben22/ben22/23088
+#EXTINF:-1,ES: M. DISNEY
+http://client-best2019.club:8080/ben22/ben22/23031
+#EXTINF:-1,ES: M. Doc&Roll
+http://client-best2019.club:8080/ben22/ben22/1091
+#EXTINF:-1,ES: M. Doc&Roll FHD
+http://client-best2019.club:8080/ben22/ben22/23040
+#EXTINF:-1,ES: M. Doc&Roll HD
+http://client-best2019.club:8080/ben22/ben22/3388
+#EXTINF:-1,ES: M. Drama FHD
+http://client-best2019.club:8080/ben22/ben22/23039
+#EXTINF:-1,ES: M. Drama HD
+http://client-best2019.club:8080/ben22/ben22/2404
+#EXTINF:-1,ES: M. Estrenos
+http://client-best2019.club:8080/ben22/ben22/1094
+#EXTINF:-1,ES: M. Estrenos FHD
+http://client-best2019.club:8080/ben22/ben22/23038
+#EXTINF:-1,ES: M. Estrenos HD
+http://client-best2019.club:8080/ben22/ben22/2405
+#EXTINF:-1,ES: M. Formula 1
+http://client-best2019.club:8080/ben22/ben22/1087
+#EXTINF:-1,ES: M. Formula 1 FHD
+http://client-best2019.club:8080/ben22/ben22/23037
+#EXTINF:-1,ES: M. Formula 1 HD
+http://client-best2019.club:8080/ben22/ben22/2570
+#EXTINF:-1,ES: M. Futbol HD
+http://client-best2019.club:8080/ben22/ben22/2408
+#EXTINF:-1,ES: M. Golf
+http://client-best2019.club:8080/ben22/ben22/1086
+#EXTINF:-1,ES: M. Golf FHD
+http://client-best2019.club:8080/ben22/ben22/23036
+#EXTINF:-1,ES: M. Liga De Campeones FHD
+http://client-best2019.club:8080/ben22/ben22/23035
+#EXTINF:-1,ES: M. Liga De Campeones HD
+http://client-best2019.club:8080/ben22/ben22/19206
+#EXTINF:-1,ES: M. Liga De Campeones
+http://client-best2019.club:8080/ben22/ben22/6491
+#EXTINF:-1,ES: M. Liga De Campeones 1 HD
+http://client-best2019.club:8080/ben22/ben22/19205
+#EXTINF:-1,ES: M. Liga De Campeones 2
+http://client-best2019.club:8080/ben22/ben22/19204
+#EXTINF:-1,ES: M. Liga De Campeones 3
+http://client-best2019.club:8080/ben22/ben22/19203
+#EXTINF:-1,ES: M. Liga De Campeones 4
+http://client-best2019.club:8080/ben22/ben22/19202
+#EXTINF:-1,ES: M. Liga De Campeones 5
+http://client-best2019.club:8080/ben22/ben22/19201
+#EXTINF:-1,ES: M. Liga De Campeones 6
+http://client-best2019.club:8080/ben22/ben22/23098
+#EXTINF:-1,ES: M. Liga De Campeones 7
+http://client-best2019.club:8080/ben22/ben22/19200
+#EXTINF:-1,ES: M. Liga De Campeones 8
+http://client-best2019.club:8080/ben22/ben22/19199
+#EXTINF:-1,ES: M. Series
+http://client-best2019.club:8080/ben22/ben22/1093
+#EXTINF:-1,ES: M. Series FHD
+http://client-best2019.club:8080/ben22/ben22/23034
+#EXTINF:-1,ES: M. Series HD
+http://client-best2019.club:8080/ben22/ben22/2406
+#EXTINF:-1,ES: M. Series Mania FHD
+http://client-best2019.club:8080/ben22/ben22/23033
+#EXTINF:-1,ES: M. Series Mania HD
+http://client-best2019.club:8080/ben22/ben22/3365
+#EXTINF:-1,ES: M. SeriesMania
+http://client-best2019.club:8080/ben22/ben22/1095
+#EXTINF:-1,ES: M.Golf  HD
+http://client-best2019.club:8080/ben22/ben22/3373
+#EXTINF:-1,ES: Mega HD
+http://client-best2019.club:8080/ben22/ben22/2217
+#EXTINF:-1,ES: MEZZO LIVE HD
+http://client-best2019.club:8080/ben22/ben22/8205
+#EXTINF:-1,ES: MTV Spana
+http://client-best2019.club:8080/ben22/ben22/2213
+#EXTINF:-1,ES: Multideporte
+http://client-best2019.club:8080/ben22/ben22/12629
+#EXTINF:-1,ES: Multideporte 1
+http://client-best2019.club:8080/ben22/ben22/23087
+#EXTINF:-1,ES: Multideporte 2
+http://client-best2019.club:8080/ben22/ben22/23086
+#EXTINF:-1,ES: Multideporte 3
+http://client-best2019.club:8080/ben22/ben22/23085
+#EXTINF:-1,ES: Multideporte 4
+http://client-best2019.club:8080/ben22/ben22/23084
+#EXTINF:-1,ES: Multideporte 5
+http://client-best2019.club:8080/ben22/ben22/23083
+#EXTINF:-1,ES: Multideporte 6
+http://client-best2019.club:8080/ben22/ben22/23082
+#EXTINF:-1,ES: Multideporte 7
+http://client-best2019.club:8080/ben22/ben22/23081
+#EXTINF:-1,ES: Multideporte 8
+http://client-best2019.club:8080/ben22/ben22/23080
+#EXTINF:-1,ES: Nat Geo
+http://client-best2019.club:8080/ben22/ben22/1101
+#EXTINF:-1,ES: Nat Geo Wild
+http://client-best2019.club:8080/ben22/ben22/626
+#EXTINF:-1,ES: NAT GEO WILD FHD
+http://client-best2019.club:8080/ben22/ben22/23030
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://client-best2019.club:8080/ben22/ben22/3389
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FHD
+http://client-best2019.club:8080/ben22/ben22/23029
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+http://client-best2019.club:8080/ben22/ben22/3375
+#EXTINF:-1,ES: NEOX HD
+http://client-best2019.club:8080/ben22/ben22/2216
+#EXTINF:-1,ES: Nick Jr
+http://client-best2019.club:8080/ben22/ben22/12635
+#EXTINF:-1,ES: NICKELODEON FHD
+http://client-best2019.club:8080/ben22/ben22/23028
+#EXTINF:-1,ES: NICKELODEON HD
+http://client-best2019.club:8080/ben22/ben22/6817
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://client-best2019.club:8080/ben22/ben22/8207
+#EXTINF:-1,ES: NOVA
+http://client-best2019.club:8080/ben22/ben22/2214
+#EXTINF:-1,ES: Odisea
+http://client-best2019.club:8080/ben22/ben22/2631
+#EXTINF:-1,ES: Orbe 21
+http://client-best2019.club:8080/ben22/ben22/2215
+#EXTINF:-1,ES: Panda
+http://client-best2019.club:8080/ben22/ben22/23019
+#EXTINF:-1,ES: Paramount
+http://client-best2019.club:8080/ben22/ben22/2642
+#EXTINF:-1,ES: RealMadrid TV
+http://client-best2019.club:8080/ben22/ben22/632
+#EXTINF:-1,ES: Realmadrid TV FHD
+http://client-best2019.club:8080/ben22/ben22/22796
+#EXTINF:-1,ES: Realmadrid TV ( English )
+http://client-best2019.club:8080/ben22/ben22/30051
+#EXTINF:-1,ES: RTVC
+http://client-best2019.club:8080/ben22/ben22/17206
+#EXTINF:-1,ES: Sundance TV
+http://client-best2019.club:8080/ben22/ben22/12641
+#EXTINF:-1,ES: Sundance TV FHD
+http://client-best2019.club:8080/ben22/ben22/23027
+#EXTINF:-1,ES: SYFY
+http://client-best2019.club:8080/ben22/ben22/2639
+#EXTINF:-1,ES: SYFY FHD
+http://client-best2019.club:8080/ben22/ben22/23026
+#EXTINF:-1,ES: SYFY HD
+http://client-best2019.club:8080/ben22/ben22/6814
+#EXTINF:-1,ES: TCM FHD
+http://client-best2019.club:8080/ben22/ben22/23021
+#EXTINF:-1,ES: TCM HD
+http://client-best2019.club:8080/ben22/ben22/3370
+#EXTINF:-1,ES: Telecinco
+http://client-best2019.club:8080/ben22/ben22/624
+#EXTINF:-1,ES: Teledeporte
+http://client-best2019.club:8080/ben22/ben22/1089
+#EXTINF:-1,ES: RTVCE Ceuta
+http://client-best2019.club:8080/ben22/ben22/23024
+#EXTINF:-1,ES: Ten
+http://client-best2019.club:8080/ben22/ben22/12639
+#EXTINF:-1,ES: TNT
+http://client-best2019.club:8080/ben22/ben22/2634
+#EXTINF:-1,ES: TOROS FHD
+http://client-best2019.club:8080/ben22/ben22/23079
+#EXTINF:-1,ES: TOROS HD
+http://client-best2019.club:8080/ben22/ben22/6816
+#EXTINF:-1,ES: Torros
+http://client-best2019.club:8080/ben22/ben22/1092
+#EXTINF:-1,ES: CANAL MALGA
+http://client-best2019.club:8080/ben22/ben22/23063
+#EXTINF:-1,ES: TV Galicia
+http://client-best2019.club:8080/ben22/ben22/1429
+#EXTINF:-1,ES: TV3 Cataluña FHD
+http://client-best2019.club:8080/ben22/ben22/23062
+#EXTINF:-1,ES: TV3 HD
+http://client-best2019.club:8080/ben22/ben22/2210
+#EXTINF:-1,ES: VIAJAR FHD
+http://client-best2019.club:8080/ben22/ben22/23078
+#EXTINF:-1,ES: VIAJAR HD
+http://client-best2019.club:8080/ben22/ben22/3390
+#EXTINF:-1,ES: Alquiler 1
+http://client-best2019.club:8080/ben22/ben22/12642
+#EXTINF:-1,ES: Alquiler 2
+http://client-best2019.club:8080/ben22/ben22/12644
+#EXTINF:-1,ES: Alquiler 3
+http://client-best2019.club:8080/ben22/ben22/12645
+#EXTINF:-1,ES: Alquiler 4
+http://client-best2019.club:8080/ben22/ben22/12646
+#EXTINF:-1,ES: Alquiler 5
+http://client-best2019.club:8080/ben22/ben22/12647
+#EXTINF:-1,ES: Alquiler 6
+http://client-best2019.club:8080/ben22/ben22/12648
+#EXTINF:-1,ES: Alquiler 7
+http://client-best2019.club:8080/ben22/ben22/12649
+#EXTINF:-1,ES: Alquiler 8
+http://client-best2019.club:8080/ben22/ben22/12650
+#EXTINF:-1,ES: Alquiler 9
+http://client-best2019.club:8080/ben22/ben22/12651
+#EXTINF:-1,ES: Alquiler 10
+http://client-best2019.club:8080/ben22/ben22/12643
